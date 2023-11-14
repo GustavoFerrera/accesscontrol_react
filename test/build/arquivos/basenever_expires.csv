@@ -1,0 +1,593 @@
+cn,sAMAccountName,accountexpires,description
+Administrator,Administrator,1601-01-01 00:00:00+00:00,Built-in account for administering the computer/domain
+Luciano Araujo de Souza - AD,luciano.souzaad,9999-12-31 23:59:59.999999+00:00,
+Marcio Brinatti,marcio.brinatti,9999-12-31 23:59:59.999999+00:00,Infraestrutura
+Amanda Beserra dos Santos,amanda.bsantos,9999-12-31 23:59:59.999999+00:00,Compras
+Priscilla Goncalves Moreira,priscilla.moreira,9999-12-31 23:59:59.999999+00:00,Compras
+Fernando Spigolon,fernando.spigolon,9999-12-31 23:59:59.999999+00:00,Sistemas
+Vagner dos Santos de Almeida,vagner.almeida,9999-12-31 23:59:59.999999+00:00,Cpd
+Tamyres Yoshe Pamplona Koyanagui,tamyres.koyanagui,9999-12-31 23:59:59.999999+00:00,Opera��o
+Alessi Gomes da Silva Pinto,alessi.pinto,9999-12-31 23:59:59.999999+00:00,Opera��o
+Daniel Geraldo de Oliveira,daniel.oliveira,9999-12-31 23:59:59.999999+00:00,Pendencia
+Eliane Regina da Costa Fernandes,eliane.fernandes,9999-12-31 23:59:59.999999+00:00,Adm
+Glauceli Alves da Silva,glauceli.silva,9999-12-31 23:59:59.999999+00:00,Adm
+Jasson Ricardo da Victoria Pereira,jasson.pereira,9999-12-31 23:59:59.999999+00:00,Opera��o
+Josenildo Lima Rodrigues,josenildo.rodrigues,9999-12-31 23:59:59.999999+00:00,Adm
+Leandro Reis Alves de Oliveira,leandro.oliveira,9999-12-31 23:59:59.999999+00:00,Adm
+Lucas Santos Reis,lucas.reis,9999-12-31 23:59:59.999999+00:00,Adm
+Carlos Eduardo Ferreira Barbosa,carlos.ebarbosa,9999-12-31 23:59:59.999999+00:00,Opera��o
+Hugo Luchiari Neto,hugo.luchiari,9999-12-31 23:59:59.999999+00:00,Opera��o
+Joao Seraphin,joao.seraphin,9999-12-31 23:59:59.999999+00:00,Opera��o
+Sandra Maria D D Luchiari Caixeta,sandra.caixeta,9999-12-31 23:59:59.999999+00:00,Farma
+Fabio de Freitas Coradi,fabio.coradi,9999-12-31 23:59:59.999999+00:00,Adm
+Erika Aparecida de Oliveira,erika.oliveira,9999-12-31 23:59:59.999999+00:00,Adm
+Sergio Cristiano de Almeida,sergio.almeida,9999-12-31 23:59:59.999999+00:00,Adm
+Carlos Roberto da Cruz,carlos.cruz,9999-12-31 23:59:59.999999+00:00,Distribui��o
+Laert Aparecido Veronezi,laert.veronezi,9999-12-31 23:59:59.999999+00:00,Distribui��o
+Anderson Perpetuo Matturo,anderson.matturo,9999-12-31 23:59:59.999999+00:00,Farma
+Vinicius Diogo da Silva Fernandes,vinicius.fernandes,9999-12-31 23:59:59.999999+00:00,Coleta
+Claudinei Branquini,claudinei.branquini,9999-12-31 23:59:59.999999+00:00,Distribui��o
+Ana Marta Pontes Vasc Mend,ana.mendes,9999-12-31 23:59:59.999999+00:00,Comercial
+Camila Cristiano Amaral,camila.amaral,9999-12-31 23:59:59.999999+00:00,Distribui��o
+Daniela Pereira Nunes Santos,daniela.santos,9999-12-31 23:59:59.999999+00:00,Distribui��o
+Gabriel Marcos Crisostomo,gabriel.crisostomo,9999-12-31 23:59:59.999999+00:00,Transfer�ncia
+Henrique Eduardo Alves Resende,henrique.resende,9999-12-31 23:59:59.999999+00:00,Distribui��o
+Isabel Cristina Rodrigues Oliveira,isabel.oliveira,9999-12-31 23:59:59.999999+00:00,Farma
+Nayara Fernanda Claudina Batista,nayara.batista,9999-12-31 23:59:59.999999+00:00,Distribui��o
+Raphael Rodolphe Ferreira Jove,raphael.jove,9999-12-31 23:59:59.999999+00:00,Adm
+Sergio Santos Pimentel,sergio.pimentel,9999-12-31 23:59:59.999999+00:00,Distribui��o
+Sandro da Silva Seghetto,sandro.seghetto,9999-12-31 23:59:59.999999+00:00,Adm
+Ana Paula de Freitas Melo,ana.pmelo,9999-12-31 23:59:59.999999+00:00,Adm
+Ana Paula Silva de Melo,ana.melo,9999-12-31 23:59:59.999999+00:00,Acr
+Sergio Rafael Staricco Laventure,sergio.laventure,9999-12-31 23:59:59.999999+00:00,Coleta
+David Danilo Fernandes,david.fernandes,9999-12-31 23:59:59.999999+00:00,Adm
+Gilian Graziele Tomporoski,gilian.tomporoski,9999-12-31 23:59:59.999999+00:00,Farma
+Henrique Gregorio Camargo,henrique.camargo,9999-12-31 23:59:59.999999+00:00,Distribui��o
+Matheus Pinheiro dos Santos,matheus.santos,9999-12-31 23:59:59.999999+00:00,Adm
+Edjane Dias Silva,edjane.silva,9999-12-31 23:59:59.999999+00:00,Dell
+Andressa Guimaraes Prochnau,andressa.prochnau,9999-12-31 23:59:59.999999+00:00,Adm
+Dacksani de Almeida Silva,dacksani.silva,9999-12-31 23:59:59.999999+00:00,Comercial
+Giordani Medeiros Zanela,giordani.zanela,9999-12-31 23:59:59.999999+00:00,Acr
+Maiquel Fabiano Cesar Cordova,maiquel.cordova,9999-12-31 23:59:59.999999+00:00,Distribui��o
+Gean Carlos Dantas Goncalves,gean.goncalves,9999-12-31 23:59:59.999999+00:00,Adm
+Paulo Henrique Loiola Barros,paulo.barros,9999-12-31 23:59:59.999999+00:00,Pend�ncia
+Adriano Jose Christie Helmer,adriano.helmer,9999-12-31 23:59:59.999999+00:00,Acr
+Hercules Gomes Moreira,hercules.moreira,9999-12-31 23:59:59.999999+00:00,Coleta
+Karollainy Pereira de Oliveira,karollainy.oliveira,9999-12-31 23:59:59.999999+00:00,Adm
+Maria Teresa Vieira de Andrade,maria.andrade,9999-12-31 23:59:59.999999+00:00,Farma
+Backup Historico TA,backup.ta,9999-12-31 23:59:59.999999+00:00,Infra
+Antonio Souza dos Santos,antonio.santos,9999-12-31 23:59:59.999999+00:00,Transfer�ncia
+Azamor da Silva e Souza Neto,azamor.souza,9999-12-31 23:59:59.999999+00:00,Distribui��o
+Carlos Willian Inomata da Conceicao,carlos.conceicao,9999-12-31 23:59:59.999999+00:00,Adm
+Josiane Rocha De Souza,josiane.souza,9999-12-31 23:59:59.999999+00:00,Adm
+Rozicley Aragao Ribeiro,rozicley.ribeiro,9999-12-31 23:59:59.999999+00:00,Transfer�ncia
+Socorro Fatima Dutra Rodrigues,socorro.rodrigues,9999-12-31 23:59:59.999999+00:00,Adm
+Alef Feleol da Silva,alef.silva,9999-12-31 23:59:59.999999+00:00,Adm
+Italo Rodrigo Monteiro Ferreira,italo.ferreira,9999-12-31 23:59:59.999999+00:00,Transfer�ncia
+Ivanilson dos Santos,ivanilson.santos,9999-12-31 23:59:59.999999+00:00,Adm
+Jackson Moura da Costa,jackson.costa,9999-12-31 23:59:59.999999+00:00,Transfer�ncia
+Klayre Nonata Rocha Gomes,klayre.gomes,9999-12-31 23:59:59.999999+00:00,Farma
+Lucas Albano Campos de Oliveira,lucas.aoliveira,9999-12-31 23:59:59.999999+00:00,Transfer�ncia
+Arnaldo Viveiros de Carvalho,arnaldo.carvalho,9999-12-31 23:59:59.999999+00:00,Comercial
+Bruno de Souza Dantas,bruno.dantas,9999-12-31 23:59:59.999999+00:00,Distribui��o
+David Mendes Cavalcante,david.cavalcante,9999-12-31 23:59:59.999999+00:00,Coleta
+Erico de Lucena,erico.lucena,9999-12-31 23:59:59.999999+00:00,Apple
+Gilmar de Lima Dias,gilmar.dias,9999-12-31 23:59:59.999999+00:00,Adm
+Gustavo Henrique de Melo Rodrigues,gustavo.rodrigues,9999-12-31 23:59:59.999999+00:00,Torre de Controle
+Jose Francisco dos Santos Neto,jose.fsantos,9999-12-31 23:59:59.999999+00:00,Apple
+Luana Feitosa da Silva Souza,luana.souza,9999-12-31 23:59:59.999999+00:00,Torre de Controle
+Nicielma Barbosa de Sousa,nicielma.sousa,9999-12-31 23:59:59.999999+00:00,Torre de Controle
+Paulo Henrique do Nascimento,paulo.hnascimento,9999-12-31 23:59:59.999999+00:00,Coleta
+Raquel Santos Lima,raquel.lima,9999-12-31 23:59:59.999999+00:00,Conta Nominal
+Rosemeire Herrera,rosemeire.herrera,9999-12-31 23:59:59.999999+00:00,Torre de Controle
+Tamires Viana da Silva,tamires.vsilva,9999-12-31 23:59:59.999999+00:00,Coleta
+Valdeilson Adelson de Sousa,valdeilson.sousa,9999-12-31 23:59:59.999999+00:00,Apple
+Jackson Pereira dos Santos,jackson.santos,9999-12-31 23:59:59.999999+00:00,Opera��o
+Leonilda Jovelina Aguiar Oliveira,leonilda.oliveira,9999-12-31 23:59:59.999999+00:00,Farma
+Erika de Lima Silva Lago,erika.lago,9999-12-31 23:59:59.999999+00:00,Monsoy
+Marcos Antonio Mosca,marcos.mosca,9999-12-31 23:59:59.999999+00:00,Monsoy
+Samara Rodrigues dos Santos,samara.santos,9999-12-31 23:59:59.999999+00:00,Monsoy
+Jose Soares Silva Neto,jose.ssilva,9999-12-31 23:59:59.999999+00:00,Monsoy
+Bruna Isabele de Lima Muniz,bruna.muniz,9999-12-31 23:59:59.999999+00:00,Opera��o
+Lilliane Patricia Silva Barros Santos,lilliane.santos,9999-12-31 23:59:59.999999+00:00,Rh
+Antonio Carlos Martins,antonio.martins,9999-12-31 23:59:59.999999+00:00,Monsoy
+Bruna Aparecida Antualpa Venturato,bruna.venturato,9999-12-31 23:59:59.999999+00:00,Controle e Inventario
+Gabriel Carrenho Diniz,gabriel.diniz,9999-12-31 23:59:59.999999+00:00,Starrett
+Jean Carlos Vieira de Araujo,jean.araujo,9999-12-31 23:59:59.999999+00:00,Henkel
+Marcio Rondina,marcio.rondina,9999-12-31 23:59:59.999999+00:00,Starrett
+Tatiane Bispo de Oliveira Balestra,tatiane.balestra,9999-12-31 23:59:59.999999+00:00,Monsoy
+Daiane Vicente Laureano,daiane.laureano,9999-12-31 23:59:59.999999+00:00,Comercial
+Fabiana Oliveira Loro,fabiana.loro,9999-12-31 23:59:59.999999+00:00,Comercial
+Bruna Fernanda Batista,bruna.batista,9999-12-31 23:59:59.999999+00:00,Backoffice
+Ana Paula Eleuterio Rodrigues,ana.rodrigues,9999-12-31 23:59:59.999999+00:00,Comercial
+Dionatas de Sousa,dionatas.sousa,9999-12-31 23:59:59.999999+00:00,Comprovantes
+Luis Guilherme Capeleti,luis.capeleti,9999-12-31 23:59:59.999999+00:00,Comprovantes
+Rogerio Machado Oliveira,rogerio.oliveira,9999-12-31 23:59:59.999999+00:00,Contabilidade
+Cristiane Marques Guimaraes,cristiane.guimaraes,9999-12-31 23:59:59.999999+00:00,Contas e Receber
+Bruno Rodrigo de Lima,bruno.lima,9999-12-31 23:59:59.999999+00:00,Backoffice
+Crislaine Renata Ruano Neves,crislaine.neves,9999-12-31 23:59:59.999999+00:00,Backoffice
+Ricardo da Silva Coltro,ricardo.coltro,9999-12-31 23:59:59.999999+00:00,Tat
+Sallu Altieres Frizoni,sallu.frizoni,9999-12-31 23:59:59.999999+00:00,Sistemas
+Anamaria Barbosa Rosa,anamaria.rosa,9999-12-31 23:59:59.999999+00:00,Sistemas
+Artur Luis de Andrade,artur.andrade,9999-12-31 23:59:59.999999+00:00,Sistemas
+Mirian Oliveira Penteado Pantaleao,mirian.pantaleao,9999-12-31 23:59:59.999999+00:00,Sistemas
+Paulo de Freitas Alves,paulo.alves,9999-12-31 23:59:59.999999+00:00,Sistemas
+Vagner Alves Leite,vagner.leite.ps,9999-12-31 23:59:59.999999+00:00,Sistemas
+Bruno Duarte Camilo da Conceicao,bruno.conceicao,9999-12-31 23:59:59.999999+00:00,Seguran�a do Trabalho
+Ewerton Castro de Souza,ewerton.souza,9999-12-31 23:59:59.999999+00:00,Transfer�ncia
+Filippe de Paula Rodrigues,filippe.rodrigues,9999-12-31 23:59:59.999999+00:00,Acr
+Franyer Jose Olmos Lozada,franyer.lozada,9999-12-31 23:59:59.999999+00:00,Adm
+Genivaldo Santos da Rocha,genivaldo.rocha,9999-12-31 23:59:59.999999+00:00,Coleta
+Jonas Silva de Freitas,jonas.freitas,9999-12-31 23:59:59.999999+00:00,Transfer�ncia
+Josemir Rodrigues Bezerra,josemir.bezerra,9999-12-31 23:59:59.999999+00:00,Transfer�ncia
+Rudney da Silva,rudney.silva,9999-12-31 23:59:59.999999+00:00,Coleta
+Wellington Capella Aroucha,wellington.aroucha,9999-12-31 23:59:59.999999+00:00,Acr
+Antonio Evaldo Viana Silva,antonio.silva,9999-12-31 23:59:59.999999+00:00,Transfer�ncia
+Felipe de Jesus Santos,felipe.santos,9999-12-31 23:59:59.999999+00:00,Got
+Ulisses Francisco Marques,ulisses.marques,9999-12-31 23:59:59.999999+00:00,Adm
+Alvaro Antonio dos Reis Garcia,alvaro.garcia,9999-12-31 23:59:59.999999+00:00,Dell
+Ana Paula Aparecida Leme Orsetti,paula.orsetti,9999-12-31 23:59:59.999999+00:00,Comercial
+Andrea Rodrigues Coutinho,andrea.coutinho,9999-12-31 23:59:59.999999+00:00,Coleta
+Arnaldo Jose Ferreira da Silva,arnaldo.silva,9999-12-31 23:59:59.999999+00:00,Manuten��o
+Camila Oliveira Vieira,camila.vieira,9999-12-31 23:59:59.999999+00:00,Atendimento ao Cliente
+Cristian Joe Santana,cristian.santana,9999-12-31 23:59:59.999999+00:00,Cpd
+_disabled - Edilson Antonio Bertella - 0104,edilson.bertella,9999-12-31 23:59:59.999999+00:00,Adm
+Ezequiel Lima,ezequiel.lima,9999-12-31 23:59:59.999999+00:00,Distribui��o
+Gilberto Henrique Junior,gilberto.henrique,9999-12-31 23:59:59.999999+00:00,Distribui��o
+Gilson de Paula Macedo do Carmo,gilson.carmo,9999-12-31 23:59:59.999999+00:00,Dell
+Jose Augusto Martins Santos,jose.asantos,9999-12-31 23:59:59.999999+00:00,Dell
+Juari Sobrinho Batista,juari.batista,9999-12-31 23:59:59.999999+00:00,Cpd
+Luis Henrique Bertuzzo,luis.bertuzzo,9999-12-31 23:59:59.999999+00:00,Cpd
+Michelle Cristina do Amaral,michelle.amaral,9999-12-31 23:59:59.999999+00:00,Adm
+Neiton Santos Pereira,028387,9999-12-31 23:59:59.999999+00:00,Conta Nominal
+Rodrigo dos Passos Loponi,rodrigo.loponi,9999-12-31 23:59:59.999999+00:00,Transfer�ncia
+Samuel Caetano dos Santos,samuel.santos,9999-12-31 23:59:59.999999+00:00,Transfer�ncia
+Silvia Lopes,silvia.lopes,9999-12-31 23:59:59.999999+00:00,Dppi
+Tania Valeria Costa Aleixo,tania.aleixo,9999-12-31 23:59:59.999999+00:00,Farma
+Vagner Eli Ferreira,vagner.ferreira,9999-12-31 23:59:59.999999+00:00,Got
+Valdessi de Amorim Coelho,valdessi.coelho,9999-12-31 23:59:59.999999+00:00,Adm
+Vanessa Torris Rodrigues,vanessa.rodrigues,9999-12-31 23:59:59.999999+00:00,Dppi
+Verinaldo de Sousa,verinaldo.sousa,9999-12-31 23:59:59.999999+00:00,Cpd
+Vinicius Alex de Nobre Ferreira,vinicius.nferreira,9999-12-31 23:59:59.999999+00:00,Dell
+Alexandre de Brito Alves,alexandre.alves,9999-12-31 23:59:59.999999+00:00,Coleta
+Alexandro Okamura,alexandro.okamura,9999-12-31 23:59:59.999999+00:00,Coleta
+Allan Magalhaes Santos,allan.santos,9999-12-31 23:59:59.999999+00:00,Torre de Controle
+Ana Beatriz Camilo Souza,ana.souza,9999-12-31 23:59:59.999999+00:00,Comercial
+Carlos Eduardo Silva Sampaio,carlos.sampaio,9999-12-31 23:59:59.999999+00:00,Adm
+Daniela Venerozo,daniela.venerozo,9999-12-31 23:59:59.999999+00:00,Comercial
+Douglas Amaro,douglas.amaro,9999-12-31 23:59:59.999999+00:00,Farma
+Edson Hideo Mizokami,edson.mizokami,9999-12-31 23:59:59.999999+00:00,Cpd
+Elias Nunes Araujo,elias.araujo,9999-12-31 23:59:59.999999+00:00,Distribui��o
+Emilio Augusto Marcondes de Mattos,emilio.mattos,9999-12-31 23:59:59.999999+00:00,Seguran�a do Trabalho
+Evelyn Martins,evelyn.martins,9999-12-31 23:59:59.999999+00:00,Comercial
+Fabio Luiz Moreira da Silva,fabio.silva,9999-12-31 23:59:59.999999+00:00,Distribui��o
+Felipe Verissimo Barbosa,felipe.barbosa,9999-12-31 23:59:59.999999+00:00,Transfer�ncia
+Gabriel Micheletti,gabriel.micheletti,9999-12-31 23:59:59.999999+00:00,Adm
+Giovanni Andrade,giovanni.andrade,9999-12-31 23:59:59.999999+00:00,Pendecia
+Israel Silva Alves,israel.alves,9999-12-31 23:59:59.999999+00:00,Hp
+Jefferson Marcos Silva,jefferson.silva,9999-12-31 23:59:59.999999+00:00,B2c
+Joao Emmanuel Barbosa da Silva,joao.silva,9999-12-31 23:59:59.999999+00:00,Cpd
+Joao Henrique Pereira dos Santos,joao.santos,9999-12-31 23:59:59.999999+00:00,Acr
+Laercio Azevedo de Carvalho,laercio.carvalho,9999-12-31 23:59:59.999999+00:00,Manuten��o
+Leandro de Souza Sobrinho,leandro.lsouza,9999-12-31 23:59:59.999999+00:00,Torre de Controle
+Maira Silva de Jesus,maira.jesus,9999-12-31 23:59:59.999999+00:00,Adm
+Miria Helena de Oliveira Gomes,miria.gomes,9999-12-31 23:59:59.999999+00:00,Acr
+Pablo Luan Dos Santos Silva,pablo.silva,9999-12-31 23:59:59.999999+00:00,Cpd
+Rafaela do Carmo Souza,rafaela.souza,9999-12-31 23:59:59.999999+00:00,Comercial
+Ricardo Santos Silva Chimenes,ricardo.chimenes,9999-12-31 23:59:59.999999+00:00,Coleta
+Roberto Massatoshi Imada Takahashi,roberto.takahashi,9999-12-31 23:59:59.999999+00:00,Cpd
+Rogerio Rocha Teixeira,rogerio.teixeira,9999-12-31 23:59:59.999999+00:00,Transfer�ncia
+Salviano Vieira Neto,salviano.vieira,9999-12-31 23:59:59.999999+00:00,Comercial
+Simone Aparecida B Almeida Ferreira,simone.ferreira,9999-12-31 23:59:59.999999+00:00,Coleta
+Thais Santos da Costa Ribeiro,thais.ribeiro,9999-12-31 23:59:59.999999+00:00,Cpd
+_disabled - Vagner Roberto Tavares Costa 0104,vagner.costa,9999-12-31 23:59:59.999999+00:00,Adm
+Vitoria Cristina Silva da Rocha,vitoria.rocha,9999-12-31 23:59:59.999999+00:00,Acr
+_disabled - Wagner Cesar Mantoni - 0104,wagner.mantoni,9999-12-31 23:59:59.999999+00:00,Torre de Controle
+William Andrade de Sa,william.sa,9999-12-31 23:59:59.999999+00:00,Coleta
+Yuri Alcantara,yuri.alcantara,9999-12-31 23:59:59.999999+00:00,Coleta
+Apu Comercial,apu.comercial,9999-12-31 23:59:59.999999+00:00,Comercial
+Apu Filial,apu.filial,9999-12-31 23:59:59.999999+00:00,Filial
+Apu Gerencia,apu.gerencia,9999-12-31 23:59:59.999999+00:00,Gerencia
+Bgu Filial,bgu.filial,9999-12-31 23:59:59.999999+00:00,Filial
+Bgu Gerencia,bgu.gerencia,9999-12-31 23:59:59.999999+00:00,Gerencia
+Bma Comercial,bma.comercial,9999-12-31 23:59:59.999999+00:00,Comercial
+Bma Filial,bma.filial,9999-12-31 23:59:59.999999+00:00,Filial
+Bma Gerencia,bma.gerencia,9999-12-31 23:59:59.999999+00:00,Gerencia
+Cac Comercial,cac.comercial,9999-12-31 23:59:59.999999+00:00,Comercial
+Cac Filial,cac.filial,9999-12-31 23:59:59.999999+00:00,Filial
+Cac Gerencia,cac.gerencia,9999-12-31 23:59:59.999999+00:00,Gerencia
+Ccm Gerencia,ccm.gerencia,9999-12-31 23:59:59.999999+00:00,Gerencia
+Csu Comercial,csu.comercial,9999-12-31 23:59:59.999999+00:00,Comercial
+Csu Erefilial,csu.erefilial,9999-12-31 23:59:59.999999+00:00,Erefilial
+Csu Gerencia,csu.gerencia,9999-12-31 23:59:59.999999+00:00,Gerencia
+Cxj Comercial,cxj.comercial,9999-12-31 23:59:59.999999+00:00,Comercial
+Cxj Filial,cxj.filial,9999-12-31 23:59:59.999999+00:00,Filial
+Cxj Gerencia,cxj.gerencia,9999-12-31 23:59:59.999999+00:00,Gerencia
+Cxj Tramontina,cxj.tramontina,9999-12-31 23:59:59.999999+00:00,Tramontina
+Diq Gerencia,diq.gerencia,9999-12-31 23:59:59.999999+00:00,Gerencia
+Gvr Comercial,gvr.comercial,9999-12-31 23:59:59.999999+00:00,Comercial
+Gvr Filial,gvr.filial,9999-12-31 23:59:59.999999+00:00,Filial
+Gvr Gerencia,gvr.gerencia,9999-12-31 23:59:59.999999+00:00,Gerencia
+Ldb Adm,ldb.adm,9999-12-31 23:59:59.999999+00:00,Adm
+Ldb Filial,ldb.filial,9999-12-31 23:59:59.999999+00:00,Filial
+Ldb Gerencia,ldb.gerencia,9999-12-31 23:59:59.999999+00:00,Gerencia
+Mgf Comercial,mgf.comercial,9999-12-31 23:59:59.999999+00:00,Comercial
+Mgf Filial,mgf.filial,9999-12-31 23:59:59.999999+00:00,Filial
+Mgf Gerencia,mgf.gerencia,9999-12-31 23:59:59.999999+00:00,Gerencia
+Moc Comercial,moc.comercial,9999-12-31 23:59:59.999999+00:00,Comercial
+Moc Gerencia,moc.gerencia,9999-12-31 23:59:59.999999+00:00,Gerencia
+Nof Comercial,nof.comercial,9999-12-31 23:59:59.999999+00:00,Comercial
+Nof Filial,nof.filial,9999-12-31 23:59:59.999999+00:00,Filial
+Nof Gerencia,nof.gerencia,9999-12-31 23:59:59.999999+00:00,Gerencia
+Pge Gerencia,pge.gerencia,9999-12-31 23:59:59.999999+00:00,Gerencia
+Ppy Comercial,ppy.comercial,9999-12-31 23:59:59.999999+00:00,Comercial
+Ppy Gerencia,ppy.gerencia,9999-12-31 23:59:59.999999+00:00,Gerencia
+Sjk Comercial,sjk.comercial,9999-12-31 23:59:59.999999+00:00,Comercial
+Sjk Gerencia,sjk.gerencia,9999-12-31 23:59:59.999999+00:00,Gerencia
+Tfl Gerencia,tfl.gerencia,9999-12-31 23:59:59.999999+00:00,Gerencia
+Udi Filial,udi.filial,9999-12-31 23:59:59.999999+00:00,Filial
+Udi Gerencia,udi.gerencia,9999-12-31 23:59:59.999999+00:00,Gerencia
+Aline Aparecida Cavalari,aline.cavalari,9999-12-31 23:59:59.999999+00:00,Qualidade
+Jdf Comercial,jdf.comercial,9999-12-31 23:59:59.999999+00:00,Comercial
+Jdf Gerencia,jdf.gerencia,9999-12-31 23:59:59.999999+00:00,Gerencia
+Ademar Azevedo das Chagas Filho,ademar.chagas,9999-12-31 23:59:59.999999+00:00,Coleta
+Amr Portaria,amr.portaria,9999-12-31 23:59:59.999999+00:00,Portaria
+Amr Telefonista,amr.telefonista,9999-12-31 23:59:59.999999+00:00,Telefonista
+Bnu Portaria,bnu.portaria,9999-12-31 23:59:59.999999+00:00,Portaria
+Cpq Portaria,cpq.portaria,9999-12-31 23:59:59.999999+00:00,Portaria
+Cpq Dpaschoal,dpaschoal.cpq,9999-12-31 23:59:59.999999+00:00,Manuten��o
+Cwb Acr,cwb.acr,9999-12-31 23:59:59.999999+00:00,Acr
+Cwb Filial,cwb.filial,9999-12-31 23:59:59.999999+00:00,Adm
+Cwb Portaria,cwb.portaria,9999-12-31 23:59:59.999999+00:00,Portaria
+Edi Recebe,edi.recebe,9999-12-31 23:59:59.999999+00:00,Conta de Servi�os Arquivos Edi
+Emissao Protheusta,emissaoprotheusta,9999-12-31 23:59:59.999999+00:00,Conta de Servi�os Protheus
+Falecom Ta,falecom,9999-12-31 23:59:59.999999+00:00,Conta de Servi�os
+Lider Skymark,lider.skymark,9999-12-31 23:59:59.999999+00:00,Rastreamento
+Luiz Eduardo Marrey Moncau,luiz.moncau,9999-12-31 23:59:59.999999+00:00,Acr
+Nfe Armazena,nfe.armazena,9999-12-31 23:59:59.999999+00:00,Conta de Servi�os Recebimento Nfs
+Nfe Ta,nfe.ta,9999-12-31 23:59:59.999999+00:00,Conta de Servi�os Recebimento Nfs
+Nfe Nfe,nfeta,9999-12-31 23:59:59.999999+00:00,Conta de Servi�os Recebimento Nfs
+Bhz Portaria,bhz.portaria,9999-12-31 23:59:59.999999+00:00,Portaria
+Rao Coleta,rao.coleta,9999-12-31 23:59:59.999999+00:00,Coleta
+Rastread Rastread,rastread,9999-12-31 23:59:59.999999+00:00,Rastreamento
+Rio Portaria,rio.portaria,9999-12-31 23:59:59.999999+00:00,Portaria
+Ta Fresenius,ta.fresenius,9999-12-31 23:59:59.999999+00:00,Conta de Servi�os Recebimento Nfs
+Ta Treinamento,ta.treinamento,9999-12-31 23:59:59.999999+00:00,Conta de Servi�os Treinamento
+Ta Ta,ta,9999-12-31 23:59:59.999999+00:00,Conta de Servi�os
+Vix Portaria,vix.portaria,9999-12-31 23:59:59.999999+00:00,Portaria
+ADFS Users,adfs.user,9999-12-31 23:59:59.999999+00:00,
+Teste ADFS,testeadfs,9999-12-31 23:59:59.999999+00:00,
+Romulo Durante - AD,romulo.durante.ps,9999-12-31 23:59:59.999999+00:00,
+Agostinho Alves De Oliveira,agostinho.oliveira,9999-12-31 23:59:59.999999+00:00,Comercial
+Fabiana Martins Lopes da Silva,fabiana.silva,9999-12-31 23:59:59.999999+00:00,Comercial
+Caroline Aparecida Aguiar Lemos,caroline.lemos,9999-12-31 23:59:59.999999+00:00,Contabilidade
+Fabiana Angela Guedes,fabiana.guedes,9999-12-31 23:59:59.999999+00:00,Contabilidade
+Ant�nio do Prado Guimar�es,antonio.guimaraes,9999-12-31 23:59:59.999999+00:00,Contabilidade
+M�rcio Asnal Ribeiro,marcio.ribeiro,9999-12-31 23:59:59.999999+00:00,Comercial
+Marisa Azi Xavier,marisa.xavier,9999-12-31 23:59:59.999999+00:00,Custos
+Mayara Marcia de Lima,mayara.lima,9999-12-31 23:59:59.999999+00:00,Custos
+Viviane Gomes de Oliveira,viviane.oliveira,9999-12-31 23:59:59.999999+00:00,Custos
+Camila Gon�alves Maia da Concei��o,camila.conceicao,9999-12-31 23:59:59.999999+00:00,DP
+Bruna Resende Mendon�a Xavier,bruna.xavier,9999-12-31 23:59:59.999999+00:00,DP
+Ana Paula de Moura Abreu,ana.abreu,9999-12-31 23:59:59.999999+00:00,RH
+Franck de Moura Teixeira,franck.teixeira,9999-12-31 23:59:59.999999+00:00,Custos
+Christiane Pimentel de Jesus,christiane.jesus,9999-12-31 23:59:59.999999+00:00,Cobran�a
+Larissa Rufino dos Santos Silva,larissarsilva,9999-12-31 23:59:59.999999+00:00,Cobran�a
+Mariana Pereira de Oliveira,mariana.oliveira,9999-12-31 23:59:59.999999+00:00,Cobran�a
+Mariluci Soares de Oliveira Ventura,mariluci.ventura,9999-12-31 23:59:59.999999+00:00,Cobran�a
+Monique Azi Xavier,monique.xavier,9999-12-31 23:59:59.999999+00:00,Cobran�a
+Amanda Karolen Messias Lopes,amanda.lopes,9999-12-31 23:59:59.999999+00:00,Recepcao
+Henrique Sim�es Braga Souza,henrique.souza,9999-12-31 23:59:59.999999+00:00,Sistemas
+Thales Henrique Nogueira,thales.nogueira,9999-12-31 23:59:59.999999+00:00,Sistemas
+Wendel D Machado,wendel.machado,9999-12-31 23:59:59.999999+00:00,Custos
+Erika Elaine de Amacena Guimaraes,erika.guimaraes,9999-12-31 23:59:59.999999+00:00,Fiscal
+Grazielle Santos Pessoa,grazielle.pessoa,2021-06-26 03:00:00+00:00,RH
+Pamela Cristina Barbosa dos Santos,pamela.santos,9999-12-31 23:59:59.999999+00:00,Contas a Pagar
+Origenes Armond Junior,origenes.armond,9999-12-31 23:59:59.999999+00:00,Sesmt
+Miriam Monteiro dos Santos,miriam.santos,9999-12-31 23:59:59.999999+00:00,Adm
+Vanessa Daniele Silva,vanessa.silva,9999-12-31 23:59:59.999999+00:00,Adm
+Renata dos Santos Caetano,renata.caetano,9999-12-31 23:59:59.999999+00:00,Comercial
+Denise Franciele Gomes de Sa,denise.sa,9999-12-31 23:59:59.999999+00:00,Adm
+Suzeli Cristina Rita de Almeida,suzeli.almeida,9999-12-31 23:59:59.999999+00:00,Comercial
+Alyne Jhully Rodrigues dos Santos,alyne.santos,9999-12-31 23:59:59.999999+00:00,Adm
+Julio Cesar da Silva,julio.csilva,9999-12-31 23:59:59.999999+00:00,Operacional
+Amanda Espirito Santos de Oliveira,amanda.soliveira,9999-12-31 23:59:59.999999+00:00,Adm
+Gustavo Benevenuto Barroso,gustavo.barroso,9999-12-31 23:59:59.999999+00:00,Comercial
+Juliana Ferreira Nunes,juliana.nunes,9999-12-31 23:59:59.999999+00:00,Adm
+Lorraine Cordeiro Zucolotto,lorraine.zucolotto,9999-12-31 23:59:59.999999+00:00,Adm
+Patricia da Cunha Dias,patricia.dias,9999-12-31 23:59:59.999999+00:00,Comercial
+Elias Moreira dos Santos,elias.santos,9999-12-31 23:59:59.999999+00:00,Operacional
+OTRS,otrs,9999-12-31 23:59:59.999999+00:00,
+Nubia Pereira Lima,nubia.lima,9999-12-31 23:59:59.999999+00:00,Operacional
+Willian Douglas Ferreira Martins,willian.martins,9999-12-31 23:59:59.999999+00:00,Operacional
+Daniela Aparecida De Andrade Silva,daniela.silva,9999-12-31 23:59:59.999999+00:00,Adm
+Adriano de Sousa In�cio,adriano.inacio,9999-12-31 23:59:59.999999+00:00,Operacional
+Jefferson Guimar�es,jefferson.guimaraes,9999-12-31 23:59:59.999999+00:00,Operacional
+Darlan da Silva Zirmermann,darlan.zimermann,9999-12-31 23:59:59.999999+00:00,Operacional
+Maria Luciane Costa,maria.costa,9999-12-31 23:59:59.999999+00:00,Adm
+Sandro Luiz De Oliveira,sandro.oliveira,9999-12-31 23:59:59.999999+00:00,Adm
+Fabiana Silva Rinco Carpanez Freitas,fabiana.freitas,9999-12-31 23:59:59.999999+00:00,Operacional
+Samara da Silva Dias,samara.dias,9999-12-31 23:59:59.999999+00:00,Operacional
+Cristiano Ferreira dos Santos,cristiano.santos,2021-07-01 03:00:00+00:00,Operacional
+Poliana Avila Espindula,poliana.espindula,9999-12-31 23:59:59.999999+00:00,Adm
+Alessandra Maria do Nascimento,alessandra.nasciment,9999-12-31 23:59:59.999999+00:00,Operacional
+Alison Rony Chaves Magalhaes,alison.magalhaes,9999-12-31 23:59:59.999999+00:00,Operacional
+Bruno Sebastiao Sousa dos Santos,bruno.ssantos,9999-12-31 23:59:59.999999+00:00,Pendencia
+Elaine Oliveira dos Santos da Costa,elaine.costa,9999-12-31 23:59:59.999999+00:00,Comercial
+Neiva Maia Nunes Carvalho,neiva.carvalho,9999-12-31 23:59:59.999999+00:00,Comercial
+Roberto Pontes Filho,roberto.pontes,9999-12-31 23:59:59.999999+00:00,Operacional
+Sergio Neres Da Silva Ramos,sergio.ramos,9999-12-31 23:59:59.999999+00:00,Operacional
+Elaine Santos dos Reis,elaine.reis,9999-12-31 23:59:59.999999+00:00,Comercial
+Jessica Almeida Cangirana,jessica.cangirana,9999-12-31 23:59:59.999999+00:00,Comercial
+Silmara Vieira Souza de Jesus,silmara.jesus,9999-12-31 23:59:59.999999+00:00,Comercial
+Antonia Fernanda Zuza da Silva,antonia.silva,9999-12-31 23:59:59.999999+00:00,Adm
+Washington Luiz Claudino,washington.claudino,9999-12-31 23:59:59.999999+00:00,Operacional
+Edilson Andrade Lopes,edilson.lopes,9999-12-31 23:59:59.999999+00:00,Operacional
+Renato da Fonseca Neves,renato.neves,9999-12-31 23:59:59.999999+00:00,Operacional
+Ana Paula da Silva Vieira Miranda,ana.miranda,9999-12-31 23:59:59.999999+00:00,Dgi
+Andrea Alves De Oliveira Souza,andrea.souza,9999-12-31 23:59:59.999999+00:00,Dgi
+Carlos Eduardo Quintino Alvim,carlos.alvim,9999-12-31 23:59:59.999999+00:00,Dgi
+Frederico da Silva Ramos,frederico.ramos,9999-12-31 23:59:59.999999+00:00,Dgi
+Glaucia Mariane Lemos De Andrade,glaucia.andrade,9999-12-31 23:59:59.999999+00:00,Dgi
+Guilmara Los Angeles da Silva,guilmara.silva,9999-12-31 23:59:59.999999+00:00,Dgi
+Kellen Cristina De Andrade,kellen.andrade,9999-12-31 23:59:59.999999+00:00,Dgi
+Grasielle Marques,grasielle.marques,9999-12-31 23:59:59.999999+00:00,Controladoria
+Jessica Rodrigues De Andrade,jessica.andrade,9999-12-31 23:59:59.999999+00:00,Controladoria
+Valteir do Carmo de Araujo,valteir.araujo,9999-12-31 23:59:59.999999+00:00,Sesmt
+Allan Douglas Morais Drumond,allan.drumond,9999-12-31 23:59:59.999999+00:00,Operacional
+Anna Karoline Apa Furtado Oliveira,anna.oliveira,9999-12-31 23:59:59.999999+00:00,Pendencia
+Thaynara Orlando De Almeida Goncalves,thaynara.goncalves,9999-12-31 23:59:59.999999+00:00,Adm
+Osmar Altino de Queiroz,osmar.queiroz,9999-12-31 23:59:59.999999+00:00,Operacional
+Eliandra Silva De Oliveira,eliandra.oliveira,9999-12-31 23:59:59.999999+00:00,Operacional
+Clovis Roberto Reis Da Silva,clovis.silva,9999-12-31 23:59:59.999999+00:00,Operacional
+Jorge Candido Carvalho,jorge.carvalho,9999-12-31 23:59:59.999999+00:00,Operacional
+Gisele Goncalves Geraldo,gisele.geraldo,9999-12-31 23:59:59.999999+00:00,Coleta
+Fernanda Luiza Mendes,fernanda.mendes,9999-12-31 23:59:59.999999+00:00,Dgi
+Esmeraldo Gomes De Oliveira Junior,esmeraldo.oliveira,9999-12-31 23:59:59.999999+00:00,Operacional
+Marco de Souza,marco.souza,9999-12-31 23:59:59.999999+00:00,Operacional
+Marilce de Oliveira Mello,marilce.mello,9999-12-31 23:59:59.999999+00:00,Operacional
+Michael Henrique Periard de Oliveira,michael.oliveira,9999-12-31 23:59:59.999999+00:00,Operacional
+Izabela Vieira dos Santos,izabela.santos,9999-12-31 23:59:59.999999+00:00,Sac
+Rayane Aparecida de Souza,rayane.souza,9999-12-31 23:59:59.999999+00:00,
+Lorellay Israel Pereira Silva,lorellay.silva,9999-12-31 23:59:59.999999+00:00,Operacional
+Willian Lacerda Reis,willian.reis,9999-12-31 23:59:59.999999+00:00,Operacional
+Aceite 1 Whirlpool,aceite1,9999-12-31 23:59:59.999999+00:00,
+Aceite 2 Whirlpool,aceite2,9999-12-31 23:59:59.999999+00:00,
+Nfe Direcional,nfe.direcional,9999-12-31 23:59:59.999999+00:00,
+Nfs Direcional,nfs.direcional,9999-12-31 23:59:59.999999+00:00,
+Rh Direcional,rh.direcional,9999-12-31 23:59:59.999999+00:00,
+Contabil Direcional,contabil.dir,9999-12-31 23:59:59.999999+00:00,
+Carlos Antonio Carneiro Lopes,carlos.lopes,9999-12-31 23:59:59.999999+00:00,Diretoria
+Fale Conosco Direcional,faleconosco.direcion,9999-12-31 23:59:59.999999+00:00,
+Eldimar Jose Gomes Vieira,eldimar.vieira,9999-12-31 23:59:59.999999+00:00,Adm
+Nicolas Fernando Assis Barbosa,nicolas.barbosa,9999-12-31 23:59:59.999999+00:00,Adm
+Reinaldo Martins Queiroz,reinaldo.queiroz,9999-12-31 23:59:59.999999+00:00,Operacional
+Kevin Brian Alves Costa,kevin.costa,9999-12-31 23:59:59.999999+00:00,Operacional
+Angelica Angelica Rosa dos Santos,angelica.santos,9999-12-31 23:59:59.999999+00:00,Adm
+Tatiana Cristina de Souza,tatiana.souza,9999-12-31 23:59:59.999999+00:00,Adm
+Tauany Alves Salles de Oliveira,tauany.olilveira,9999-12-31 23:59:59.999999+00:00,Adm
+Cleber Virginio Oliveira,cleber.oliveira,9999-12-31 23:59:59.999999+00:00,Operacional
+Deijair Goncalves Rezende,deijair.rezende,9999-12-31 23:59:59.999999+00:00,Operacional
+Eduardo Brito da Silva,eduardo.bsilva,9999-12-31 23:59:59.999999+00:00,Operacional
+Everaldo Jose Braga,everaldo.braga,9999-12-31 23:59:59.999999+00:00,Operacional
+Joel Pereira De Sousa,joel.psouza,9999-12-31 23:59:59.999999+00:00,Operacional
+Lucas de Oliveira Cardoso,lucas.cardoso,9999-12-31 23:59:59.999999+00:00,Operacional
+Caroline Stefani De Carvalho,caroline.carvalho,9999-12-31 23:59:59.999999+00:00,Operacional
+Edvaldo Henrique Dias,edvaldo.dias,9999-12-31 23:59:59.999999+00:00,Operacional
+Emerson Portes Barra,emerson.barra,9999-12-31 23:59:59.999999+00:00,Operacional
+Lilian Carla de Oliveira Alves,lilian.alves,9999-12-31 23:59:59.999999+00:00,Comercial
+Luiz Gustavo Tomaz,luiz.tomaz,9999-12-31 23:59:59.999999+00:00,Operacional
+Vanderli Antonio de Souza,vanderli.souza,9999-12-31 23:59:59.999999+00:00,Operacional
+Washington Luiz Latuque,washington.latuque,9999-12-31 23:59:59.999999+00:00,Operacional
+Silvana Rodrigues De Morais,silvana.morais,9999-12-31 23:59:59.999999+00:00,Adm
+Luciana Inacio Azevedo dos Santos,luciana.santos.ps,9999-12-31 23:59:59.999999+00:00,
+Edinelson Edinelson Cassiano,edinelson.cassiano.p,9999-12-31 23:59:59.999999+00:00,
+Andre Manoel de Carvalho,andre.carvalho,9999-12-31 23:59:59.999999+00:00,Operacional
+Alexandre Dias Sanches,alexandre.sanches,9999-12-31 23:59:59.999999+00:00,Operacional
+Debora Soares Vieira,debora.vieira,9999-12-31 23:59:59.999999+00:00,Adm
+Pedro Rosa da Silva,pedro.silva.ps,9999-12-31 23:59:59.999999+00:00,Adm
+Suehelen Aguiar de Mello,suehelen.mello,9999-12-31 23:59:59.999999+00:00,Pendencia
+Helpdesk Direcional,helpdesk.direcional,9999-12-31 23:59:59.999999+00:00,
+Edi Direcional,edi.direcional,9999-12-31 23:59:59.999999+00:00,
+Marcus Vinicius Brites da Silva,marcus.bsilva,9999-12-31 23:59:59.999999+00:00,Coleta
+Xml Whirpool,xml.whirpool,9999-12-31 23:59:59.999999+00:00,
+Luiz Ant�nio Santana,luiz.santana.ps,9999-12-31 23:59:59.999999+00:00,
+Alexandro Antonio de Jesus,alexandro.jesus,9999-12-31 23:59:59.999999+00:00,Contas a Pagar
+Comercial OT,comercialot.ps,9999-12-31 23:59:59.999999+00:00,
+Franciele Maria do Carmo Figueiredo,franciele.figueiredo,9999-12-31 23:59:59.999999+00:00,Adm
+William Douglas Silva Dutra,william.dutra,9999-12-31 23:59:59.999999+00:00,Dgi
+Patricia Cristina Vieira,patricia.vieira,9999-12-31 23:59:59.999999+00:00,Adm
+Flaminia Naiara Nunes,flaminia.nunes,9999-12-31 23:59:59.999999+00:00,
+Elisangela Bernardes Morais de Sousa,elisangela.sousa,9999-12-31 23:59:59.999999+00:00,Adm
+Matheus Barbosa Lopes,matheus.lopes,9999-12-31 23:59:59.999999+00:00,Adm
+Flavia Candida de Almeida Oliveira,flavia.oliveira,9999-12-31 23:59:59.999999+00:00,Operacional
+Consultoria SC,consultoriasc.ps,9999-12-31 23:59:59.999999+00:00,Consultoria
+Backup Prime,_backup.prime,9999-12-31 23:59:59.999999+00:00,
+Tatiana Caldas Jacinto Costrov,tatiana.costrov,9999-12-31 23:59:59.999999+00:00,Operacional
+Hellen Souza Queiros,hellen.queirosad,9999-12-31 23:59:59.999999+00:00,
+Danilo Verli de Almeida,danilo.almeida,9999-12-31 23:59:59.999999+00:00,Operacional
+Liliane Cristina dos Santos,liliane.csantos,2021-08-22 03:00:00+00:00,Dgi
+Marcos Vinicius Soares Machado,marcos.machado,9999-12-31 23:59:59.999999+00:00,Operacional
+Marinete Braz de Oliveira,marinete.oliveira,9999-12-31 23:59:59.999999+00:00,Adm
+Mariana Alves Nascimento Queiroz,029083,9999-12-31 23:59:59.999999+00:00,Adm
+Jo�o Pedro Oliveira Morais,joao.morais,9999-12-31 23:59:59.999999+00:00,Adm
+Paulo Henrique Batista ADM,paulo.batista.adm,9999-12-31 23:59:59.999999+00:00,TI
+Opera��o Totem Contagem,totem.bzt,9999-12-31 23:59:59.999999+00:00,Operacional - Totem
+Jose Pereira,Jos�.pereira,9999-12-31 23:59:59.999999+00:00,
+Lilian Alvarenga,lilian.alvarenga,9999-12-31 23:59:59.999999+00:00,
+Leandro Silva - AD,PS848402.AD,9999-12-31 23:59:59.999999+00:00,
+Edmar Souza Amorim,PS397909.AD,9999-12-31 23:59:59.999999+00:00,
+Totem Meriti,totem.rjo,9999-12-31 23:59:59.999999+00:00,
+Coleta CWB,coleta.cwb,9999-12-31 23:59:59.999999+00:00,
+Carlos Andreasio Cardoso,PS994311.AD,9999-12-31 23:59:59.999999+00:00,
+Douglas Viera Lopes de Lima,PS954579.AD,9999-12-31 23:59:59.999999+00:00,
+Victor Gabriel Poltroniere,victor.poltroniere,9999-12-31 23:59:59.999999+00:00,Operacional
+Iessa Gabriela da Silva,iessa.silva,9999-12-31 23:59:59.999999+00:00,Adm
+Tamara Cristina de Freitas Correia,tamara.correia.ps,9999-12-31 23:59:59.999999+00:00,Fiscal
+Servico Trend Web Security,src_tmws,9999-12-31 23:59:59.999999+00:00,
+Servi�o ADSelf,src_adself,9999-12-31 23:59:59.999999+00:00,
+Servi�o ADManager,src_admanager,9999-12-31 23:59:59.999999+00:00,
+Servi�o PMP,src_pmp,9999-12-31 23:59:59.999999+00:00,
+Alexandre Bellomo,alexandre.bellomo.ps,9999-12-31 23:59:59.999999+00:00,
+Karina Silva Ferreira,karina.ferreira,9999-12-31 23:59:59.999999+00:00,Adm
+Spo Portaria,spo.portaria,9999-12-31 23:59:59.999999+00:00,Portaria
+Totem Ipatinga,totem.ipa,9999-12-31 23:59:59.999999+00:00,
+Totem Colatina,totem.col,9999-12-31 23:59:59.999999+00:00,
+Totem Goiania,totem.goi,9999-12-31 23:59:59.999999+00:00,
+Totem Gov. Valadares,totem.gov,9999-12-31 23:59:59.999999+00:00,
+Totem S�o Paulo,totem.spo,9999-12-31 23:59:59.999999+00:00,
+Totem Juiz de Fora,totem.jfa,9999-12-31 23:59:59.999999+00:00,
+Totem Nova Odessa,totem.ame,9999-12-31 23:59:59.999999+00:00,
+Totem Uberlandia,totem.ubl,9999-12-31 23:59:59.999999+00:00,
+Totem Varginha,totem.vag,9999-12-31 23:59:59.999999+00:00,
+Thiago Wesley Catarino,thiago.catarino,9999-12-31 23:59:59.999999+00:00,Operacional
+Matheus Emanoel Nazareth Lopes,matheus.nazareth,9999-12-31 23:59:59.999999+00:00,Operacional
+Rafael Martins Figueiredo,rafael.figueredo,9999-12-31 23:59:59.999999+00:00,Dgi
+Laura Diana do Nascimento,laura.nascimento,9999-12-31 23:59:59.999999+00:00,CCE
+Luan Alves da Silva,luan.asilva,9999-12-31 23:59:59.999999+00:00,Operacional
+Henrique Fernandes de Oliveira,henrique.oliveira,9999-12-31 23:59:59.999999+00:00,Operacional
+Mariana Godoy Hsie,mariana.godoy,9999-12-31 23:59:59.999999+00:00,Comercial
+Kaio Henrique Dos Santos Barreto,kaio.barreto,9999-12-31 23:59:59.999999+00:00,Operacional
+Felipe Rodrigues de Paula Costa,felipe.pcosta,9999-12-31 23:59:59.999999+00:00,CCE
+Max Junio Correia de Andrade,max.andrade,9999-12-31 23:59:59.999999+00:00,Operacional
+Everton Teixeira Nolasco,everton.nolasco,9999-12-31 23:59:59.999999+00:00,Pendencia
+Coleta,syscoleta,9999-12-31 23:59:59.999999+00:00,
+Ray Junio dos Santos Moreira,ray.moreira,9999-12-31 23:59:59.999999+00:00,Adm
+Veeam,veeam,9999-12-31 23:59:59.999999+00:00,
+Alessandra Socorro Portes Barra,009510,9999-12-31 23:59:59.999999+00:00,
+Alexandre Antonio da Silva,009842,9999-12-31 23:59:59.999999+00:00,
+Ari Monteiro da Costa,033169,9999-12-31 23:59:59.999999+00:00,
+Bruno Inoshita,PR031928,9999-12-31 23:59:59.999999+00:00,
+Clauberte da Silva Mendes,010194,9999-12-31 23:59:59.999999+00:00,
+Demetrio Fernandes da Silva,010195,9999-12-31 23:59:59.999999+00:00,
+Dimas da Silva Souza,009466,9999-12-31 23:59:59.999999+00:00,
+Dylan Couto Caparroz,009917,9999-12-31 23:59:59.999999+00:00,
+Erick Francklin dos Santos,032573,9999-12-31 23:59:59.999999+00:00,
+Fabiana Rodrigues Juliatto,010166,9999-12-31 23:59:59.999999+00:00,
+Felipe Enedino de Lima,033045,9999-12-31 23:59:59.999999+00:00,
+Gabriel Araujo da Silva,031725,9999-12-31 23:59:59.999999+00:00,
+Geilson Oliveira,032945,9999-12-31 23:59:59.999999+00:00,
+George Boeno Szymanski,027420,9999-12-31 23:59:59.999999+00:00,
+Guilherme Barbosa Dias,PR031491,9999-12-31 23:59:59.999999+00:00,
+Gustavo Luiz Ferreira de Souza,gustavo.fsouza.ps,9999-12-31 23:59:59.999999+00:00,
+Help desk,prime.help.desk,9999-12-31 23:59:59.999999+00:00,
+Iago Silva Martins,PR031754,9999-12-31 23:59:59.999999+00:00,
+John Nascimento,john.nascimento.ps,9999-12-31 23:59:59.999999+00:00,
+Joubert Jeliel Batista,032624,9999-12-31 23:59:59.999999+00:00,
+Jussiana Karina Candido Alves,028942,9999-12-31 23:59:59.999999+00:00,
+Kaio Marcilio da Silva Costa,027400,9999-12-31 23:59:59.999999+00:00,
+Kaline Peixoto de Souza,033024,9999-12-31 23:59:59.999999+00:00,
+Leanderson Thomas Batista de Lima,028938,9999-12-31 23:59:59.999999+00:00,
+Lideres SP,prime.lideres.sp,9999-12-31 23:59:59.999999+00:00,
+Luis Gustavo Medanha,PR032032,9999-12-31 23:59:59.999999+00:00,
+Luiz Fernando Bertani,PR028814,9999-12-31 23:59:59.999999+00:00,
+Luiz Sergio Galkowski Junior,010522,9999-12-31 23:59:59.999999+00:00,
+Marcos Vinicius de Almeida Pereira,PR032993,9999-12-31 23:59:59.999999+00:00,
+Marluce da Rosa Nunes Dreyer,marluce.dreyer.ps,9999-12-31 23:59:59.999999+00:00,
+Portaria Prime,prime.portaria,9999-12-31 23:59:59.999999+00:00,
+Power Bi,power.bi,9999-12-31 23:59:59.999999+00:00,
+Raquel Carvalho,raquel.carvalho.ps,9999-12-31 23:59:59.999999+00:00,
+Reinaldo de Souza Muniz Junior,032572,9999-12-31 23:59:59.999999+00:00,
+Rodrigo Jean Oliveira,027425,9999-12-31 23:59:59.999999+00:00,
+Washington Rodrigo Nascimento,010181,9999-12-31 23:59:59.999999+00:00,
+Welington Atalipio Ibiapino Borges,027397,9999-12-31 23:59:59.999999+00:00,
+Welliton Teixeira Rocha,032657,9999-12-31 23:59:59.999999+00:00,
+Almir Silva,almir.silva.ps,9999-12-31 23:59:59.999999+00:00,
+Anadelma Almeida,033039,9999-12-31 23:59:59.999999+00:00,
+Angelica Conceicao Machado,031710,9999-12-31 23:59:59.999999+00:00,
+Bruna Mayumi da Silva,010164,9999-12-31 23:59:59.999999+00:00,
+Denis Max Carvalho da Silva,009548,9999-12-31 23:59:59.999999+00:00,
+Marcio Camargo,marcio.camargo.ps,9999-12-31 23:59:59.999999+00:00,
+Tatiane Cordeiro Gomes,010268,9999-12-31 23:59:59.999999+00:00,
+Mariele Kozkodai,010515,9999-12-31 23:59:59.999999+00:00,
+Luiz Carlos dos Santos Junio,028954,9999-12-31 23:59:59.999999+00:00,Conta Nominal
+Mateus Oliveira de Souza,0833696,9999-12-31 23:59:59.999999+00:00,Conta Nominal
+Jean Salu dos Santos,083925,9999-12-31 23:59:59.999999+00:00,Conta Nominal
+Mateus Antonio Cortezia,032022,9999-12-31 23:59:59.999999+00:00,
+Pamela Viana Goncalves,032047,9999-12-31 23:59:59.999999+00:00,
+Ana Carolina da Silva,031952,9999-12-31 23:59:59.999999+00:00,
+Raul Cesar,032102,9999-12-31 23:59:59.999999+00:00,
+Danielle Maria Melo da Silva,danielle.silva.ps,9999-12-31 23:59:59.999999+00:00,
+Gabriel Sartori,PR87668,9999-12-31 23:59:59.999999+00:00,
+Bruna Oliveira Silva,PR31708,9999-12-31 23:59:59.999999+00:00,
+Dandara Basso Amaral Donati,PR31858,9999-12-31 23:59:59.999999+00:00,
+Amanda Carolina Franco Rosa,PR933345,9999-12-31 23:59:59.999999+00:00,
+Gilmara Moraes,gilmara.moraes.ps,9999-12-31 23:59:59.999999+00:00,Conta Nominal - Terceiro
+Jo�o Vitor Fulgencio da Silva,PR031534,9999-12-31 23:59:59.999999+00:00,
+Karina Ortega,PR032069,9999-12-31 23:59:59.999999+00:00,
+Raquel Carvalho,Carvalho.Carvalho.ps,9999-12-31 23:59:59.999999+00:00,
+Claudia Barbosa,PR027576,9999-12-31 23:59:59.999999+00:00,
+Leonardo Willian de Lima,PR031828,9999-12-31 23:59:59.999999+00:00,
+Bruna Cardoso Bertolini,PR031947,9999-12-31 23:59:59.999999+00:00,
+Bianca Novais,PR086088,9999-12-31 23:59:59.999999+00:00,
+Leticia Daniele Costa Silva,PR009445,9999-12-31 23:59:59.999999+00:00,
+Maria S. Martins da Silva,PR31815,9999-12-31 23:59:59.999999+00:00,fROTA
+Patricia dos Santos Klein Silva,PR39908,9999-12-31 23:59:59.999999+00:00,
+Bruno Tadashi dos Santos,PR009462,9999-12-31 23:59:59.999999+00:00,
+Larissa Bandeira Silva Lopes,PR009458,9999-12-31 23:59:59.999999+00:00,
+Lucas Xavier Freitas,PR027401,9999-12-31 23:59:59.999999+00:00,
+Bruno Franca Santos,PR031779,9999-12-31 23:59:59.999999+00:00,
+Natanael Franca Goncalves,010538,9999-12-31 23:59:59.999999+00:00,Conta Nominal
+Leticia Victorino de Assis,PR029089,9999-12-31 23:59:59.999999+00:00,
+Leanderson Thomas Batista de Lima,PR028938,9999-12-31 23:59:59.999999+00:00,
+Jussiana Karina Candido Alves,PR028942,9999-12-31 23:59:59.999999+00:00,
+Gabriel Araujo,PR031725,9999-12-31 23:59:59.999999+00:00,
+William Roberto,PR094538,9999-12-31 23:59:59.999999+00:00,
+Carlos Siovannes AD,008355.ad,9999-12-31 23:59:59.999999+00:00,
+Eleva��o Prime,elevacao.prime,9999-12-31 23:59:59.999999+00:00,
+Matheus Olivato,PR082974,9999-12-31 23:59:59.999999+00:00,
+Luan Jose da Silva,PR028121,9999-12-31 23:59:59.999999+00:00,
+wsftp-teste,wsftp-teste,9999-12-31 23:59:59.999999+00:00,
+Hml Cl Sumup,hml.cl.sumup,9999-12-31 23:59:59.999999+00:00,
+Prd Cl Sumup,prd_cl.sumup,9999-12-31 23:59:59.999999+00:00,
+Hml Seq Sumup,hml.seq.sumup,9999-12-31 23:59:59.999999+00:00,
+Prd Seq Sumup,prd_seq.sumup,9999-12-31 23:59:59.999999+00:00,
+FTP Acimaq,ftp_acimaq,9999-12-31 23:59:59.999999+00:00,
+FTP Friovix,ftp_friovix,9999-12-31 23:59:59.999999+00:00,
+FTP Infracommerce,ftp_infracommerce,9999-12-31 23:59:59.999999+00:00,
+FTP Multicomercio,ftp_multicomercio,9999-12-31 23:59:59.999999+00:00,
+FTP Rcell,ftp_rcell,9999-12-31 23:59:59.999999+00:00,
+FTP Sisqual,ftp_sisqual,9999-12-31 23:59:59.999999+00:00,
+FTP Synapcon,ftp_synapcom,9999-12-31 23:59:59.999999+00:00,
+FTP TA,ftp_ta,9999-12-31 23:59:59.999999+00:00,
+FTP TA Rio,ftp_ta_rio,9999-12-31 23:59:59.999999+00:00,
+FTP TA IX,ftp_tatix,9999-12-31 23:59:59.999999+00:00,
+FTP TRW Bikes,ftp_trwbikes,9999-12-31 23:59:59.999999+00:00,
+FTP Whirpool,ftp_whirlpool,9999-12-31 23:59:59.999999+00:00,
+Servico Fortigate,src_fortigate,9999-12-31 23:59:59.999999+00:00,
+FTP Inbrands,ftp_inbrands,9999-12-31 23:59:59.999999+00:00,
+ftp Kabum,ftp_kabum,9999-12-31 23:59:59.999999+00:00,
+FTP Somos Educa��o,ftp_somoseducacao,9999-12-31 23:59:59.999999+00:00,
+Portaria,portaria,9999-12-31 23:59:59.999999+00:00,
+Larissa Vieira,PR105354,9999-12-31 23:59:59.999999+00:00,
+Debora Isabela de Souza Moraes,PR105395,9999-12-31 23:59:59.999999+00:00,
+Sys_ADManager,Sys_ADManager,9999-12-31 23:59:59.999999+00:00,
+Jo�oPaulo de S� coutinho dos Santos,PS346772.AD,9999-12-31 23:59:59.999999+00:00,
+Renato Silva AD,PS455444.AD,9999-12-31 23:59:59.999999+00:00,Conta Privilegiada - Terceiro
+Arquivos,Arquivos,9999-12-31 23:59:59.999999+00:00,
+Arquivos.enc,Arquivos.enc,9999-12-31 23:59:59.999999+00:00,
+Anderson Soares Orsini,PS157542.ad,9999-12-31 23:59:59.999999+00:00,
+Paulo Henrique  AD,PS396047.AD,9999-12-31 23:59:59.999999+00:00,Conta Privilegiada - Terceiro
+Arthur Lenin AD,PS629849.AD,9999-12-31 23:59:59.999999+00:00,Conta Privilegiada - Terceiro
+Jo�o Souza AD,PS121657.AD,9999-12-31 23:59:59.999999+00:00,Conta Privilegiada - Terceiro
+Heloisa Fuzato AD,PS525265.AD,9999-12-31 23:59:59.999999+00:00,Conta Privilegiada - Terceiro
+Raphael Massapust AD,PS740625.AD,9999-12-31 23:59:59.999999+00:00,Conta Privilegiada - Terceiro
+Francisco Santos AD,PS853943.AD,9999-12-31 23:59:59.999999+00:00,Conta Privilegiada - Terceiro
+Jeferson Martins AD,PS343263.AD,9999-12-31 23:59:59.999999+00:00,Conta Privilegiada - Terceiro
+Leonardo Mocochinski AD,PS049552.AD,9999-12-31 23:59:59.999999+00:00,Conta Privilegiada - Terceiro
+Davi Santos AD,PS609780.AD,9999-12-31 23:59:59.999999+00:00,Conta Privilegiada - Terceiro
+Task Schedule,Sys_TaskSchedule,9999-12-31 23:59:59.999999+00:00,Usu�rio de servi�o para tarefas agendadas
+Fortigate,Fortigate_vpn,9999-12-31 23:59:59.999999+00:00,
+versao.protheus,versao.protheus,9999-12-31 23:59:59.999999+00:00,Conta gen�rica ( GC)
+Antonio Masson Junior,PS456894,9999-12-31 23:59:59.999999+00:00,Conta Nominal - Terceiro
+PS456894.AD,PS456894.AD,9999-12-31 23:59:59.999999+00:00,Conta Privilegiada Terceiro
+sqlConn,sqlConn,9999-12-31 23:59:59.999999+00:00,
+adconnect Service,adconnect,9999-12-31 23:59:59.999999+00:00,
+Access Control,sys_accesscontrol,9999-12-31 23:59:59.999999+00:00,
+ChatBOT Sequoia,chatbot,9999-12-31 23:59:59.999999+00:00,Gen�rica Privilegiada
+sys chatbot,sys_chatbot,9999-12-31 23:59:59.999999+00:00,
+PMP,sys_pmp,9999-12-31 23:59:59.999999+00:00,
+Fortigate Service LDAP,sys_fortigate,9999-12-31 23:59:59.999999+00:00,
+Automatos,Sys_Automatos,9999-12-31 23:59:59.999999+00:00,
+sys_rpa,sys_rpa,9999-12-31 23:59:59.999999+00:00,
+Bombeiro,Bombeiro,9999-12-31 23:59:59.999999+00:00,

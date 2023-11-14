@@ -1,0 +1,66 @@
+{
+  "name": "accesscontrol",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "activedirectory": "^0.7.2",
+    "axios": "^1.5.0",
+    "bootstrap": "^5.3.1",
+    "datatables.net": "^1.13.6",
+    "datatables.net-dt": "^1.13.6",
+    "gapi-script": "^1.2.0",
+    "install": "^0.13.0",
+    "jquery": "^3.7.1",
+    "npm": "^9.8.1",
+    "pandas": "^0.0.3",
+    "papaparse": "^5.4.1",
+    "python3": "^0.0.1",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.8.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.11.0",
+    "react-input-mask": "^2.0.4",
+    "react-redux": "^8.1.2",
+    "react-router-dom": "^6.15.0",
+    "react-tinder-card": "^1.6.2",
+    "styled-components": "^6.0.7",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.22.10",
+    "@babel/core": "^7.22.11",
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@babel/preset-env": "^7.22.14",
+    "@babel/preset-react": "^7.22.5",
+    "eslint-plugin-react": "^7.33.2",
+    "react-scripts": "^5.0.1",
+    "typescript": "^4.9.5"
+  }
+}

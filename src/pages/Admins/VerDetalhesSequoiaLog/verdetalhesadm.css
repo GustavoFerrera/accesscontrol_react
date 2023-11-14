@@ -1,0 +1,12 @@
+.container-Ver {
+  width: 100%;
+  height: 100%;
+  background-color: #333333;
+  height: 100vh;
+}
+.full-width { 
+  height: 100vh;
+}
+.text-center {
+  color: #c9c9c9;
+}

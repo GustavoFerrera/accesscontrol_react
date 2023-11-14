@@ -1,0 +1,9 @@
+.card-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.sequoialocal {
+  margin: 0;
+  padding: 0;
+}

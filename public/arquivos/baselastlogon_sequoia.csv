@@ -1,0 +1,847 @@
+User,CN,Last Logon,description
+Administrator,Administrator,2018-03-14 10:10:06.352297-03:00,Built-in account for administering the computer/domain
+Guest,Guest,1600-12-31 20:54:00-03:06,Generica - Built-in account for guest access to the computer/domain
+krbtgt,krbtgt,1600-12-31 20:54:00-03:06,Generica - Key Distribution Center Service Account
+ADM REDES,admredes,2022-07-09 00:23:32.112673-03:00,Gen�rica - Built-in account for administering the computer/domain
+VMware_Conv_SA___ 02092021,___VMware_Conv_SA___,1600-12-31 20:54:00-03:06,Conta Gen�rica - Dedicated User to run VMware Converter Standalone server jobs.
+Adm Suporte,adm_suporte,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ADM TI,$DUPLICATE-2726,1600-12-31 20:54:00-03:06,Conta Gen�rica
+adm.pentaho,adm.pentaho,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Admin,ADMIN,1600-12-31 20:54:00-03:06,Conta Gen�rica  - TI
+Admin Facilities,admin.facilities,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Admin OpenFire,openfire,1600-12-31 20:54:00-03:06,Conta Gen�rica  - usuario para integra��o do spark com o AD
+Administrador Sistemas,sis.admin,1600-12-31 20:54:00-03:06,Conta Gen�rica
+admsenior,admsenior,1600-12-31 20:54:00-03:06,Conta Gen�rica
+admsistemas,admsistemas,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ALEX SANDRO BEZERRA DA SILVA,assilva,2023-03-15 18:09:25.617378-03:00,Conta Nominal - Filial/belem
+appsistemas,appsistemas,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ARIANE LUNA DA SILVA ALVIM,aalvin,2023-02-17 11:17:38.683153-03:00,Conta Nominal - Planejamento
+Assistec,assistec,1600-12-31 20:54:00-03:06,Generica
+assistecuser,assistecuser,1600-12-31 20:54:00-03:06,Generica
+Astux,astux,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Athos  Salles de Sa,athos,1600-12-31 20:54:00-03:06,Conta Gen�rica - Filial Brasilia
+Auditoria de TI,auditor_ti,1600-12-31 20:54:00-03:06,Generica
+Audit�rio Tambor�,audit�rio,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Backup Matrix,bmatrix,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Backup Mooca,bkmooca,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Blink Systems,blink,1600-12-31 20:54:00-03:06,Conta Gen�rica
+BO S�o Paulo,bosp,1600-12-31 20:54:00-03:06,Conta Gen�rica
+BRUNO DOS SANTOS RODRIGUES,bsantos,2022-08-02 16:33:16.054512-03:00,Conta Nominal - Gest�o de Ativos
+cadastro,cadastro,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Carolina Miranda Guimar�es do Santos,cmiranda,2023-03-06 11:05:32.092674-03:00,Conta Nominal
+cd 01,cd01,1600-12-31 20:54:00-03:06,Conta Gen�rica
+cd 02,cd02,1600-12-31 20:54:00-03:06,Conta Gen�rica
+cd 03,cd03,1600-12-31 20:54:00-03:06,Conta Gen�rica
+cd 04,cd04,1600-12-31 20:54:00-03:06,Conta Gen�rica
+cd 05,cd05,1600-12-31 20:54:00-03:06,Conta Gen�rica
+cd 06,cd06,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Cielo Sequoia,cielosequoia,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Citrix 01092021,citrix,1600-12-31 20:54:00-03:06,
+Claudinei Martin Araujo,cmaraujo,2022-01-03 14:49:47.927639-03:00,INTEC Tambor�/CD/Opera��o
+cognum,cognum,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Comercial,comercial,1600-12-31 20:54:00-03:06,Conta Gen�rica
+consuma,consuma,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Cv,cv,1600-12-31 20:54:00-03:06,Conta Gen�rica
+CVTI,cvti,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Datamace Sequoia,datamace,2018-06-25 12:13:34.455875-03:00,Gen�rico
+dell,dell,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Desenvolvedor1,desenvolvedor1,1600-12-31 20:54:00-03:06,Conta Gen�rica - Usu�rio Tempor�rio
+devCognum01,devCognum01,1600-12-31 20:54:00-03:06,Conta Gen�rica
+devCognum02,devCognum02,1600-12-31 20:54:00-03:06,Conta Gen�rica
+devCognum03,devCognum03,1600-12-31 20:54:00-03:06,Conta Gen�rica
+devCognum04,devCognum04,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Dss Fiscal,dssfiscal,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Edelvanio Costa Amaral,eamaral,2021-06-09 10:36:12.306681-03:00,Filial/Goiania
+Eduardo Lima Bernardo,elbernardo,2023-03-16 07:40:39.850969-03:00,Conta Nominal - Filial/Goiania
+elab,elab,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Em�lia Meireles (DATAMACE),emeireles,2021-10-15 16:44:48.659306-03:00,Conta Gen�rica
+eprod,eprod,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Erikson Ara�jo dos Santos,easantos,2022-12-14 16:32:44.113779-03:00,Conta Nominal - CD Opera��o
+Estoque,estoque,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ESTOQUE MOOCA,estoque.mooca,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Estoque Tambore,estoque.tambore,2022-10-31 14:39:31.717749-03:00,Conta Gen�rica
+estoque_ti,estoque_ti,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Estoque1,estoque1,1600-12-31 20:54:00-03:06,Conta Gen�rica
+exc,exc,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Expedi��o_bsb,expedicao_bsb,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Expedi��o02,expedicao02,2020-08-17 07:38:16.902855-03:00,Conta Gen�rica
+Expedi��o04,expedicao04,2020-05-13 07:26:38.259415-03:00,
+Expedi��o05,expedicao05,2020-04-15 07:58:52.078470-03:00,
+Expedi��o06,expedicao06,2020-03-31 13:20:02.194681-03:00,
+Faturamento,faturamento,1600-12-31 20:54:00-03:06,Conta Gen�rica
+FTP - Cameras,ftpcameras,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Ftp Cielo,ftpcielo,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Ftp Elavon,ftpelavon,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ftp intec,ftpintec,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Ftp Rede,ftprede,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Ftp Seen,ftpseen,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Ftp Sequoia,ftpsequoia,1600-12-31 20:54:00-03:06,Conta Gen�rica
+FTP SGT,ftpsgt,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Ftp Sistemas,ftpsistema,1600-12-31 20:54:00-03:06,Conta Gen�rica
+FTP YEPLOG,ftpyeplog,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ftpfinanceiro,ftp_financeiro,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ftpindicadores,ftpindicadores,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ftpti,ftp_ti,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Gest�o de  Custo,gestaodecusto,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Gest�o de Or�amento,gestaodeorcamento,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Gestao de Riscos,gestaoderiscos,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Helpdesk,helpdesk,1600-12-31 20:54:00-03:06,Conta Gen�rica - Tecnologia da Informa��o
+Herbert Pontes,hpontes,2018-05-31 10:41:02.568502-03:00,Conta Nominal - Sistemas - JOIT
+HOBI,HOBI,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Igor Rodrigues da Silva,isilva,2022-11-09 13:50:50.268154-03:00,Conta Nominal - Contabilidade
+Importa��o Redecard,importacaoredecard,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Informativo,informativo,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Informativos,informativos,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Intec,intec,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Intec01,intec01,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Intec02,intec02,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Intec03,intec03,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Intec04,intec04,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Intec05,intec05,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Intec06,intec06,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Intec07,intec07,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Intec08,intec08,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Intec09,intec09,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Intec10,intec10,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Intec11,intec11,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Intec12,intec12,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Intec13,intec13,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Intec14,intec14,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Intec15,intec15,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Intec16,intec16,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Intec17,intec17,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Intec18,intec18,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Intec19,intec19,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Intec20,intec20,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Integridade,integridade,1600-12-31 20:54:00-03:06,Conta Gen�rica
+introscope,introscope,1600-12-31 20:54:00-03:06,Conta Gen�rica
+IUSR_INTEC-DOMAIN,IUSR_INTEC-DOMAIN,1600-12-31 20:54:00-03:06,Conta Gen�rica - Built-in account for anonymous access to Internet Information Services
+IUSR_ISRV-AD2,IUSR_ISRV-AD2,1600-12-31 20:54:00-03:06,Conta Gen�rica - Built-in account for anonymous access to Internet Information Services
+Ivan Mcafee,ivan.mcafee,1600-12-31 20:54:00-03:06,Conta Nominal
+IWAM_INTEC-DOMAIN,IWAM_INTEC-DOMAIN,1600-12-31 20:54:00-03:06,Conta Gen�rica - Built-in account for Internet Information Services to start out of process applications
+Juscelino  Menezes,jmenezes,2018-02-19 19:20:42.288410-03:00,Conta Nominal
+labexp1,labexp1,1600-12-31 20:54:00-03:06,Conta Gen�rica - LAB - Expedi��o Anhanguera
+labexp2,labexp2,1600-12-31 20:54:00-03:06,Conta Gen�rica -  LAB - Expedi��o Anhanguera
+labexp3,labexp3,1600-12-31 20:54:00-03:06,Conta Gen�rica -  LAB - Expedi��o Anhanguera
+labexp4,labexp4,1600-12-31 20:54:00-03:06,Conta Gen�rica - LAB - Expedi��o Anhanguera
+Laboratorio,laboratorio,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Laboratorio 04,lab04,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Laboratorio 06,lab06,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Laboratorio 07,lab07,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Laborat�rio TEF,labtef,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Laboratorio1,laboratorio1,1600-12-31 20:54:00-03:06,Conta Gen�rica
+LabRedecard,labredecard,1600-12-31 20:54:00-03:06,Conta Gen�rica
+LabRedecard1,labredecard1,1600-12-31 20:54:00-03:06,Conta Gen�rica
+LabRedecard10,labredecard10,1600-12-31 20:54:00-03:06,Conta Gen�rica
+LabRedecard2,labredecard2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+LabRedecard3,labredecard3,1600-12-31 20:54:00-03:06,Conta Gen�rica
+LabRedecard4,labredecard4,1600-12-31 20:54:00-03:06,Conta Gen�rica
+LabRedecard5,labredecard5,1600-12-31 20:54:00-03:06,Conta Gen�rica
+LabRedecard6,labredecard6,1600-12-31 20:54:00-03:06,Conta Gen�rica
+LabRedecard7,labredecard7,1600-12-31 20:54:00-03:06,Conta Gen�rica
+LabRedecard8,labredecard8,1600-12-31 20:54:00-03:06,Conta Gen�rica
+LabRedecard9,labredecard9,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Lauro Marreiro,lmarreiro,1600-12-31 20:54:00-03:06,Conta Nominal
+LChip 1,lchip1,1600-12-31 20:54:00-03:06,Conta Gen�rica - Usuarios para Leitura de Chips para Controle de SIM Cards.
+LChip 2,lchip2,1600-12-31 20:54:00-03:06,Conta Gen�rica usuarios para Leitura de Chips para Controle de SIM Cards.
+Leonardo Santos Leal,lleal,2022-10-25 20:35:15.436628-03:00,Conta Nominal - Tecnologia da Informa��o
+Licenses TI,licensesti,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Lider Portaria,liderportaria,1600-12-31 20:54:00-03:06,Conta Gen�rica
+logistica.bsb,logistica.bsb,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Lucelaine de Matos Arco Araujo,laraujo,2023-03-01 15:04:15.388561-03:00,Conta Nominal - Financeiro
+MARCOS TITO GOMES KUNI,mgomes,2021-10-29 17:40:04.946678-03:00,intectecnologia.local/_INTEC Filiais/S�o Paulo/Mooca/Elavon/Marcos Gomes
+Mesa 02,mesa02,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 03,mesa03,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 04,mesa04,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 05,mesa05,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 06,mesa06,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 07,mesa07,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 08,mesa08,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 10,mesa10,1600-12-31 20:54:00-03:06,Conta Gen�rica -  CD/INVENTARIO
+Mesa 100,mesa100,2020-07-02 12:21:56.314428-03:00,Conta Gen�rica - CD/INVENTARIO
+Mesa 12,mesa12,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 13,mesa13,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 14,mesa14,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 15,mesa15,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 16,mesa16,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 17,mesa17,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 18,mesa18,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 19,mesa19,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 20,mesa20,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 21,mesa21,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 22,mesa22,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 23,mesa23,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 24,mesa24,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 25,mesa25,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 26,mesa26,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 27,mesa27,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 28,mesa28,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 29,mesa29,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 30,mesa30,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 31,mesa31,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 32,mesa32,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 33,mesa33,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 34,mesa34,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 35,mesa35,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 36,mesa36,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 37,mesa37,1600-12-31 20:54:00-03:06,Conta Gen�rica -  CD/INVENTARIO
+Mesa 38,mesa38,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 39,mesa39,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 40,mesa40,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 41,mesa41,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 42,mesa42,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 43,mesa43,1600-12-31 20:54:00-03:06,Conta Gen�rica -  CD/INVENTARIO
+Mesa 44,mesa44,1600-12-31 20:54:00-03:06,Conta Gen�rica -  CD/INVENTARIO
+Mesa 45,mesa45,1600-12-31 20:54:00-03:06,Conta Gen�rica -  CD/INVENTARIO
+Mesa 46,mesa46,1600-12-31 20:54:00-03:06,Conta Gen�rica -  CD/INVENTARIO
+Mesa 47,mesa47,1600-12-31 20:54:00-03:06,Conta Gen�rica -  CD/INVENTARIO
+Mesa 48,mesa48,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 49,mesa49,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 50,mesa50,1600-12-31 20:54:00-03:06,Conta Gen�rica -  CD/INVENTARIO
+Mesa 51,mesa51,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 52,mesa52,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 53,mesa53,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 54,mesa54,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 55,mesa55,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 56,mesa56,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 57,mesa57,1600-12-31 20:54:00-03:06,Conta Gen�rica -  CD/INVENTARIO
+Mesa 58,mesa58,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 59,mesa59,1600-12-31 20:54:00-03:06,Conta Gen�rica -  CD/INVENTARIO
+Mesa 60,mesa60,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 61,mesa61,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 62,mesa62,1600-12-31 20:54:00-03:06,Conta Gen�rica -  CD/INVENTARIO
+Mesa 63,mesa63,1600-12-31 20:54:00-03:06,Conta Gen�rica -  CD/INVENTARIO
+Mesa 64,mesa64,1600-12-31 20:54:00-03:06,Conta Gen�rica -   CD/INVENTARIO
+Mesa 65,mesa65,1600-12-31 20:54:00-03:06,Conta Gen�rica -  CD/INVENTARIO
+Mesa 66,mesa66,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 67,mesa67,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 68,mesa68,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 69,mesa69,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 70,mesa 70,1600-12-31 20:54:00-03:06,Conta Gen�rica -  CD/INVENTARIO
+Mesa 71,mesa71,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 72,mesa72,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 73,mesa73,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 74,mesa74,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 75,mesa75,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 76,mesa76,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 77,mesa77,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 78,mesa78,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 79,mesa79,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 80,mesa80,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 81,mesa81,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 82,mesa82,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 83,mesa83,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 84,mesa84,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 85,mesa85,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 86,mesa86,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 87,mesa87,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 89,mesa89,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 90,mesa90,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 91,mesa91,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 92,mesa92,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 93,mesa93,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 94,mesa94,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 95,mesa95,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 96,mesa96,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 97,mesa97,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 98,mesa98,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+Mesa 99,mesa99,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+_disabled Micharles Santos Sobreira - 181022,msobreira,2022-11-03 09:35:18.805838-03:00,Conta Nominal - Laborat�rio
+Indicadores,gestaodeindicadores,2021-07-17 00:20:34.476082-03:00,Conta Gen�rica
+Mis BI,mis.bi,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Monitoramento Seen,Seen,1600-12-31 20:54:00-03:06,Conta Gen�rica
+mooca,mooca,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Mooca DNS,mooca.dns,1600-12-31 20:54:00-03:06,Conta Gen�rica
+netset,netset,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Netset 01,netset01,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Netset 02,netset02,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Netset 03,netset03,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Netset 04,netset04,1600-12-31 20:54:00-03:06,Conta Gen�rica
+NFe,nfe,1600-12-31 20:54:00-03:06,Conta Gen�rica
+NFe Intec,nfe_intec,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Nfe Log,nfe_log,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Nfe Seen,nfe_seen,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Nfe TI,nfe_ti,1600-12-31 20:54:00-03:06,Conta Gen�rica
+NFe YepLog,nfe_yep,1600-12-31 20:54:00-03:06,Conta Gen�rica
+NILSON ESCALDIN DA SILVA,nscaldini,2022-01-10 09:14:04.384895-03:00,intectecnologia.local/_INTEC Filiais/Parceiros/Nilson Scaldini
+ocomon,ocomon,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Ombudsman Intec,ombudsman,1600-12-31 20:54:00-03:06,Conta Gen�rica
+otrs,otrs,2022-08-04 12:21:01.551458-03:00,
+PA - Arraias,drodrigues,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA - Bahia,pa_ssa_emprasel,2022-09-27 14:14:46.584204-03:00,Conta Gen�rica - PA/BAHIA
+PA - Barreiras,pa_bra,1600-12-31 20:54:00-03:06,Conta Gen�rica - PA/BARREIRAS
+PA - Guarai,waraujo,1600-12-31 20:54:00-03:06,Conta Gen�rica - CD/INVENTARIO
+PA - GURUPI,raraujo,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA - Itabuna,pa_itn,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA - Recife,pa_rec_rfs,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA - Salvador,pa_ssa,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA - Vilhena,inascimento,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA - Vit�ria,pa_vix,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA - Vit�ria da Conquista,pa_vdc,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA _AJU_SE,PA_AJU_SE,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA Ara�atuba,pa_arc_mackison,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA_ ARA_BRASPOS,PA_ARA_BRASPOS,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA_ BEL_INTEC,PA_BEL_INTEC,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA_ BRT_BRASPOS,PA_BRT_BRASPOS,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA_ CAR_TECHSTAR1,PA_CAR_TECHSTAR1,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Pa_alpha,pa_alpha,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA_ARU_MACKISON2,PA_ARU_MACKISON2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Pa_aux,pa_aux,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Pa_bel_yeplog,Pa_bel_yeplog,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Pa_bsb_yeplog,pa_bsb_yeplog,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Pa_bsd,pa_bsb,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Pa_bvb,pa_bvb,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Pa_Cabo Frio,pa_cf,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Pa_carmo,pa_carmo,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Pa_cavalcanti,pa_cavalcanti,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA_CFB,PA_CFB,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA_CGB_INTEC,PA_CGB_INTEC,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA_CGB_JIA,pa_cgb_jia,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Pa_cgb_yeplog,pa_cgb_yeplog,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Pa_cgr_yeplog,pa_cgr_yeplog,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Pa_czs,pa_czs,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Pa_dou,pa_dou,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA_FCR_BRASPOS,PA_FCR_BRASPOS,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA_GRT_TECHSTAR,PA_GRT_TECHSTAR,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA_GYN_CALDAS_NOVA2,PA_GYN_CALDAS_NOVA2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Pa_gyn_yeplog,Pa_gyn_yeplog,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Pa_jar,pa_jar,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA_JIP_YEPLOG,PA_JIP_YEPLOG,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA_Ji-Parana,pa_assistecnica,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Pa_jpr_yeplog,pa_jpr_yeplog,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Pa_lns,pa_lns,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Pa_mao_yeplog,pa_mao_yeplog,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Pa_mcp,pa_mcp,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Pa_mcp_yeplog,pa_mcp_yeplog,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA_MRL_NETSAN,PA_MRL_NETSAN,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA_NTL_FOXTI,PA_NTL_FOXTI,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA_PIR_VIG,PA_PIR_VIG,2021-04-29 13:32:33.170748-03:00,Conta Gen�rica
+PA_PMW,PA_PMW,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Pa_pmw_yeplog,pa_pmw_yeplog,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA_PRU_MACKISON2,PA_PRU_MACKISON2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA_Prudente_RDC,pa_makson,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Pa_pvh_yeplog,pa_pvh_yeplog,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA_QVR,PA_QVR,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Pa_rbr,pa_rbr,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Pa_rbr_chr,pa_rbr_chr,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA_REG_SPINSTALL,PA_REG_SPINSTALL,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Pa_ron,pa_ron,1600-12-31 20:54:00-03:06,Conta  Gen�rica
+pa_sao_yeplog,pa_sao_yeplog,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA_SJRP_NETSAN,PA_SJRP_NETSAN,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Pa_snp,pa_snp,1600-12-31 20:54:00-03:06,Conta Gen�rica
+PA_THE_SERVICOS,PA_THE_SERVICOS,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Parceiro Campinas,pa_cas_f2net,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Parceiro Presidente Prudente,pa_pru,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Parceiro S�o Jos� dos Campos,pa_sjc_techstar,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Parceiro Sorocaba,pa_sod,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Planejamento de Produ��o,planejamentodeproduc,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Ponto Cielo,pcielo,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Postmaster,postmaster,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Programador,programador,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Projetor (Tambor�),projetor,1600-12-31 20:54:00-03:06,Conta Gen�rica
+qual1,qual1,1600-12-31 20:54:00-03:06,Conta Gen�rica
+qual2,qual2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+qual3,qual3,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Quarentena Astux,quarentena.astux,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Recebimento 01,recebimento01,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Recebimento 02,recebimento02,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Recebimento 03,recebimento03,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Recebimento 04,recebimento04,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Recebimento 05,recebimento05,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Recebimento 06,recebimento06,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Recebimento 07,recebimento07,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Recebimento 08,recebimento08,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Recebimento 09,recebimento09,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Recebimento 10,recebimento10,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Recebimento 11,recebimento11,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Recebimento 12,recebimento12,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Recebimento Tambore,recebimento.tambore,2019-08-06 14:12:24.308874-03:00,
+recebmento1,recebmento1,1600-12-31 20:54:00-03:06,Conta Gen�rica
+recebmento2,recebmento2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Recursos Humanos,rhumanos,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Rede,rede,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Reginaldo Maffei,rmaffei,2022-09-20 15:45:16.677217-03:00,Conta Nominal - Diretoria
+Ricardo Carvalho,rcarvalho,2021-09-21 13:29:36.194731-03:00,NCC Cielo
+Rio DNS,rio.dns,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Rob� Intec,robo,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Robson Brito,rbrito,2022-12-27 13:35:10.067247-03:00,Conta Nominal - SDI CIELO
+Rogerio Alves da Silva,rogerio.silva,2022-10-21 11:36:25.063677-03:00,Conta Nominal - Ribeir�o Preto
+Ronaldo Silva Telis,rtelis,2022-12-20 16:22:45.077435-03:00,Conta Nominal - Filial Brasilia
+Sala Reuni�o 2 andar,sala2andar,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Sala Reuniao1andar,sala1andar,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Sala ReuniaoTerreo,salaterreo,1600-12-31 20:54:00-03:06,Conta Gen�rica
+SDI_teste,sdi_teste,1600-12-31 20:54:00-03:06,Conta Gen�rica
+seen vpn,seenvpn,1600-12-31 20:54:00-03:06,Conta Gen�rica
+SeenConsumablesFTP,seenconsumablesftp,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Seguran�a Patrimonial,segurancapatrimonial,2020-10-21 12:57:50.980730-03:00,Conta Gen�rica
+Sep,sep,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Sistemasintec,sistemasintec,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Sisti,sisti,1600-12-31 20:54:00-03:06,Conta Gen�rica
+siteintec,siteintec,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Slave Paragominas,slvparagominas,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Slave Tucurui,slvtucurui,1600-12-31 20:54:00-03:06,Conta Gen�rica
+slreuniao,slreuniao,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Sms,sms,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Sp Farm,sp_farm,1600-12-31 20:54:00-03:06,Conta Gen�rica
+SP Setup,sp_setup,1600-12-31 20:54:00-03:06,Conta Gen�rica
+sp_db,sp_db,1600-12-31 20:54:00-03:06,Conta Gen�rica
+SpaceGuardSvcAccnt,SpaceGuardSvcAccnt,1600-12-31 20:54:00-03:06,Conta Gen�rica - SpaceGuard SRM Service Account
+splunk,splunk,1600-12-31 20:54:00-03:06,Conta Gen�rica
+sqlintec_05,sqlintec_05,1600-12-31 20:54:00-03:06,Conta Gen�rica
+sqlPWS,sqlPWS,1600-12-31 20:54:00-03:06,Conta Gen�rica
+sqlSrvAgt,sqlSrvAgt,1600-12-31 20:54:00-03:06,Conta Gen�rica
+storage,storage,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Storage Report,StorageReport,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Suporte Cognum,suportecognum,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Support,support,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Techdocs,techdocs,1600-12-31 20:54:00-03:06,
+Tef 01,tef01,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Tef 02,tef02,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Testes Leo,testeleo,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Thiago Tomas de Souza - 070322,tsouza,2022-03-06 01:21:23.075445-03:00,Conta Nominal - Sistemas
+TI TST,ti.tst,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Torre 01,torre01,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Torre 02,torre02,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Torre 03,torre03,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Torre 04,torre04,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Torre 08,torre08,1600-12-31 20:54:00-03:06,Conta Gen�rica
+TORRE20,torre20,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Triagem Pinpad 2,triagempinpad2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+triagempinpad,triagempinpad,1600-12-31 20:54:00-03:06,Conta Gen�rica
+trustux,trustux,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Trustux Bloqueado,trustux_bloqueado,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Trustux Compras,trustux_compras,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Trustux Download,trustux_download,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Trustux Padr�o,trustux_padrao,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Trustux Restrito,trustux_restrito,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Trustux Seen,trustux_seen,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Trustux Vip,trustux_vip,1600-12-31 20:54:00-03:06,Conta Gen�rica
+trustux4,trustux4,1600-12-31 20:54:00-03:06,Conta Gen�rica
+trustux5,trustux5,1600-12-31 20:54:00-03:06,Conta Gen�rica
+TS01,ts01,1600-12-31 20:54:00-03:06,Conta Gen�rica
+User Componente,userComponente,1600-12-31 20:54:00-03:06,Conta Gen�rica
+User Seen,userseen,1600-12-31 20:54:00-03:06,Conta Gen�rica
+User2,user2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Vinicius Barbosa Martins,vmartins,2022-11-07 12:31:26.534210-03:00,Conta Nominal - CD Opera��o
+Vsn_cpqr,vsn_cpqr,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Vsn_cq1,vsn_cq1,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Vsn_est,vsn_est,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Vsn_exc2,vsn_exc2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Vsn_exp,vsn_exp,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Vsn_lab,vsn_lab,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Vsn_mont,vsn_mont,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Vsn_pers,vsn_pers,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Vsn_receb,vsn_receb,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Wallison Gomes Garcia,wgarcia,2022-11-29 08:19:23.174702-03:00,Conta Nominal
+War Room,warroom,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Warr Room Boticario,warroomboticario,1600-12-31 20:54:00-03:06,Conta Gen�rica
+WESLEY CRISTIANO PINHEIRO ALVES PINTO,wpalves,2022-08-18 19:40:23.925730-03:00,Conta Nominal - Cielo
+witux,witux,1600-12-31 20:54:00-03:06,Conta Gen�rica
+witux_hora,witux_hora,1600-12-31 20:54:00-03:06,Conta Gen�rica
+witux_rest,witux_rest,1600-12-31 20:54:00-03:06,Conta Gen�rica
+witux_vp,witux_vp,1600-12-31 20:54:00-03:06,Conta Gen�rica
+zabbix,zabbix,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Zabbix Seen,zabbixseen,1600-12-31 20:54:00-03:06,Conta Gen�rica
+accesstage,accesstage,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ADM Wave,adm.wave,1600-12-31 20:54:00-03:06,Conta Gen�rica
+alcis,alcis,1600-12-31 20:54:00-03:06,Conta Gen�rica
+alcis2,alcis2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+alcis3,alcis3,1600-12-31 20:54:00-03:06,Conta Gen�rica
+alcis5,alcis5,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Alexsandro dos Santos,alexsandro.santos,2022-11-10 12:21:00.288134-03:00,Conta Nominal - Contabilidade
+ALYNE GONCALVES DE SANTANA,alyne.santana,2021-12-03 15:20:52.700100-03:00,Torre de controle
+armani,armani1,1600-12-31 20:54:00-03:06,Conta Gen�rica
+armani2,armani2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+armani3,armani3,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Avon Palho�a,avon,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Betania Lima,betania.lima,2022-09-21 11:53:59.222750-03:00,Conta Nominal
+bkp.oracle 01092021,bkp.oracle,1600-12-31 20:54:00-03:06,Generica
+brandili,brandili,1600-12-31 20:54:00-03:06,Conta Gen�rica
+brandili2,brandili2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+brasif,brasif,1600-12-31 20:54:00-03:06,Conta Gen�rica
+brasif10,brasif10,1600-12-31 20:54:00-03:06,Conta Gen�rica
+brasif11,brasif11,1600-12-31 20:54:00-03:06,Conta Gen�rica
+brasif12,brasif12,1600-12-31 20:54:00-03:06,Conta Gen�rica
+brasif13,brasif13,1600-12-31 20:54:00-03:06,Conta Gen�rica
+brasif14,brasif14,1600-12-31 20:54:00-03:06,Conta Gen�rica
+brasif15,brasif15,1600-12-31 20:54:00-03:06,Conta Gen�rica
+brasif16,brasif16,1600-12-31 20:54:00-03:06,Conta Gen�rica
+brasif17,brasif17,1600-12-31 20:54:00-03:06,Conta Gen�rica
+brasif18,brasif18,1600-12-31 20:54:00-03:06,Conta Gen�rica
+brasif2,brasif2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+brasif3,brasif3,1600-12-31 20:54:00-03:06,Conta Gen�rica
+brasif4,brasif4,1600-12-31 20:54:00-03:06,Conta Gen�rica
+brasif5,brasif5,1600-12-31 20:54:00-03:06,Conta Gen�rica
+brasif6,brasif6,1600-12-31 20:54:00-03:06,Conta Gen�rica
+brasif7,brasif7,1600-12-31 20:54:00-03:06,Conta Gen�rica
+brasif8,brasif8,1600-12-31 20:54:00-03:06,Conta Gen�rica
+brasif9,brasif9,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Brasil CT,brasil.ct,1600-12-31 20:54:00-03:06,Conta Gen�rica
+C&A,cea,1600-12-31 20:54:00-03:06,Conta Gen�rica - Usu�rio FTP
+C&A ADM,c&adm,1600-12-31 20:54:00-03:06,Conta Gen�rica
+C&A Rio,C&AR,1600-12-31 20:54:00-03:06,Conta Gen�rica
+C&A Rio 2,cear2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+C&A Rio 3,cear3,1600-12-31 20:54:00-03:06,Conta Gen�rica
+camicado1,camicado1,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Carolina Miranda Guimar�es Dos Santos,carolina.santos,2023-02-16 17:28:42.606930-03:00,Conta Nominal - CD Opera��o
+CAUE RODRIGUES OLIVEIRA,caue.rodrigues,2022-04-14 20:36:50.630068-03:00,Conta Nominal - Seguran�a Patrimonial
+cea remoto,cea.remoto,1600-12-31 20:54:00-03:06,Conta Gen�rica
+cea1,cea1,1600-12-31 20:54:00-03:06,Conta Gen�rica
+celote,celote,1600-12-31 20:54:00-03:06,Conta Gen�rica
+celote1,celote1,1600-12-31 20:54:00-03:06,Conta Gen�rica
+celote2,celote2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+celote3,celote3,1600-12-31 20:54:00-03:06,Conta Gen�rica
+celote4,celote4,1600-12-31 20:54:00-03:06,Conta Gen�rica
+checkin inbrands,checkin.inbrands,1600-12-31 20:54:00-03:06,Conta Gen�rica
+CLAUDIO DOS SANTOS LIMA,claudio.lima,2021-02-26 14:38:19.552654-03:00,C&A Rio de Janeiro
+Cleto,cleto,1600-12-31 20:54:00-03:06,Conta Gen�rica
+coletor camicado 2,camicado2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+coletor camicado 3,camicado3,1600-12-31 20:54:00-03:06,Conta Gen�rica
+coletor camicado 4,camicado4,1600-12-31 20:54:00-03:06,Conta Gen�rica
+coletor camicado 5,camicado5,1600-12-31 20:54:00-03:06,Conta Gen�rica
+coletor1,coletor1,1600-12-31 20:54:00-03:06,Conta Gen�rica
+coletor10,coletor10,1600-12-31 20:54:00-03:06,Conta Gen�rica
+coletor11,coletor11,1600-12-31 20:54:00-03:06,Conta Gen�rica
+coletor12,coletor12,1600-12-31 20:54:00-03:06,Conta Gen�rica
+coletor13,coletor13,1600-12-31 20:54:00-03:06,Conta Gen�rica
+coletor14,coletor14,1600-12-31 20:54:00-03:06,Conta Gen�rica
+coletor15,coletor15,1600-12-31 20:54:00-03:06,Conta Gen�rica
+coletor16,coletor16,1600-12-31 20:54:00-03:06,Conta Gen�rica
+coletor17,coletor17,1600-12-31 20:54:00-03:06,Conta Gen�rica
+coletor18,coletor18,1600-12-31 20:54:00-03:06,Conta Gen�rica
+coletor2,coletor2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+coletor20,coletor20,1600-12-31 20:54:00-03:06,Conta Gen�rica
+coletor21,coletor21,1600-12-31 20:54:00-03:06,Conta Gen�rica
+coletor22,coletor22,1600-12-31 20:54:00-03:06,Conta Gen�rica
+coletor23,coletor23,1600-12-31 20:54:00-03:06,Conta Gen�rica
+coletor24,coletor24,1600-12-31 20:54:00-03:06,Conta Gen�rica
+coletor3,coletor3,1600-12-31 20:54:00-03:06,Conta Gen�rica
+coletor4,coletor4,1600-12-31 20:54:00-03:06,Conta Gen�rica
+coletor5,coletor5,1600-12-31 20:54:00-03:06,Conta Gen�rica
+coletor6,coletor6,1600-12-31 20:54:00-03:06,Conta Gen�rica
+coletor7,coletor7,1600-12-31 20:54:00-03:06,Conta Gen�rica
+coletor8,coletor8,1600-12-31 20:54:00-03:06,Conta Gen�rica
+coletor9,coletor9,1600-12-31 20:54:00-03:06,Conta Gen�rica
+completa,completa,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Completa 02,completa02,1600-12-31 20:54:00-03:06,
+consultor,consultor,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Cristoforo De Andrade Neto,cristoforo.neto,2020-05-01 12:02:46.312086-03:00,Conta Nominal - Terceiro
+Danilo Ferreira,danilo.ferreira,2023-03-22 19:49:39.867270-03:00,Conta Nominal
+dataroom,dataroom,1600-12-31 20:54:00-03:06,Conta Gen�rica
+db_tivit DBA TIVIT,db_tivit,1600-12-31 20:54:00-03:06,Conta Gen�rica
+dba,dba,1600-12-31 20:54:00-03:06,Conta Gen�rica
+D�cimo Baccarini,decimo.baccarini,2021-08-24 12:14:54.369228-03:00,
+ADM Pessoal,adm_pessoal,2023-01-11 15:48:38.809147-03:00,Conta Gen�rica
+dss,dss,1600-12-31 20:54:00-03:06,Conta Gen�rica
+dss1,dss1,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Edison Vanderlei de Oliveira,edison.oliveira,2023-02-03 09:37:23.524061-03:00,Conta Nominal - S�o jos�
+Em�lia Meireles,emilia.paula,2022-10-19 08:52:46.358284-03:00,Conta Nominal - RH
+EMILY MARTINS FERREIRA,emily.martins,2022-04-19 15:34:00.990864-03:00,Conta Nominal - Financeiro
+ENIO CAMPOS DOS SANTOS,enio.campos,2022-10-19 11:15:53.076092-03:00,Conta Nominal
+Etiquetas02,etiquetas02,1600-12-31 20:54:00-03:06,Conta Gen�rica
+EVERALDO SILVA ARRUDA,everaldos,2022-07-05 18:07:43.908110-03:00,Conta Nominal
+FERNANDA MARIA SOARES DE CAMARGO,fernanda.camargo,2022-12-23 15:02:14.965654-03:00,Conta Nominal - Secret�ria diretoria
+FTP VF,ftp.vf,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ftp.greenfields,ftp.greenfields,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ftp_teste1,ftp_teste1,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Gilberto de Almeida Forastiero,gilberto.forastiero,2023-01-31 11:46:25.661783-03:00,Conta Nominal - Gerente Sumar�
+gilberto rocha,gilberto.rocha,2022-03-08 21:28:22.118250-03:00,Conta Nominal
+Gislania Hellen de Lima Araujo,gislania.araujo,2023-02-06 16:38:09.028250-03:00,Conta Nominal - Financeiro
+Gredson Lins do Carmo,gredsonl,2022-10-11 07:44:54.625158-03:00,Conta Nominal
+Guido Soares Borges,guido.borges,2022-10-25 10:31:11.591496-03:00,Conta Nominal - VIVO
+HELLEN CRISTINA GOMES DE OLIVEIRA,hellen.cristina,2022-08-05 14:03:44.371397-03:00,Conta Nominal - Assistente diretoria
+Hugo Rodrigo Hernandes do nascimento,hugo.hernandes,2022-11-21 11:41:33.867546-03:00,Conta Nominal - Solicita��o Ricardo Conte
+imbrands,imbrands,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Impressora Sequoia,impressora,2023-01-17 09:09:37.270716-03:00,Utilizado para escaner senha: Log@3846  n alterar
+inbrands1,inbrands1,1600-12-31 20:54:00-03:06,Conta Gen�rica
+inbrands10,inbrands10,1600-12-31 20:54:00-03:06,Conta Gen�rica
+inbrands2,inbrands2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+inbrands3,inbrands3,1600-12-31 20:54:00-03:06,Conta Gen�rica
+inbrands4,inbrands4,1600-12-31 20:54:00-03:06,Conta Gen�rica
+inbrands5,inbrands5,1600-12-31 20:54:00-03:06,Conta Gen�rica
+inbrands6,inbrands6,1600-12-31 20:54:00-03:06,Conta Gen�rica
+inbrands7,inbrands7,1600-12-31 20:54:00-03:06,Conta Gen�rica
+inbrands8,inbrands8,1600-12-31 20:54:00-03:06,Conta Gen�rica
+inbrands9,inbrands9,1600-12-31 20:54:00-03:06,Conta Gen�rica
+INGRID NASCIMENTO DOS SANTOS,ingrid.nascimento,2022-03-22 11:06:12.620819-03:00,Conta Nominal - Fiscal
+insumos,insumos,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ita,ita,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Itabora� 1,itaborai1,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Itabora� 2,itaborai2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Itabora� 3,itaborai3,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Itabora� 4,Itaborai4,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Jenifer Farina,jenifer.farina,2021-02-22 13:15:51.812153-03:00,
+Jonas Pires Pereira,jonas.pereira,2022-11-03 10:28:21.356243-03:00,Conta Nominal - Contabilidade
+Jonathan Martins,jonathan.martins,2021-10-22 04:18:10.557140-03:00,Conta Nominal
+juiz1,juiz1,1600-12-31 20:54:00-03:06,Conta Gen�rica
+juiz2,juiz2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+juiz3,juiz3,1600-12-31 20:54:00-03:06,Conta Gen�rica
+kroton1,kroton1,1600-12-31 20:54:00-03:06,Conta Gen�rica
+kroton2,kroton2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Leandro Santos,leandro.santos,2023-02-20 07:33:45.683149-03:00,Conta Nominal
+logon,logon,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Lucas Macedo Coelho de Magalh�es,lucas.magalhaes,2022-10-27 11:57:09.949604-03:00,Conta Nominal - Planejamento transportes
+LUMA LEANDRO SILVA,luma.silva,2022-02-11 23:20:44.813679-03:00,Conta Nominal
+Mada,mada,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Mais Amigas,mais.amigas,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Manipulacao marisa,manipulacao.marisa,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Manutencao Frota,manutencao.frota,1600-12-31 20:54:00-03:06,Conta Gen�rica
+MARCELO RODRIGUES DOS SANTOS,marcelo.santos,2022-02-10 19:42:12.720993-03:00,Conta Nominal
+Marcos A. de Oliveira,tsmarcos.oliveira,2021-09-18 13:40:48.596409-03:00,
+MARIO FERNANDO DA COSTA,mario.costa,2023-02-09 18:31:06.974943-03:00,Conta Nominal
+FRANCIMARIO DUARTE COSTA,mario.duarte,2021-03-21 18:41:11.782955-03:00,TI
+mofficer1,mofficer1,1600-12-31 20:54:00-03:06,Conta Gen�rica
+mofficer2,mofficer2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+mofficer3,mofficer3,1600-12-31 20:54:00-03:06,Conta Gen�rica
+mofficer4,mofficer4,1600-12-31 20:54:00-03:06,Conta Gen�rica
+mofficer5,mofficer5,1600-12-31 20:54:00-03:06,Conta Gen�rica
+monitor,monitor,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Monitoramento - Torre de controle,monitoramento.torre,2018-10-22 06:45:14.138113-03:00,Conta Gen�rica
+Multi Cliente 02,multi.clientes02,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Multi Clientes,multi.clientes01,2023-03-10 09:56:11.517565-03:00,Conta Gen�rica
+NATHALIA FRANCIS DA SILVA,nathalia.francis,2020-10-13 07:01:37.463564-03:00,Ara�aiguama
+navegantes1,navegantes1,1600-12-31 20:54:00-03:06,Conta Gen�rica
+navegantes2,navegantes2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+navegantes3,navegantes3,1600-12-31 20:54:00-03:06,Conta Gen�rica
+navegantes4,navegantes4,1600-12-31 20:54:00-03:06,Conta Gen�rica
+navegantes5,navegantes5,1600-12-31 20:54:00-03:06,Conta Gen�rica
+navegantes6,navegantes6,1600-12-31 20:54:00-03:06,Conta Gen�rica
+navegantes7,navegantes7,1600-12-31 20:54:00-03:06,Conta Gen�rica
+NeoPrint,neoprint,1600-12-31 20:54:00-03:06,Conta Gen�rica
+noc.ativy1,noc.ativy1,1600-12-31 20:54:00-03:06,Generica
+noc.ativy2,noc.ativy2,1600-12-31 20:54:00-03:06,Generica
+noc.ativy3,noc.ativy3,1600-12-31 20:54:00-03:06,Generica - Thaigo Freitas \| MSP
+noc.ativy4,noc.ativy4,1600-12-31 20:54:00-03:06,Generica
+noc.ativy5,noc.ativy5,1600-12-31 20:54:00-03:06,Generica
+noc.ativy6,noc.ativy6,1600-12-31 20:54:00-03:06,Generica
+noc.ativy8,noc.ativy8,1600-12-31 20:54:00-03:06,Generica - Giovani Bertotti
+oetker1,oetker1,1600-12-31 20:54:00-03:06,Conta Gen�rica
+oetker2,oetker2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+oetker3,oetker3,1600-12-31 20:54:00-03:06,Conta Gen�rica
+operacao,operacao,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Opera��o Banco Brasil,op.brasil,2020-08-29 08:25:57.183996-03:00,Conta Gen�rica - OP
+Opera��o Eleva,op.eleva,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Paqueta,paqueta,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Paqueta 2015,paqueta2015,1600-12-31 20:54:00-03:06,
+paqueta01,paqueta01,1600-12-31 20:54:00-03:06,Conta Gen�rica
+pax,pax,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Peres1,peres1,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Peres2,peres2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Peres3,peres3,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Pernambucanas,pernambucanas,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Picking,picking,1600-12-31 20:54:00-03:06,Conta Gen�rica
+portaria embu3,portaria.celote,1600-12-31 20:54:00-03:06,Conta Gen�rica
+prima,prima,1600-12-31 20:54:00-03:06,Conta Gen�rica
+privalia1,privalia1,1600-12-31 20:54:00-03:06,Conta Gen�rica
+privalia10,privalia10,1600-12-31 20:54:00-03:06,Conta Gen�rica
+privalia11,privalia11,1600-12-31 20:54:00-03:06,Conta Gen�rica
+privalia12,privalia12,1600-12-31 20:54:00-03:06,Conta Gen�rica
+privalia2,privalia2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+privalia3,privalia3,1600-12-31 20:54:00-03:06,Conta Gen�rica
+privalia4,privalia4,1600-12-31 20:54:00-03:06,Conta Gen�rica
+privalia5,privalia5,1600-12-31 20:54:00-03:06,Conta Gen�rica
+privalia6,privalia6,1600-12-31 20:54:00-03:06,Conta Gen�rica
+privalia7,privalia7,1600-12-31 20:54:00-03:06,Conta Gen�rica
+privalia8,privalia8,1600-12-31 20:54:00-03:06,Conta Gen�rica
+privalia9,privalia9,1600-12-31 20:54:00-03:06,Conta Gen�rica
+REGIANE DA SILVA DO NASCIMENTO,regiane.silva,2021-06-25 10:12:20.227411-03:00,Compras
+RENATA ABREU DE OLIVEIRA,renata.oliveira,2022-04-01 16:59:27.477894-03:00,Conta Nominal - Transportes
+renner,renner,1600-12-31 20:54:00-03:06,Conta Gen�rica
+rf01,rf01,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ribeirao1,ribeirao1,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ribeirao2,ribeirao2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ribeirao3,ribeirao3,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ribeirao4,ribeirao4,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ribeirao5,ribeirao5,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Ricardo Alves de Jesus Sena,ricardo.sena,2023-03-02 13:31:20.301889-03:00,Conta Nominal - Cea E-Comerce
+rodopar,rodopar,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Rose Mary,rose.mary,2021-01-07 12:30:27.625019-03:00,Conta Nominal
+Roseane Jos� Arcas Saturnino,roseane.saturnino,2022-11-01 10:40:57.949297-03:00,Conta Nominal
+Sequoia Opera��o,op,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Sergio Junior,ts.sergio.junior,2022-08-03 23:46:45.958765-03:00,Conta Nominal
+Service Fiscal,service.fiscal,1600-12-31 20:54:00-03:06,Conta Gen�rica
+sete daslu,sete_daslu,1600-12-31 20:54:00-03:06,Conta Gen�rica
+SIDNEYA ROCHA DE SOUZA NEVES,sidneya.neves,2021-03-22 09:24:16.526506-03:00,Atendimento B2C
+Sonia,sonia,1600-12-31 20:54:00-03:06,Conta Nominal
+sonicwall,sonicwall,1600-12-31 20:54:00-03:06,Conta Gen�rica
+DIEGO SPEDINE DE ALMEIDA,diego.spedine,2022-09-20 16:19:17.834112-03:00,Conta Nominal - Seguran�a do trabalho
+SQA Rodoparrihappy,sqa.rodoparrihappy,1600-12-31 20:54:00-03:06,Conta Gen�rica
+sqa.hartmann,sqa.hartmann,1600-12-31 20:54:00-03:06,Conta Gen�rica
+sqa.total_osklen,sqa.total_osklen,1600-12-31 20:54:00-03:06,Conta Gen�rica
+sqo_admin,sqo_admin,1600-12-31 20:54:00-03:06,
+sumare1,sumare1,1600-12-31 20:54:00-03:06,Conta Gen�rica
+sumare2,sumare2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+sumare3,sumare3,1600-12-31 20:54:00-03:06,Conta Gen�rica
+sumare4,sumare4,1600-12-31 20:54:00-03:06,Conta Gen�rica
+sumare5,sumare5,1600-12-31 20:54:00-03:06,Conta Gen�rica
+SUPPORT_388945a0,SUPPORT_388945a0,1600-12-31 20:54:00-03:06,Conta Gen�rica - Esta � uma conta de fornecedor do servi�o de ajuda e suporte
+TAILINE PONTES CALIXTO,tailine.pontes,2022-04-07 11:25:26.141829-03:00,Conta Nominal
+Tam,tam,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Tatiana Moura de Freitas Quaresma,tatiana.quaresma,2022-10-03 11:11:47.017357-03:00,Conta Nominal
+Temp User,temp,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Temporario Fiscal 01,temp.fiscal01,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Tempor�rio Fiscal 02,temp.fiscal02,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Tempor�rio Fiscal 03,temp.fiscal03,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Teste Scanner,teste.scan,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Teste teste,teste.teste,1600-12-31 20:54:00-03:06,Conta Gen�rica
+teste.noc testando,teste.noc,1600-12-31 20:54:00-03:06,Conta Gen�rica
+teste2,testewww,1600-12-31 20:54:00-03:06,Conta Gen�rica
+testefs,testefs,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Thiago Jesus Batista da Silva,thiago.silva,2022-09-21 11:52:26.215183-03:00,Conta Nominal - Averba��o
+Thiago Rossine Torres da Silva,thiago.torres,2020-06-23 07:52:03.121696-03:00,Yep
+Ti Teste,ti.teste,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Tiago Vallejo,tiago.vallejo,2022-12-28 14:16:47.821087-03:00,TI
+Timberland,Timberland,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Tnt,Tnt,1600-12-31 20:54:00-03:06,Conta Gen�rica
+totvs totvs,totvs,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Transportadora TNT,transportadora_tnt,1600-12-31 20:54:00-03:06,Conta Gen�rica
+transportes,transportes,1600-12-31 20:54:00-03:06,Conta Gen�rica
+tres1,tres1,1600-12-31 20:54:00-03:06,Conta Gen�rica
+tres2,tres2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+tres3,tres3,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ts Avon,ts.avon,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ts Avon 1,ts.avon1,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ts Avon 2,ts.avon2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ts Avon 3,ts.avon3,1600-12-31 20:54:00-03:06,Conta Gen�rica
+tvt,tvt,1600-12-31 20:54:00-03:06,Conta Gen�rica
+uracer,uracer,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Vera Canuto,vera.canuto,2022-09-20 15:46:43.255482-03:00,RH
+VF,vf,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Vinicius Almeida Vicente dos Santos,vinicius.santos,2021-11-30 14:51:12.389162-03:00,Conta Nominal
+Visagio,visagio,1600-12-31 20:54:00-03:06,
+Visagio02,visagio02,1600-12-31 20:54:00-03:06,
+Visagio03,visagio03,1600-12-31 20:54:00-03:06,
+vr,vr,1600-12-31 20:54:00-03:06,Conta Gen�rica
+War Room,war.room,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Wave,wave,1600-12-31 20:54:00-03:06,Conta Gen�rica
+webfones,webfones,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Wellington Rodrigues Santos,wellington.santos,2021-12-21 18:22:33.687868-03:00,Conta Nominal
+WMS Camicado,wms.camicado,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.adm01,wms.adm01,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.adm02,wms.adm02,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.armani01,wms.armani01,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.armani02,wms.armani02,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.armani03,wms.armani03,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.armani04,wms.armani04,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.armani05,wms.armani05,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.getnet01,wms.getnet01,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.getnet02,wms.getnet02,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.getnet03,wms.getnet03,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.getnet04,wms.getnet04,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.getnet05,wms.getnet05,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.getnet06,wms.getnet06,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.getnet07,wms.getnet07,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.getnet08,wms.getnet08,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.getnet09,wms.getnet09,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.getnet10,wms.getnet10,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.getnet11,wms.getnet11,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.getnet12,wms.getnet12,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.getnet13,wms.getnet13,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.getnet14,wms.getnet14,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.getnet15,wms.getnet15,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.technos01,wms.technos01,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.technos02,wms.technos02,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.technos03,wms.technos03,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.technos04,wms.technos04,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.vivo01,wms.vivo01,2022-09-09 06:35:58.050999-03:00,Conta Gen�rica
+wms.vivo11,wms.vivo11,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.vivo12,wms.vivo12,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.vivo13,wms.vivo13,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.vivo14,wms.vivo14,1600-12-31 20:54:00-03:06,Conta Gen�rica
+wms.vivo15,wms.vivo15,1600-12-31 20:54:00-03:06,Conta Gen�rica
+zebra,zebra,1600-12-31 20:54:00-03:06,Conta Gen�rica - Usuario para impressao de etiquetas datacenter
+Backup Cameras,bkpcam,1600-12-31 20:54:00-03:06,Conta Gen�rica
+BDSistemas 02092021,BDSistemas,1600-12-31 20:54:00-03:06,Gen�rica
+calzedonia 04. calzedonia,calzedonia04,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Calzedonia 05,calzedonia05,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Calzedonia 06,calzedonia06,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Calzedonia 07,calzedonia07,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Calzedonia C. 01,calzedonia01,1600-12-31 20:54:00-03:06,Conta Gen�rica
+calzedonia c. 02,calzedonia02,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Calzedonia C. 03,calzedonia03,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Carga Autom�tica Sistema Linx,carga.auto,1600-12-31 20:54:00-03:06,Conta Nominal
+Cliente Colombo,cliente.colombo,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Cliente KPL,cliente.kpl,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Dimep,dimep,1600-12-31 20:54:00-03:06,Conta Gen�rica - Utilizado pelo schedule do banco da dimep / nao excluir de forma alguma.
+embu,embu,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ftp.bazar,ftp.bazar,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ftp.braspress,ftp.braspress,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ftp.braspress1,ftp.braspress1,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ftp.cajumar,ftp.cajumar,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ftp.calzedonia,ftp.calzedonia,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ftp.comexport,ftp.comexport,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ftp b2c,ftp.cozinhasinha,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ftp.divadoro,ftp.divadoro,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ftp.forma,ftp.forma,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ftp.garcia,ftp.garcia,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ftp.glossybox,ftp.glossybox,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ftp.jamef,ftp.jamef,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ftp.lacoste,ftp.lacoste,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ftp.mdr,ftp.mdr,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ftp.privalia,ftp.privalia,2018-11-08 17:56:22.078606-02:00,Conta Gen�rica
+ftp.pronovias,ftp.pronovias,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ftp.ramos,ftp.ramos,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ftp.ramthun,ftp.ramthun,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ftp.rh,ftp.rh,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ftp.seculus,ftp.seculus,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ftp.sesc,ftp.sesc,1600-12-31 20:54:00-03:06,Conta Gen�rica
+ftp.tuda,ftp.tuda,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Internet,internet,1600-12-31 20:54:00-03:06,Conta Gen�rica
+lacoste,lacoste_adm,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Lacoste 11 Check Out,lacoste11,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Lacoste 12 Check Out,lacoste12,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Lacoste Devolu��o,lacoste.devolu��o,1600-12-31 20:54:00-03:06,Conta Gen�rica
+lacoste01 check out,lacoste01,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Lacoste02 Check Out,lacoste02,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Lacoste03 Check Out,lacoste03,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Lacoste04 Check Out,lacoste04,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Lacoste05 Check Out,lacoste05,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Lacoste06 Check Out,lacoste06,1600-12-31 20:54:00-03:06,Conta Gen�rica
+lacoste07 Check Out,lacoste07,1600-12-31 20:54:00-03:06,Conta Gen�rica
+lacoste08 Check Out,lacoste08,1600-12-31 20:54:00-03:06,Conta Gen�rica
+lacoste09 Check Out,lacoste09,1600-12-31 20:54:00-03:06,Conta Gen�rica
+lacoste10 Check Out,lacoste10,1600-12-31 20:54:00-03:06,Conta Gen�rica
+NILBERTO ALVES DE SOUZA,nilberto.souza,2021-04-09 17:22:56.394903-03:00,Brasil-CT
+OP Lacost8,op.lacoste8,1600-12-31 20:54:00-03:06,Conta Gen�rica
+OP Lacoste1,op.lacoste1,1600-12-31 20:54:00-03:06,Conta Gen�rica
+OP Lacoste2,op.lacoste2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+OP Lacoste3,op.lacoste3,1600-12-31 20:54:00-03:06,Conta Gen�rica
+OP Lacoste4,op.lacoste4,1600-12-31 20:54:00-03:06,Conta Gen�rica
+OP Lacoste5,op.lacoste5,1600-12-31 20:54:00-03:06,Conta Gen�rica
+OP Lacoste6,op.lacoste6,1600-12-31 20:54:00-03:06,Conta Gen�rica
+OP Lacoste7,op.lacoste7,1600-12-31 20:54:00-03:06,Conta Gen�rica
+op.moderna,op.moderna,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Operacao Delivera,delivera,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Opera��o Delivera2,delivera2,1600-12-31 20:54:00-03:06,Conta Gen�rica
+operacao lacoste,operacao.lacoste,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Willian Salatiel Oliveira Campos,willian.campos,2021-02-26 20:52:33.689999-03:00,"Foi desligado, por�m o e-mail foi encminhado, portanto antes de desativar verificar o encaminhamento."
+preven��o seguran�a,preven��o,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Privalia  Faturamento,privalia.faturamento,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Privalia moda,privaliamoda,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Privalia01 Check out,Privalia01,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Privalia02  Check out,Privalia02,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Privalia03  Check out,Privalia03,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Privalia04  Check out,Privalia04,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Privalia05  check out,Privalia05,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Privalia06  Check in,Privalia06,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Privalia07 Check in,Privalia07,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Privalia08  Check in,Privalia08,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Privalia09  Check in,Privalia09,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Recebimento Colombo,recebimento.colombo,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Renato Cerqueira,renato.cerqueira,2020-01-07 12:32:25.638212-03:00,Conta Nominal
+SAAS,saas.lff,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Seculus01 Check out,seculus01,1600-12-31 20:54:00-03:06,Conta Gen�rica
+seculus02 check out,seculus02,1600-12-31 20:54:00-03:06,Conta Gen�rica
+sistema total,sistema.total,1600-12-31 20:54:00-03:06,Conta Gen�rica
+SQL FTP AGENT,sql.ftp,1600-12-31 20:54:00-03:06,Conta Gen�rica
+suporteembu,suporteembu,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Teste FTP,ftp.teste,1600-12-31 20:54:00-03:06,Conta Gen�rica
+TI OP,ti.op,1600-12-31 20:54:00-03:06,Conta Gen�rica
+Vanessa Bastos dos Santos,vanessa.santos,1600-12-31 20:54:00-03:06,JOIT
+INTECTECNOLOGIA$,INTECTECNOLOGIA$,1600-12-31 20:54:00-03:06,
+Cluster 01092021,cluster,2018-09-06 05:53:24.003838-03:00,
+TANAMRRH-007253,TANAMRRH-007253$,2022-08-19 17:21:30.397406-03:00,
+Alan Rodrigues  - AD,014009.ad,2022-11-10 01:00:42.830288-03:00,Conta Privilegiada - Tecnologia da Informa��o
+Ftp Nespresso,ftpnespresso,2022-02-18 20:55:00.861263-03:00,Conta Gen�rica
+hingrid.op,hingrid.op,2017-10-17 20:33:58.247711-02:00,
+AMANDA BARBOZA DOS SANTOS,amanda.santos,2021-02-12 05:45:57.344229-03:00,

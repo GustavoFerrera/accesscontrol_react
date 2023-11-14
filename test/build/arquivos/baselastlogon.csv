@@ -1,0 +1,831 @@
+User,CN,Last Logon,description
+Administrator,Administrator,2022-05-31 09:42:57.745367-03:00,Built-in account for administering the computer/domain
+Guest,Guest,1600-12-31 20:54:00-03:06,Built-in account for guest access to the computer/domain
+DefaultAccount,DefaultAccount,1600-12-31 20:54:00-03:06,A user account managed by the system.
+krbtgt,krbtgt,1600-12-31 20:54:00-03:06,Key Distribution Center Service Account
+Teste User,teste.user,2020-03-10 17:19:53.330700-03:00,
+Luciano Araujo de Souza - AD,luciano.souzaad,2023-07-11 11:17:41.271936-03:00,
+Beatriz Lucas Silva,beatriz.lucas,1600-12-31 20:54:00-03:06,
+_disabled Bruno Freitas Teixeira,bruno.freitas,1600-12-31 20:54:00-03:06,
+Diego Macena,diego.macena,1600-12-31 20:54:00-03:06,
+INTECTECNOLOGIA$,INTECTECNOLOGIA$,1600-12-31 20:54:00-03:06,
+Daniel Sanches,daniel.sanches,2021-05-31 18:55:01.830429-03:00,
+COSMOS$,COSMOS$,1600-12-31 20:54:00-03:06,
+COSMOS_ALOG$,COSMOS_ALOG$,1600-12-31 20:54:00-03:06,
+Leandro Tolin,leandro.tolin.ps,2020-09-21 12:02:00.742111-03:00,
+OktaService,OktaService,2023-02-27 09:44:16.904892-03:00,
+Marcio Brinatti,marcio.brinatti,2023-04-20 07:43:26.089598-03:00,Infraestrutura
+Amanda Beserra dos Santos,amanda.bsantos,2023-05-29 11:00:27.492441-03:00,Compras
+Helio Riper,helio.riper,2022-11-03 09:32:04.889839-03:00,Compras
+Priscilla Goncalves Moreira,priscilla.moreira,2021-04-07 08:14:24.966120-03:00,Compras
+Barbara Guiroto Ramires da Silveira,barbara.silveira,2023-01-04 15:08:14.700092-03:00,Faturamento
+Phietro Enrico de Arruda Loures,phietro.loures,2023-07-17 14:24:44.481754-03:00,Auditoria de Fretes
+Vagner dos Santos de Almeida,vagner.almeida,2023-02-24 10:52:49.015179-03:00,Cpd
+Ana Claudia de Oliveira Reis,ana.reis,2022-02-14 09:12:06.244757-03:00,Marketing
+Daniele Mota Lincol,daniele.lincol,2023-07-06 08:27:50.275976-03:00,Comercial
+Eliane Regina da Costa Fernandes,eliane.fernandes,2022-07-26 16:51:40.540869-03:00,Adm
+Jasson Ricardo da Victoria Pereira,jasson.pereira,2023-06-23 08:42:53.428627-03:00,Opera��o
+Lucas Santos Reis,lucas.reis,2023-02-07 08:13:44.932060-03:00,Adm
+Luis Fernando Mendonca,luis.mendonca,2022-01-24 13:35:20.847710-03:00,Opera��o
+Marcos Roberto Papalarda,marcos.papalarda,2023-07-14 14:16:20.616566-03:00,Adm
+Ricardo Evandro Ordog,ricardo.ordog,2023-01-20 15:56:34.769655-03:00,Cpd
+Silvia Portapilla,silvia.portapilla,2022-12-07 09:56:39.087875-03:00,Comercial
+Paulo Henrique Batista,paulo.batista,2021-08-31 15:00:14.747046-03:00,Ti
+Carlos Eduardo Ferreira Barbosa,carlos.ebarbosa,2023-01-24 15:35:44.108408-03:00,Opera��o
+Hugo Luchiari Neto,hugo.luchiari,2021-06-17 09:26:23.825726-03:00,Opera��o
+Joao Seraphin,joao.seraphin,2022-07-02 16:37:47.462662-03:00,Opera��o
+Sandra Maria D D Luchiari Caixeta,sandra.caixeta,2022-09-19 10:07:22.653940-03:00,Farma
+Debora Libonato Sabino,debora.sabino,2023-01-30 13:05:37.218966-03:00,Adm
+Edvaldo Luis de Souza,edvaldo.souza,2022-09-22 12:36:00.671677-03:00,Distribui��o
+Eliane Norberto Costa Silva,eliane.silva,2023-02-24 10:04:01.861021-03:00,Adm
+Erika Aparecida de Oliveira,erika.oliveira,2023-02-14 08:54:08.858807-03:00,Adm
+Sergio Cristiano de Almeida,sergio.almeida,2022-09-28 16:06:27.815331-03:00,Adm
+Carlos Roberto da Cruz,carlos.cruz,2023-02-03 11:37:39.398678-03:00,Distribui��o
+Laert Aparecido Veronezi,laert.veronezi,2022-11-14 10:36:58.522970-03:00,Distribui��o
+Anderson Perpetuo Matturo,anderson.matturo,2022-12-21 16:28:09.737051-03:00,Farma
+Vinicius Diogo da Silva Fernandes,vinicius.fernandes,2022-08-01 10:22:54.231646-03:00,Coleta
+Claudinei Branquini,claudinei.branquini,1600-12-31 20:54:00-03:06,Distribui��o
+Ricardo Henrique Santos Pereira,ricardo.pereira,2021-09-02 17:17:14.616108-03:00,Adm
+Ailson Souza Bonifacio,ailson.bonifacio,2023-04-11 17:11:59.244036-03:00,Transfer�ncia
+Ana Marta Pontes Vasc Mend,ana.mendes,1600-12-31 20:54:00-03:06,Comercial
+Camila Cristiano Amaral,camila.amaral,2023-03-17 14:57:45.534925-03:00,Distribui��o
+Daniela Pereira Nunes Santos,daniela.santos,2023-04-20 16:15:00.449799-03:00,Distribui��o
+Gabriel Marcos Crisostomo,gabriel.crisostomo,2023-02-23 07:41:42.650537-03:00,Transfer�ncia
+Henrique Eduardo Alves Resende,henrique.resende,2023-07-11 11:23:36.931095-03:00,Distribui��o
+Isabel Cristina Rodrigues Oliveira,isabel.oliveira,2023-04-19 16:11:07.364262-03:00,Farma
+Raphael Rodolphe Ferreira Jove,raphael.jove,1600-12-31 20:54:00-03:06,Adm
+Sergio Santos Pimentel,sergio.pimentel,2023-02-15 14:30:59.585844-03:00,Distribui��o
+Sidinei Morais Santos,sidinei.santos,2023-03-01 16:58:59.387943-03:00,Transfer�ncia
+Weslley Geraldo da Silva,weslley.gsilva,2023-06-20 16:29:46.912645-03:00,Adm
+Sandro da Silva Seghetto,sandro.seghetto,1600-12-31 20:54:00-03:06,Adm
+Ana Paula de Freitas Melo,ana.pmelo,1600-12-31 20:54:00-03:06,Adm
+Ana Paula Silva de Melo,ana.melo,2022-11-24 16:29:19.134974-03:00,Acr
+Joceina Mara Florencio,joceina.florencio,2023-07-06 08:20:49.774799-03:00,Comercial
+Sergio Rafael Staricco Laventure,sergio.laventure,2021-03-19 08:34:55.170952-03:00,Coleta
+Sirlaine Almeida Farias,sirlaine.farias,2023-06-16 11:03:24.499826-03:00,Pend�ncia
+Tiago Loffi,105385,2023-02-15 15:32:14.364033-03:00,Conta Nominal
+Wellington Ancero Baldoino,wellington.baldoino,2023-06-23 12:02:34.035990-03:00,Adm
+Felipe Eduardo Martins Gauterio,felipe.gauterio,2023-02-24 08:06:24.209412-03:00,Comercial
+Andre Christakis,andre.christakis,2023-02-23 13:14:40.071180-03:00,Adm
+Cleiton Oliveira da Costa,cleiton.costa,2022-12-27 16:41:23.995779-03:00,Distribui��o
+David Danilo Fernandes,david.fernandes,1600-12-31 20:54:00-03:06,Adm
+Gilian Graziele Tomporoski,gilian.tomporoski,2021-08-08 10:47:30.813250-03:00,Farma
+Henrique Gregorio Camargo,henrique.camargo,2021-02-08 10:12:56.433453-03:00,Distribui��o
+Juslaini Rodrigues de Oliveira,juslaini.oliveira,2023-02-10 07:33:07.022551-03:00,Adm
+Matheus Pinheiro dos Santos,matheus.santos,2021-10-28 19:11:58.940552-03:00,Adm
+Silas dos Santos Toledo,silas.toledo,2023-07-25 10:13:57.844128-03:00,Adm
+Thatyane Fernandes Costa,thatyane.costa,2023-02-13 08:36:31.106497-03:00,Adm
+Edjane Dias Silva,edjane.silva,2023-02-24 09:21:04.873899-03:00,Dell
+Andressa Guimaraes Prochnau,andressa.prochnau,2021-07-01 14:17:22.253071-03:00,Adm
+Dacksani de Almeida Silva,dacksani.silva,1600-12-31 20:54:00-03:06,Comercial
+Elisiani Hoffmann,elisiani.hoffmann,2022-06-15 15:22:40.026768-03:00,Farma
+Giordani Medeiros Zanela,giordani.zanela,2021-12-29 09:17:02.688179-03:00,Acr
+Jaqueline Gregory,jaqueline.gregory,2022-11-01 09:43:06.609478-03:00,Comercial
+Maiquel Fabiano Cesar Cordova,maiquel.cordova,1600-12-31 20:54:00-03:06,Distribui��o
+Tiago Oliveira da Silva,tiago.osilva,2022-10-13 13:02:07.967665-03:00,Distribui��o
+Paulo Henrique Loiola Barros,paulo.barros,1600-12-31 20:54:00-03:06,Pend�ncia
+Adriano Jose Christie Helmer,adriano.helmer,2023-03-09 04:15:03.607370-03:00,Acr
+Brenda de Almeida Pereira,brenda.pereira,2023-04-05 07:07:10.813385-03:00,Coleta
+Gabriel Pelissari,gabriel.pelissari,2023-01-23 08:31:18.985929-03:00,Distribui��o
+Hercules Gomes Moreira,hercules.moreira,2023-02-23 08:36:55.937292-03:00,Coleta
+Karollainy Pereira de Oliveira,karollainy.oliveira,1600-12-31 20:54:00-03:06,Adm
+Maria Teresa Vieira de Andrade,maria.andrade,2023-04-08 21:49:57.433338-03:00,Farma
+Robson Muniz,robson.muniz,2023-01-02 17:26:28.403381-03:00,Transfer�ncia
+Thiago Santos de Oliveira,thiago.oliveira,2023-03-08 10:02:18.584295-03:00,Distribui��o
+Backup Historico TA,backup.ta,2022-08-29 11:32:19.645565-03:00,Infra
+Azamor da Silva e Souza Neto,azamor.souza,2022-12-19 09:47:47.069918-03:00,Distribui��o
+Hericson Hericson,hericson.lima,2023-02-24 16:33:28.164713-03:00,Adm
+Socorro Fatima Dutra Rodrigues,socorro.rodrigues,2022-11-16 09:10:12.044287-03:00,Adm
+Jackson Moura da Costa,jackson.costa,2023-02-24 23:36:59.991505-03:00,Transfer�ncia
+Klayre Nonata Rocha Gomes,klayre.gomes,2022-01-21 16:15:13.509365-03:00,Farma
+Raimundo Nonato Carvalho de Lima,raimundo.lima,2023-02-01 08:36:13.007151-03:00,Distribui��o
+Wallace Rangel Ribeiro Magalhaes,wallace.magalhaes,2023-01-20 21:02:17.198317-03:00,Adm
+Adriana Sousa Silva,adriana.silva,2023-02-23 09:29:07.198595-03:00,Torre de Controle
+Ana Regina de Goncalves Ribeiro,ana.rribeiro,2022-02-04 16:19:15.895048-03:00,Torre de Controle
+Arnaldo Viveiros de Carvalho,arnaldo.carvalho,1600-12-31 20:54:00-03:06,Comercial
+Brenda Pimentel Perez,brenda.perez,2023-03-23 11:19:19.666708-03:00,Torre de Controle
+Claudia Regina Conte,claudia.conte,2022-08-18 18:16:23.589203-03:00,Comercial
+David Mendes Cavalcante,david.cavalcante,2022-08-19 09:45:11.963488-03:00,Coleta
+Gustavo Henrique de Melo Rodrigues,gustavo.rodrigues,2021-03-18 09:48:34.298037-03:00,Torre de Controle
+Jose Francisco dos Santos Neto,jose.fsantos,2022-05-03 14:44:19.737139-03:00,Apple
+Luana Feitosa da Silva Souza,luana.souza,2023-02-03 10:23:24.542509-03:00,Torre de Controle
+Rosemeire Herrera,rosemeire.herrera,2022-10-21 08:51:22.364277-03:00,Torre de Controle
+Vinicius Eschezaro Leonardo,vinicius.leonardo,2021-09-28 10:25:44.016905-03:00,Torre de Controle
+Ana Maria Pereira Andrade Sousa,ana.sousa,2022-09-29 13:21:41.831587-03:00,Opera��o
+Jackson Pereira dos Santos,jackson.santos,1600-12-31 20:54:00-03:06,Opera��o
+Leonilda Jovelina Aguiar Oliveira,leonilda.oliveira,2022-10-14 10:48:07.221043-03:00,Farma
+Erika de Lima Silva Lago,erika.lago,2021-08-20 17:00:29.819513-03:00,Monsoy
+Samara Rodrigues dos Santos,samara.santos,1600-12-31 20:54:00-03:06,Monsoy
+Jose Soares Silva Neto,jose.ssilva,1600-12-31 20:54:00-03:06,Monsoy
+Andresa Lubieska Araujo,andresa.araujo,2022-06-15 12:30:19.798088-03:00,Opera��o
+Fernando Jo�o da Silva,fernando.jsilva,2023-01-19 08:42:17.037437-03:00,Opera��o
+Lilliane Patricia Silva Barros Santos,lilliane.santos,2022-06-07 15:26:15.267153-03:00,Rh
+Antonio Carlos Martins,antonio.martins,1600-12-31 20:54:00-03:06,Monsoy
+Bruna Aparecida Antualpa Venturato,bruna.venturato,1600-12-31 20:54:00-03:06,Controle e Inventario
+Douglas Mergulhao,douglas.mergulhao,2022-08-11 14:28:59.916945-03:00,Controle e Inventario
+Jaqueline Cristina Binotto Turjillio,jaqueline.turjillio,2021-09-09 09:43:35.953512-03:00,Adm
+Tatiane Bispo de Oliveira Balestra,tatiane.balestra,2021-02-16 09:41:58.914099-03:00,Monsoy
+Tatiane Campos Giordana,tatiane.giordana,2021-06-22 10:17:41.372652-03:00,The Lycra
+Daiane Vicente Laureano,daiane.laureano,2023-07-11 08:59:09.802187-03:00,Comercial
+Marcelo Gonzalez Borges,marcelo.borges,2023-01-06 10:15:43.832827-03:00,Comercial
+Melissa Kethylin Dias de Camargo,melissa.camargo,2023-01-23 08:45:43.663132-03:00,Comercial
+Dionatas de Sousa,dionatas.sousa,1600-12-31 20:54:00-03:06,Comprovantes
+Luis Guilherme Capeleti,luis.capeleti,2021-12-06 07:46:22.714548-03:00,Comprovantes
+Mateus Candiam Lima,mateus.lima,2023-01-10 08:59:14.405537-03:00,Comprovantes
+Rogerio Machado Oliveira,rogerio.oliveira,1600-12-31 20:54:00-03:06,Contabilidade
+Cristiane Marques Guimaraes,cristiane.guimaraes,1600-12-31 20:54:00-03:06,Contas e Receber
+Thais Carla da Silva Vilasboa,thais.vilasboa,2023-03-14 10:56:39.844732-03:00,Contas a Pagar
+Luciane Pascotti,luciane.pascotti,2023-02-20 09:25:32.136520-03:00,Fiscal
+Beatriz Jorenti Evangelista,beatriz.evangelista,1600-12-31 20:54:00-03:06,Juridico
+Bruno Rodrigo de Lima,bruno.lima,1600-12-31 20:54:00-03:06,Backoffice
+Crislaine Renata Ruano Neves,crislaine.neves,2023-06-19 16:39:09.891878-03:00,Backoffice
+Marcelo Barbosa Cardoso,marcelo.cardoso,2023-02-17 10:50:24.144169-03:00,Backoffice
+Ricardo da Silva Coltro,ricardo.coltro,2021-03-10 09:10:26.823402-03:00,Tat
+Alessandro Malaquias dos Santos,alessandro.santos.ps,2023-02-21 12:29:45.080553-03:00,Sistemas
+Angela Gratao,angela.gratao,2023-07-25 08:28:34.698986-03:00,Sistemas
+Artur Luis de Andrade,artur.andrade,2023-07-13 17:16:37.256716-03:00,Sistemas
+Francisco Carlos Goncalves Junior,francisco.goncalves,2023-07-17 14:33:53.847296-03:00,Sistemas
+Mirian Oliveira Penteado Pantaleao,mirian.pantaleao,2023-07-13 16:45:43.200357-03:00,Sistemas
+Paulo de Freitas Alves,paulo.alves,1600-12-31 20:54:00-03:06,Sistemas
+Reginaldo Orlando,reginaldo.orlando.ps,2023-02-17 16:29:47.481117-03:00,Sistemas
+Vagner Alves Leite,vagner.leite.ps,2023-02-24 08:15:40.928986-03:00,Sistemas
+Bruno Duarte Camilo da Conceicao,bruno.conceicao,1600-12-31 20:54:00-03:06,Seguran�a do Trabalho
+Ewerton Castro de Souza,ewerton.souza,2021-06-27 13:55:51.862999-03:00,Transfer�ncia
+Lucas de Oliveira Alves,lucas.alves,2023-03-17 11:54:44.729219-03:00,Adm
+Douglas Vinicius Bastos de Almeida,douglas.almeida,2022-12-28 16:07:17.023033-03:00,Manuten��o
+Filippe de Paula Rodrigues,filippe.rodrigues,2022-09-19 14:59:16.162518-03:00,Acr
+Franyer Jose Olmos Lozada,franyer.lozada,2023-04-06 13:45:55.134449-03:00,Adm
+Genivaldo Santos da Rocha,genivaldo.rocha,2023-06-21 07:04:48.997770-03:00,Coleta
+Jonas Silva de Freitas,jonas.freitas,2023-06-21 10:04:33.055193-03:00,Transfer�ncia
+Jose Marcelo Mandarino Saldanha,jose.saldanha,2022-12-23 13:37:33.685337-03:00,Transfer�ncia
+Juliana dos Santos Silva,juliana.silva,2022-09-09 12:09:23.059420-03:00,Adm
+Monica de Matos Bolognini dos Santos,monica.msantos,2023-05-26 16:16:10.761593-03:00,Adm
+Rudney da Silva,rudney.silva,2022-09-28 16:00:56.828625-03:00,Coleta
+Wellington Capella Aroucha,wellington.aroucha,2023-06-28 16:43:25.378559-03:00,Acr
+Antonio Evaldo Viana Silva,antonio.silva,2022-11-15 04:44:29.072424-03:00,Transfer�ncia
+Felipe de Jesus Santos,felipe.santos,2023-06-18 03:37:46.014006-03:00,Got
+Ulisses Francisco Marques,ulisses.marques,2023-02-22 07:38:26.266735-03:00,Adm
+Adauto Alves,adauto.alves,2023-03-22 17:11:37.596363-03:00,Got
+Aline da Silva,aline.silva,2023-01-04 19:07:22.165979-03:00,Comercial
+Alvaro Antonio dos Reis Garcia,alvaro.garcia,2023-04-11 11:07:38.728880-03:00,Dell
+Ana Paula Aparecida Leme Orsetti,paula.orsetti,2022-07-21 09:06:00.844051-03:00,Comercial
+Andrea Rodrigues Coutinho,andrea.coutinho,2022-07-18 08:21:28.213005-03:00,Coleta
+Arnaldo Jose Ferreira da Silva,arnaldo.silva,2021-10-28 11:49:03.323790-03:00,Manuten��o
+Bruna da Silva Barros,bruna.barros,2023-02-06 09:43:50.596865-03:00,Got
+Camila Oliveira Vieira,camila.vieira,2022-09-05 15:37:01.504923-03:00,Atendimento ao Cliente
+Claudemir Monteiro da Silva,claudemir.msilva,2023-01-11 06:47:57.816099-03:00,Distribui��o
+Cristian Joe Santana,cristian.santana,2022-10-20 08:08:21.804588-03:00,Cpd
+_disabled - Edilson Antonio Bertella - 0104,edilson.bertella,2021-04-01 15:53:32.109713-03:00,Adm
+Ezequiel Lima,ezequiel.lima,2023-02-16 10:12:50.341753-03:00,Distribui��o
+Flavio Bruschi,flavio.bruschi,2022-06-24 18:01:11.014744-03:00,Adm
+Gabriel Caetano Almeida,gabriel.almeida,2023-02-16 10:07:07.589077-03:00,Acr
+Gilberto Henrique Junior,gilberto.henrique,1600-12-31 20:54:00-03:06,Distribui��o
+Gilson de Paula Macedo do Carmo,gilson.carmo,1600-12-31 20:54:00-03:06,Dell
+Jose Augusto Martins Santos,jose.asantos,2023-04-25 09:16:00.124573-03:00,Dell
+Juari Sobrinho Batista,juari.batista,2023-02-09 07:34:09.334129-03:00,Cpd
+Keila Cristina da Silva,keila.silva,2023-04-12 13:35:47.432896-03:00,Administrativo
+Kelly Cristiani Maccari,kelly.maccari,2022-03-11 15:12:10.185356-03:00,Comercial
+Lennon de Almeida Elias,lennon.elias,2023-02-22 09:01:30.425793-03:00,Coleta
+Luis Henrique Bertuzzo,luis.bertuzzo,2023-02-22 06:08:25.257221-03:00,Cpd
+Michelle Cristina do Amaral,michelle.amaral,2023-02-17 16:12:37.634836-03:00,Adm
+Neiton Santos Pereira,028387,2023-02-23 13:02:15.706461-03:00,Conta Nominal
+Pamela Cristina Rodrigues Oliveira,pamela.oliveira,2021-12-14 07:32:12.066628-03:00,Rastreamento
+Ricardo Berni,ricardo.berni,2022-06-17 15:01:19.129499-03:00,Transfer�ncia
+Rodrigo dos Passos Loponi,rodrigo.loponi,1600-12-31 20:54:00-03:06,Transfer�ncia
+Samuel Caetano dos Santos,samuel.santos,1600-12-31 20:54:00-03:06,Transfer�ncia
+Silvia Lopes,silvia.lopes,2023-02-22 13:31:37.960039-03:00,Dppi
+Silvio Henrique Rossi,silvio.rossi,2023-02-03 19:50:36.535564-03:00,Cpd
+Vagner Eli Ferreira,vagner.ferreira,2022-12-22 02:22:23.369654-03:00,Got
+Valdessi de Amorim Coelho,valdessi.coelho,2022-08-18 15:11:39.225073-03:00,Adm
+Vanessa Torris Rodrigues,vanessa.rodrigues,2023-02-07 15:45:43.224220-03:00,Dppi
+Verinaldo de Sousa,verinaldo.sousa,2022-12-19 19:28:05.438051-03:00,Cpd
+Vinicius Alex de Nobre Ferreira,vinicius.nferreira,2023-02-23 15:06:57.726521-03:00,Dell
+Vitor Luis Goncalves da Silva,vitor.silva,2023-01-19 17:39:47.235107-03:00,Cpd
+Alexandre de Brito Alves,alexandre.alves,2023-02-22 07:41:01.033878-03:00,Coleta
+Allan Magalhaes Santos,allan.santos,2022-11-25 10:12:19.751629-03:00,Torre de Controle
+Alvina de Jesus,alvina.jesus,2023-02-09 16:59:48.867104-03:00,Agregados
+Ana Beatriz Camilo Souza,ana.souza,2021-08-02 12:42:47.797184-03:00,Comercial
+Barbara Legori de Oliveira,barbara.loliveira,2022-03-03 08:10:54.389194-03:00,Acr
+Carlos Eduardo Silva Sampaio,carlos.sampaio,1600-12-31 20:54:00-03:06,Adm
+Claudia Cristiane Gimenes,claudia.gimenes,2023-02-20 10:11:23.345207-03:00,Comercial
+Daniela Venerozo,daniela.venerozo,1600-12-31 20:54:00-03:06,Comercial
+Edivaldo de Almeida,edivaldo.almeida,2023-01-10 02:23:09.704102-03:00,Dell
+Edson Hideo Mizokami,edson.mizokami,2023-02-10 03:45:41.397999-03:00,Cpd
+Edwilson Matos de Almeida Afonso,edwilson.almeida,2021-12-14 10:31:54.281689-03:00,Adm
+Elias Nunes Araujo,elias.araujo,1600-12-31 20:54:00-03:06,Distribui��o
+Emilio Augusto Marcondes de Mattos,emilio.mattos,2021-07-01 16:46:36.714523-03:00,Seguran�a do Trabalho
+Evelyn Martins,evelyn.martins,2021-08-06 09:01:14.041677-03:00,Comercial
+Fabio Luiz Moreira da Silva,fabio.silva,2022-07-04 02:34:32.566816-03:00,Distribui��o
+Felipe Verissimo Barbosa,felipe.barbosa,1600-12-31 20:54:00-03:06,Transfer�ncia
+Fernando Stori Ferreira,fernando.ferreira,2023-02-27 15:59:57.431051-03:00,Coleta
+Gabriel Micheletti,gabriel.micheletti,2021-09-17 14:39:18.310865-03:00,Adm
+Giovanni Andrade,giovanni.andrade,2023-01-04 14:22:33.746630-03:00,Pendecia
+Jefferson Marcos Silva,jefferson.silva,1600-12-31 20:54:00-03:06,B2c
+Joao Emmanuel Barbosa da Silva,joao.silva,1600-12-31 20:54:00-03:06,Cpd
+Joao Henrique Pereira dos Santos,joao.santos,1600-12-31 20:54:00-03:06,Acr
+Joao Victor Galdino dos Anjos,joao.anjos,2021-12-08 16:25:09.358044-03:00,Torre de Controle
+Luciene Souza de Oliveira,luciene.oliveira,2022-08-17 14:15:50.478224-03:00,Acr
+Luis Miguel Santos,luis.msantos,2023-01-10 17:17:18.496881-03:00,Adm
+Maira Silva de Jesus,maira.jesus,2022-11-16 16:04:05.066879-03:00,Adm
+Miria Helena de Oliveira Gomes,miria.gomes,2021-12-17 10:10:19.819979-03:00,Acr
+Pablo Luan Dos Santos Silva,pablo.silva,2022-03-01 04:17:38.172726-03:00,Cpd
+Rafaela do Carmo Souza,rafaela.souza,2022-10-19 08:55:44.208834-03:00,Comercial
+Reginildo de Jesus Costa,reginildo.costa,2023-01-30 17:02:21.881699-03:00,Transfer�ncia
+Roberto Massatoshi Imada Takahashi,roberto.takahashi,2022-09-14 20:29:05.565239-03:00,Cpd
+Rogerio Rocha Teixeira,rogerio.teixeira,2021-09-14 19:19:35.327288-03:00,Transfer�ncia
+Salviano Vieira Neto,salviano.vieira,1600-12-31 20:54:00-03:06,Comercial
+Simone Aparecida B Almeida Ferreira,simone.ferreira,2022-11-18 13:37:25.476126-03:00,Coleta
+Thais Santos da Costa Ribeiro,thais.ribeiro,2023-02-24 13:10:27.025663-03:00,Cpd
+_disabled - Vagner Roberto Tavares Costa 0104,vagner.costa,2021-04-01 09:49:18.149529-03:00,Adm
+Vitoria Cristina Silva da Rocha,vitoria.rocha,2022-05-03 07:20:51.552572-03:00,Acr
+Vivian Mota Carvalho,vivian.carvalho,2023-06-15 10:04:54.127489-03:00,Acr
+_disabled - Wagner Cesar Mantoni - 0104,wagner.mantoni,2021-03-22 09:44:20.122156-03:00,Torre de Controle
+William Andrade de Sa,william.sa,1600-12-31 20:54:00-03:06,Coleta
+Yuri Alcantara,yuri.alcantara,2023-02-10 14:38:41.204048-03:00,Coleta
+Apu Comercial,apu.comercial,1600-12-31 20:54:00-03:06,Comercial
+Apu Filial,apu.filial,2021-08-17 11:24:43.250654-03:00,Filial
+Apu Gerencia,apu.gerencia,1600-12-31 20:54:00-03:06,Gerencia
+Bgu Filial,bgu.filial,2023-02-02 16:30:50.025591-03:00,Filial
+Bgu Gerencia,bgu.gerencia,2022-09-15 11:30:00.271587-03:00,Gerencia
+Bma Comercial,bma.comercial,2022-09-05 09:55:18.592714-03:00,Comercial
+Bma Filial,bma.filial,2022-09-05 09:53:47.494764-03:00,Filial
+Bma Gerencia,bma.gerencia,2022-09-04 18:34:37.347910-03:00,Gerencia
+Cac Comercial,cac.comercial,2022-09-05 09:56:45.390631-03:00,Comercial
+Cac Filial,cac.filial,2022-03-03 12:02:26.286892-03:00,Filial
+Cac Gerencia,cac.gerencia,2022-09-05 09:58:09.391426-03:00,Gerencia
+Ccm Filial,ccm.filial,2022-04-13 17:39:26.359943-03:00,Filial
+Ccm Gerencia,ccm.gerencia,1600-12-31 20:54:00-03:06,Gerencia
+Ccm Pendencia,ccm.pendencia,2022-04-25 09:25:45.431047-03:00,Pendencia
+Csu Comercial,csu.comercial,2022-09-05 10:06:23.855936-03:00,Comercial
+Csu Erefilial,csu.erefilial,1600-12-31 20:54:00-03:06,Erefilial
+Csu Filial,csu.filial,2022-09-05 10:02:39.992102-03:00,Filial
+Csu Gerencia,csu.gerencia,2022-09-05 10:07:56.379969-03:00,Gerencia
+Cxj Comercial,cxj.comercial,2022-09-05 11:24:56.004694-03:00,Comercial
+Cxj Filial,cxj.filial,2021-08-30 09:30:52.631611-03:00,Filial
+Cxj Gerencia,cxj.gerencia,2022-04-14 09:33:27.985003-03:00,Gerencia
+Cxj Tramontina,cxj.tramontina,2022-09-05 10:19:22.290819-03:00,Tramontina
+Diq Comercial,diq.comercial,2022-08-09 14:30:07.260439-03:00,Comercial
+Diq Filial,diq.filial,2022-10-06 14:41:42.298651-03:00,Filial
+Diq Gerencia,diq.gerencia,2021-08-10 18:18:46.055590-03:00,Gerencia
+Gvr Comercial,gvr.comercial,2022-09-05 11:27:24.927486-03:00,Comercial
+Gvr Filial,gvr.filial,2023-02-22 07:58:53.602030-03:00,Filial
+Gvr Gerencia,gvr.gerencia,2021-08-10 16:37:43.791048-03:00,Gerencia
+Ldb Adm,ldb.adm,2022-09-05 11:37:02.399664-03:00,Adm
+Ldb Filial,ldb.filial,2021-08-27 14:27:26.952873-03:00,Filial
+Ldb Gerencia,ldb.gerencia,2022-09-09 15:13:15.698034-03:00,Gerencia
+Mgf Comercial,mgf.comercial,2021-06-25 19:31:29.572138-03:00,Comercial
+Mgf Filial,mgf.filial,2021-07-27 10:32:48.872503-03:00,Filial
+Mgf Gerencia,mgf.gerencia,2021-06-25 16:24:38.487377-03:00,Gerencia
+Moc Comercial,moc.comercial,1600-12-31 20:54:00-03:06,Comercial
+Moc Filial,moc.filial,2022-11-24 12:57:25.708094-03:00,Filial
+Moc Gerencia,moc.gerencia,1600-12-31 20:54:00-03:06,Gerencia
+Nof Comercial,nof.comercial,2022-03-16 13:44:33.621902-03:00,Comercial
+Nof Filial,nof.filial,2023-02-16 14:37:27.259869-03:00,Filial
+Nof Gerencia,nof.gerencia,2022-08-23 13:55:24.042150-03:00,Gerencia
+Pge Filial,pge.filial,2021-04-14 08:35:14.940657-03:00,Filial
+Pge Gerencia,pge.gerencia,2021-06-11 09:54:21.391731-03:00,Gerencia
+Ppy Comercial,ppy.comercial,2022-10-04 13:58:12.811232-03:00,Comercial
+Ppy Filial,ppy.filial,2023-02-13 12:43:06.541651-03:00,Filial
+Ppy Gerencia,ppy.gerencia,2021-08-25 08:20:06.926893-03:00,Gerencia
+Sjk Comercial,sjk.comercial,1600-12-31 20:54:00-03:06,Comercial
+Sjk Filial,sjk.filial,2021-12-16 12:38:39.329462-03:00,Filial
+Sjk Gerencia,sjk.gerencia,1600-12-31 20:54:00-03:06,Gerencia
+Tfl Filial,tfl.filial,2023-02-22 08:12:37.980553-03:00,Filial
+Tfl Gerencia,tfl.gerencia,1600-12-31 20:54:00-03:06,Gerencia
+Udi Filial,udi.filial,2022-09-21 10:17:53.552080-03:00,Filial
+Udi Gerencia,udi.gerencia,1600-12-31 20:54:00-03:06,Gerencia
+Aline Aparecida Cavalari,aline.cavalari,2021-09-28 14:16:01.031481-03:00,Qualidade
+Jdf Comercial,jdf.comercial,2022-01-07 15:21:50.834166-03:00,Comercial
+Jdf Filial,jdf.filial,2021-09-24 11:06:20.899805-03:00,Filial
+Jdf Gerencia,jdf.gerencia,2021-09-10 16:31:15.413134-03:00,Gerencia
+Ademar Azevedo das Chagas Filho,ademar.chagas,2023-02-23 16:58:36.362286-03:00,Coleta
+Amr Portaria,amr.portaria,2023-02-24 19:52:04.899441-03:00,Portaria
+Amr Telefonista,amr.telefonista,2022-09-27 16:26:05.134966-03:00,Telefonista
+Bnu Portaria,bnu.portaria,2021-10-06 14:51:25.256516-03:00,Portaria
+Cpq Portaria,cpq.portaria,2022-12-20 16:55:17.934929-03:00,Portaria
+Cpq Dpaschoal,dpaschoal.cpq,2022-06-21 14:23:49.181547-03:00,Manuten��o
+Cwb Acr,cwb.acr,2022-12-29 11:37:06.243486-03:00,Acr
+Cwb Filial,cwb.filial,2023-01-03 15:31:59.279243-03:00,Adm
+Cwb Portaria,cwb.portaria,2022-09-05 10:14:30.028519-03:00,Portaria
+Edi Recebe,edi.recebe,2022-11-11 16:52:07.665335-03:00,Conta de Servi�os Arquivos Edi
+Emissao Protheusta,emissaoprotheusta,2021-01-28 09:40:50.677839-03:00,Conta de Servi�os Protheus
+Expedicaopa Itu,expedicaopa.itu,2021-09-09 13:40:08.572977-03:00,Starrett
+Falecom Ta,falecom,1600-12-31 20:54:00-03:06,Conta de Servi�os
+Lider Skymark,lider.skymark,2023-02-22 06:23:36.596151-03:00,Rastreamento
+Luiz Eduardo Marrey Moncau,luiz.moncau,2022-11-14 09:16:18.293701-03:00,Acr
+Nfe Armazena,nfe.armazena,1600-12-31 20:54:00-03:06,Conta de Servi�os Recebimento Nfs
+Nfe Ta,nfe.ta,2022-12-13 17:19:14.186008-03:00,Conta de Servi�os Recebimento Nfs
+Nfe Nfe,nfeta,1600-12-31 20:54:00-03:06,Conta de Servi�os Recebimento Nfs
+Poa Portaria,poa.portaria,2021-06-11 18:45:23.730503-03:00,Portaria
+Bhz Portaria,bhz.portaria,2022-10-26 19:18:22.456680-03:00,Portaria
+Sao Portaria,sao.portaria,2023-02-23 15:06:49.673923-03:00,Portaria
+Rao Acr,rao.acr,2022-06-06 09:44:10.046753-03:00,Acr
+Rao Coleta,rao.coleta,2023-02-20 16:50:57.569798-03:00,Coleta
+Rastread Rastread,rastread,2023-02-21 05:21:40.887024-03:00,Rastreamento
+Rio Portaria,rio.portaria,2021-08-27 07:16:08.604788-03:00,Portaria
+Ta Fresenius,ta.fresenius,1600-12-31 20:54:00-03:06,Conta de Servi�os Recebimento Nfs
+Ta Treinamento,ta.treinamento,2021-02-04 14:56:50.140047-03:00,Conta de Servi�os Treinamento
+Ta Ta,ta,1600-12-31 20:54:00-03:06,Conta de Servi�os
+Vix Portaria,vix.portaria,2022-06-23 09:32:20.335724-03:00,Portaria
+Teste ADFS,testeadfs,2021-01-14 14:44:31.492094-03:00,
+Romulo Durante - AD,romulo.durante.ps,2021-02-22 11:21:36.209095-03:00,
+SLDCDEPA-013677,SLDCDEPA-013677$,2022-03-01 12:22:33.469095-03:00,
+SLDCDECX-13183,SLDCDECX-13183$,2022-01-07 14:46:52.253679-03:00,
+Agostinho Alves De Oliveira,agostinho.oliveira,2021-08-02 15:58:01.437115-03:00,Comercial
+Fabiana Martins Lopes da Silva,fabiana.silva,2021-08-02 09:09:28.116671-03:00,Comercial
+Claudionor Alves Ribeiro,claudionor.ribeiro,2021-09-15 12:58:59.008936-03:00,Compras
+Caroline Aparecida Aguiar Lemos,caroline.lemos,2021-07-27 13:12:50.284769-03:00,Contabilidade
+Fabiana Angela Guedes,fabiana.guedes,2022-02-04 09:16:37.484854-03:00,Contabilidade
+Ant�nio do Prado Guimar�es,antonio.guimaraes,2021-07-23 12:14:02.759001-03:00,Contabilidade
+M�rcio Asnal Ribeiro,marcio.ribeiro,2021-09-14 14:01:03.376406-03:00,Comercial
+Marisa Azi Xavier,marisa.xavier,2021-09-12 13:23:51.095259-03:00,Custos
+Mayara Marcia de Lima,mayara.lima,2021-10-04 16:35:11.267000-03:00,Custos
+Viviane Gomes de Oliveira,viviane.oliveira,2021-09-23 14:02:22.093859-03:00,Custos
+Josiane Zulle Teixeira,josiane.teixeira,2022-11-08 09:19:52.480434-03:00,DP
+Camila Gon�alves Maia da Concei��o,camila.conceicao,2021-08-20 11:46:31.593672-03:00,DP
+Bruna Resende Mendon�a Xavier,bruna.xavier,2021-07-12 15:09:25.906796-03:00,DP
+Ana Paula de Moura Abreu,ana.abreu,2021-07-07 13:55:24.640228-03:00,RH
+Franck de Moura Teixeira,franck.teixeira,2021-08-31 09:20:41.861832-03:00,Custos
+Christiane Pimentel de Jesus,christiane.jesus,2021-07-30 08:58:23.619564-03:00,Cobran�a
+SLNCDEAD-18586,SLNCDEAD-18586$,2022-04-05 14:48:27.318060-03:00,
+SLNCDE2C-AB0173,SLNCDE2C-AB0173$,2022-01-31 11:30:16.645956-03:00,
+Larissa Rufino dos Santos Silva,larissarsilva,2021-08-05 15:26:39.838757-03:00,Cobran�a
+Mariana Pereira de Oliveira,mariana.oliveira,2021-08-05 14:03:39.558210-03:00,Cobran�a
+Mariluci Soares de Oliveira Ventura,mariluci.ventura,2021-07-13 11:04:53.777105-03:00,Cobran�a
+Monique Azi Xavier,monique.xavier,2021-08-20 09:18:37.584600-03:00,Cobran�a
+Nayara da Silva Dias,nayara.silva,2023-04-17 11:00:59.981613-03:00,Cobran�a
+Amanda Karolen Messias Lopes,amanda.lopes,2021-08-31 13:39:41.916317-03:00,Recepcao
+Henrique Sim�es Braga Souza,henrique.souza,2022-12-30 17:51:30.325111-03:00,Sistemas
+Thales Henrique Nogueira,thales.nogueira,2021-09-10 11:24:23.640005-03:00,Sistemas
+Wendel D Machado,wendel.machado,2021-07-23 19:19:34.640200-03:00,Custos
+Wilkson Domingos Ribeiro,wilkson.ribeiro,2021-10-02 13:45:06.032316-03:00,Superintendencia Operacional
+Erika Elaine de Amacena Guimaraes,erika.guimaraes,2021-08-10 09:57:38.221886-03:00,Fiscal
+Grazielle Santos Pessoa,grazielle.pessoa,2021-06-23 15:00:18.489429-03:00,RH
+Pamela Cristina Barbosa dos Santos,pamela.santos,2021-07-28 11:14:18.038822-03:00,Contas a Pagar
+SLDCDEOC-007155,SLDCDEOC-007155$,2023-07-07 17:10:05.756174-03:00,
+Pablo Alves,pablo.alves,2021-08-31 08:09:44.719105-03:00,Adm
+Renata dos Santos Caetano,renata.caetano,2021-11-22 13:34:37.002388-03:00,Comercial
+Denise Franciele Gomes de Sa,denise.sa,2022-03-02 15:43:28.442444-03:00,Adm
+Suzeli Cristina Rita de Almeida,suzeli.almeida,2021-07-16 11:23:44.382074-03:00,Comercial
+Alyne Jhully Rodrigues dos Santos,alyne.santos,2021-09-10 11:36:57.326296-03:00,Adm
+Arlington Marques de Castro e Silva,arlington.silva,2022-11-08 14:20:07.455740-03:00,Adm
+Julio Cesar da Silva,julio.csilva,2022-10-03 17:39:27.276896-03:00,Operacional
+SLDCDE2C-008850,SLDCDE2C-008850$,2023-05-05 10:00:48.830774-03:00,
+Leandro Henryque O F Santanna,leandro.santanna,2021-03-09 09:27:49.289232-03:00,Infraestrutura
+Luiz Andre Veloso Gross,luiz.gross,2023-02-16 09:34:45.876902-03:00,Adm
+Bruno Rodrigo Marques da Silva,bruno.msilva,2023-02-03 16:35:02.073668-03:00,Operacional
+Gustavo Benevenuto Barroso,gustavo.barroso,2021-08-10 10:49:19.646242-03:00,Comercial
+Juliana Ferreira Nunes,juliana.nunes,2021-07-21 06:06:04.460552-03:00,Adm
+Lorraine Cordeiro Zucolotto,lorraine.zucolotto,2021-06-09 12:05:00.048143-03:00,Adm
+Marcos Antonio de Carvalho Freitas,marcos.freitas,2022-12-12 07:58:53.490456-03:00,Adm
+Patricia da Cunha Dias,patricia.dias,2021-11-08 22:58:28.559376-03:00,Comercial
+Carlos Eduardo Cirilo Pereira,carlos.pereira,2022-02-17 12:24:35.244476-03:00,Operacional
+Elias Moreira dos Santos,elias.santos,2022-12-30 13:29:19.570591-03:00,Operacional
+OTRS,otrs,1600-12-31 20:54:00-03:06,
+Nubia Pereira Lima,nubia.lima,2022-02-28 06:56:05.999786-03:00,Operacional
+Patrick Sales Medeiros,patrick.medeiros,2023-01-03 07:23:41.123726-03:00,Operacional
+Willian Douglas Ferreira Martins,willian.martins,2023-06-18 22:58:11.220348-03:00,Operacional
+Daniela Aparecida De Andrade Silva,daniela.silva,2022-03-10 12:33:00.092289-03:00,Adm
+Eric Almeida Rodrigues,eric.rodrigues,2022-11-10 08:32:58.211470-03:00,Adm
+Marcelo Mantovani Geraldo da Silva,marcelo.gsilva,2021-09-09 16:47:30.455708-03:00,Desativado por solicita��o do chamado 000892602
+Adriano de Sousa In�cio,adriano.inacio,2022-02-02 08:52:48.082449-03:00,Operacional
+Jefferson Guimar�es,jefferson.guimaraes,2023-03-31 09:30:19.686338-03:00,Operacional
+Darlan da Silva Zirmermann,darlan.zimermann,2021-08-10 16:18:15.710928-03:00,Operacional
+Maria Luciane Costa,maria.costa,2023-04-19 09:49:32.164156-03:00,Adm
+Sandro Luiz De Oliveira,sandro.oliveira,2023-02-23 10:20:37.172342-03:00,Adm
+Fabiana Silva Rinco Carpanez Freitas,fabiana.freitas,2022-02-16 14:49:27.835238-03:00,Operacional
+Samara da Silva Dias,samara.dias,2021-08-09 11:57:14.538168-03:00,Operacional
+Cristiano Ferreira dos Santos,cristiano.santos,2021-06-28 10:19:57.651209-03:00,Operacional
+Poliana Avila Espindula,poliana.espindula,2022-02-11 16:57:12.010672-03:00,Adm
+Alessandra Maria do Nascimento,alessandra.nasciment,2022-09-29 08:56:39.644094-03:00,Operacional
+Alison Rony Chaves Magalhaes,alison.magalhaes,2021-06-22 12:59:58.227882-03:00,Operacional
+Ana Lucia de Souza Ramos,ana.ramos,2023-03-10 17:10:33.283895-03:00,Operacional
+Bruno Sebastiao Sousa dos Santos,bruno.ssantos,2022-03-16 07:08:06.296434-03:00,Pendencia
+Elaine Oliveira dos Santos da Costa,elaine.costa,2021-09-02 14:13:48.859676-03:00,Comercial
+Neiva Maia Nunes Carvalho,neiva.carvalho,2021-07-14 09:23:22.326942-03:00,Comercial
+Maria Das Gracas Pereira Fraga,109166,2023-07-05 14:57:33.758396-03:00,Comercial
+Mayara Lorraine do Nascimento,mayara.nascimento,2023-03-14 14:34:59.888094-03:00,Adm
+Roberto Pontes Filho,roberto.pontes,2022-02-12 20:04:56.538641-03:00,Operacional
+Sergio Neres Da Silva Ramos,sergio.ramos,2023-02-17 16:56:16.770168-03:00,Operacional
+Tiago dos Santos Romualdo,tiago.romualdo,2021-06-23 22:41:09.558401-03:00,Operacional
+Douglas Francisco Dias,douglas.dias,2022-12-23 13:31:43.947960-03:00,Operacional
+Elaine Cristina Silva Mota,elaine.smota,1600-12-31 20:54:00-03:06,Comercial
+Elaine Santos dos Reis,elaine.reis,2021-04-13 09:35:37.826532-03:00,Comercial
+Jessica Almeida Cangirana,jessica.cangirana,2021-09-30 11:51:40.475485-03:00,Comercial
+Silmara Vieira Souza de Jesus,silmara.jesus,2021-10-08 10:00:21.387745-03:00,Comercial
+Antonia Fernanda Zuza da Silva,antonia.silva,2021-08-06 16:37:00.075651-03:00,Adm
+Patricia de Cassia Figueiredo Buratto,patricia.buratto,2022-12-12 10:02:50.649570-03:00,Adm
+Marla Leticia Santos,marla.santos,2021-03-02 08:22:13.723694-03:00,Adm
+Washington de Sousa Frazao,washington.frazao,2022-10-26 10:34:57.769239-03:00,Operacional
+Washington Luiz Claudino,washington.claudino,2022-01-08 00:19:12.894466-03:00,Operacional
+Allan de Souza Alves Batista,allan.batista,1600-12-31 20:54:00-03:06,Compras
+Edilson Andrade Lopes,edilson.lopes,2022-01-19 08:09:34.638025-03:00,Operacional
+Rosangela da Silva Moura,rosangela.moura,2022-01-11 08:54:08.361938-03:00,Comercial
+Julio Cesar Haluch,julio.haluch,2023-03-15 08:13:13.319843-03:00,Comercial
+Renato da Fonseca Neves,renato.neves,2022-08-23 09:50:54.391975-03:00,Operacional
+Andrea Alves De Oliveira Souza,andrea.souza,1600-12-31 20:54:00-03:06,Dgi
+Carlos Eduardo Quintino Alvim,carlos.alvim,2021-07-13 08:36:27.048380-03:00,Dgi
+Frederico da Silva Ramos,frederico.ramos,2023-04-12 13:25:39.613785-03:00,Dgi
+Glaucia Mariane Lemos De Andrade,glaucia.andrade,2023-04-26 19:04:16.007086-03:00,Dgi
+Guilmara Los Angeles da Silva,guilmara.silva,2021-09-20 15:20:17.608812-03:00,Dgi
+Kellen Cristina De Andrade,kellen.andrade,2023-04-04 17:41:26.151447-03:00,Dgi
+Ivone Cristina Alves Botelho,ivone.botelho,2021-11-23 08:43:53.122913-03:00,Gest�o de Perdas
+Grasielle Marques,grasielle.marques,2022-01-04 12:54:42.150921-03:00,Controladoria
+Valteir do Carmo de Araujo,valteir.araujo,2021-07-19 18:22:18.479950-03:00,Sesmt
+Allan Douglas Morais Drumond,allan.drumond,2021-05-25 12:00:56.776743-03:00,Operacional
+Thaynara Orlando De Almeida Goncalves,thaynara.goncalves,2021-10-04 11:22:31.619928-03:00,Adm
+Osmar Altino de Queiroz,osmar.queiroz,2021-05-19 16:48:52.380829-03:00,Operacional
+Eliandra Silva De Oliveira,eliandra.oliveira,2021-10-04 14:18:27.990137-03:00,Operacional
+Clovis Roberto Reis Da Silva,clovis.silva,2022-03-15 12:49:13.279629-03:00,Operacional
+Bruna Gomes Pereira Silva,bruna.silva,2022-01-06 09:28:59.206509-03:00,Operacional
+Jorge Candido Carvalho,jorge.carvalho,2023-02-24 10:57:29.793694-03:00,Operacional
+Gisele Goncalves Geraldo,gisele.geraldo,2021-07-21 16:07:36.239386-03:00,Coleta
+Daniel Rodrigues Schulte,daniel.schulte,2022-08-08 08:41:57.126289-03:00,Transferencia
+Isabella Formenton Alonso,isabella.alonso,2022-08-24 16:00:01.029110-03:00,Adm
+Fernanda Luiza Mendes,fernanda.mendes,2021-07-27 09:31:05.877157-03:00,Dgi
+SLDCDECX-013569,SLDCDECX-013569$,2022-08-03 16:24:39.804720-03:00,
+SLDCDECX-013685,SLDCDECX-013685$,2023-03-03 17:03:37.837202-03:00,
+SLDCDECX-011615,SLDCDECX-011615$,2021-12-20 08:12:47.012836-03:00,
+SLDCDECX-002044,SLDCDECX-002044$,2022-04-07 09:01:13.689825-03:00,
+SLDCDECX-013570,SLDCDECX-013570$,2021-12-27 08:11:06.889278-03:00,
+SLACDECX-008070,SLACDECX-008070$,2022-08-17 08:15:30.862286-03:00,
+Esmeraldo Gomes De Oliveira Junior,esmeraldo.oliveira,2021-09-29 19:18:26.176832-03:00,Operacional
+Marco de Souza,marco.souza,2021-08-04 22:20:10.033689-03:00,Operacional
+Marilce de Oliveira Mello,marilce.mello,2021-10-05 14:43:04.158478-03:00,Operacional
+Aline do Carmo de Jesus,aline.jesus,2023-01-26 18:39:57.496004-03:00,Distribuicao filial
+Michael Henrique Periard de Oliveira,michael.oliveira,2021-11-27 01:42:40.564714-03:00,Operacional
+Rafael Dorazzio Pereira,rafael.dpereira,2022-09-14 10:57:41.869061-03:00,Fiscal
+Elias Alves da Silva Neto,elias.silva,2022-06-09 16:39:37.455080-03:00,Coleta
+Rayane Aparecida de Souza,rayane.souza,2021-09-06 08:05:23.487368-03:00,
+Lorellay Israel Pereira Silva,lorellay.silva,2023-06-19 09:13:06.753540-03:00,Operacional
+Aceite 1 Whirlpool,aceite1,1600-12-31 20:54:00-03:06,
+Aceite 2 Whirlpool,aceite2,1600-12-31 20:54:00-03:06,
+Nfe Direcional,nfe.direcional,1600-12-31 20:54:00-03:06,
+Nfs Direcional,nfs.direcional,1600-12-31 20:54:00-03:06,
+Rh Direcional,rh.direcional,2021-05-17 17:14:36.533209-03:00,
+Contabil Direcional,contabil.dir,1600-12-31 20:54:00-03:06,
+Carlos Antonio Carneiro Lopes,carlos.lopes,2021-11-16 15:55:23.708342-03:00,Diretoria
+Fale Conosco Direcional,faleconosco.direcion,1600-12-31 20:54:00-03:06,
+Website Direcional,website.direcional,1600-12-31 20:54:00-03:06,
+Intranet Direcional,intranet.direcional,1600-12-31 20:54:00-03:06,
+Eldimar Jose Gomes Vieira,eldimar.vieira,2021-06-25 13:44:24.279102-03:00,Adm
+Avair da Silva,avair.silva,2023-02-22 10:54:19.987452-03:00,Operacional
+Nicolas Fernando Assis Barbosa,nicolas.barbosa,2022-11-30 14:54:41.191813-03:00,Adm
+Reinaldo Martins Queiroz,reinaldo.queiroz,2021-08-13 13:12:38.817245-03:00,Operacional
+Kevin Brian Alves Costa,kevin.costa,2023-03-03 13:46:43.450848-03:00,Operacional
+Kimberlly do Nascimento Brasil,kimberlly.brasil,2021-06-10 09:51:04.115551-03:00,Comercial
+Jardel Marlon de Matos Pessoa,jardel.pessoa,2022-12-26 16:06:08.945776-03:00,Adm
+Angelica Angelica Rosa dos Santos,angelica.santos,2022-09-06 10:40:12.654827-03:00,Adm
+Tatiana Cristina de Souza,tatiana.souza,2022-11-08 08:09:27.352665-03:00,Adm
+Tauany Alves Salles de Oliveira,tauany.olilveira,1600-12-31 20:54:00-03:06,Adm
+Cleber Virginio Oliveira,cleber.oliveira,2021-08-10 12:59:30.759426-03:00,Operacional
+Deijair Goncalves Rezende,deijair.rezende,1600-12-31 20:54:00-03:06,Operacional
+Eduardo Brito da Silva,eduardo.bsilva,2021-07-27 13:17:32.264055-03:00,Operacional
+Everaldo Jose Braga,everaldo.braga,2022-11-14 12:13:39.488873-03:00,Operacional
+Jailson da Silva Santos,jailson.santos,2022-11-09 05:50:43.073503-03:00,Operacional
+Joel Pereira De Sousa,joel.psouza,2022-11-11 08:32:56.621389-03:00,Operacional
+Lucas de Oliveira Cardoso,lucas.cardoso,2022-11-28 06:54:17.322922-03:00,Operacional
+Caroline Stefani De Carvalho,caroline.carvalho,1600-12-31 20:54:00-03:06,Operacional
+Edvaldo Henrique Dias,edvaldo.dias,2023-03-20 07:47:03.576540-03:00,Operacional
+Emerson Portes Barra,emerson.barra,2023-01-11 10:30:56.103621-03:00,Operacional
+Lilian Carla de Oliveira Alves,lilian.alves,2021-09-13 13:39:48.430977-03:00,Comercial
+Luiz Gustavo Tomaz,luiz.tomaz,2023-02-23 10:48:34.442574-03:00,Operacional
+Vanderli Antonio de Souza,vanderli.souza,1600-12-31 20:54:00-03:06,Operacional
+Washington Luiz Latuque,washington.latuque,1600-12-31 20:54:00-03:06,Operacional
+Silvana Rodrigues De Morais,silvana.morais,2023-01-11 09:30:04.374722-03:00,Adm
+Luciana Inacio Azevedo dos Santos,luciana.santos.ps,2021-03-23 14:36:47.377165-03:00,
+Edinelson Edinelson Cassiano,edinelson.cassiano.p,2021-04-22 08:09:38.647469-03:00,
+Andre Manoel de Carvalho,andre.carvalho,2021-12-06 08:10:17.694908-03:00,Operacional
+Alexandre Dias Sanches,alexandre.sanches,2022-11-16 11:34:27.861341-03:00,Operacional
+Debora Soares Vieira,debora.vieira,2021-08-02 10:39:05.468050-03:00,Adm
+Pedro Rosa da Silva,pedro.silva.ps,2021-06-16 11:52:47.311268-03:00,Adm
+Suehelen Aguiar de Mello,suehelen.mello,2022-10-05 18:31:02.249624-03:00,Pendencia
+Helpdesk Direcional,helpdesk.direcional,1600-12-31 20:54:00-03:06,
+Edi Direcional,edi.direcional,1600-12-31 20:54:00-03:06,
+Marcus Vinicius Brites da Silva,marcus.bsilva,2021-05-06 06:44:29.913849-03:00,Coleta
+Xml Whirpool,xml.whirpool,1600-12-31 20:54:00-03:06,
+Pedro Henrique Argentino Lima,pedro.lima,2023-05-09 08:54:36.876587-03:00,Sales Planning
+Luiz Ant�nio Santana,luiz.santana.ps,2022-10-31 12:19:55.463875-03:00,
+Jhonatan Souza Dorea,026754,2021-08-06 11:00:13.265102-03:00,Farma
+Alexandro Antonio de Jesus,alexandro.jesus,2021-07-26 17:48:14.953413-03:00,Contas a Pagar
+Comercial OT,comercialot.ps,2021-04-06 09:20:36.934710-03:00,
+Franciele Maria do Carmo Figueiredo,franciele.figueiredo,2023-03-28 20:25:29.975714-03:00,Adm
+William Douglas Silva Dutra,william.dutra,2021-07-13 10:04:27.461052-03:00,Dgi
+Paulo Cesar Oliveira Bomgiovani,063283,2022-11-16 08:43:43.620481-03:00,Torre de Controle
+Jordana Rodeli Pereira da Silva,019589,2021-06-18 08:28:46.921730-03:00,Faturamento
+Rafael Carminatti,028171,2022-10-28 11:19:12.915392-03:00,Vendas
+Patricia Cristina Vieira,patricia.vieira,2021-05-31 09:05:57.574858-03:00,Adm
+Flaminia Naiara Nunes,flaminia.nunes,2021-07-15 08:35:32.178282-03:00,
+Elisangela Bernardes Morais de Sousa,elisangela.sousa,2021-08-24 08:24:52.621456-03:00,Adm
+Matheus Barbosa Lopes,matheus.lopes,2022-01-11 11:31:18.864614-03:00,Adm
+Flavia Candida de Almeida Oliveira,flavia.oliveira,2021-08-03 10:17:23.571411-03:00,Operacional
+Julia de Assis Siqueira,028047,2021-11-23 08:35:41.955690-03:00,Torre de Controle
+Jose Augusto Goncalves,024196,2022-12-07 09:24:51.665688-03:00,Dell
+Rafael Pereira Bottaco,028678,2021-09-03 09:14:45.635506-03:00,Seguran�a do Trabalho
+Jonatas da Silva,023209,2022-10-24 16:09:20.027794-03:00,Distribui��o
+Roberta Heloiza do Nascimento,028806,2021-10-26 12:09:11.791683-03:00,Apple
+Stephanie Machado Soares,081302,2022-10-19 13:30:16.585775-03:00,Adm
+Consultoria SC,consultoriasc.ps,2021-08-27 13:50:54.906595-03:00,Consultoria
+Gemima Isabela Moreira Santos,081308,2021-09-20 13:19:12.867203-03:00,Monsoy
+Backup Prime,_backup.prime,2022-07-05 21:54:35.071947-03:00,
+Tatiana Caldas Jacinto Costrov,tatiana.costrov,2021-07-05 08:11:10.064665-03:00,Operacional
+Paulo Henrique Souza Cavichio,016966,2023-02-24 19:28:49.816969-03:00,Got
+Elisa Lello Madureira,081321,2022-12-27 08:07:19.823748-03:00,Faturamento
+Hellen Souza Queiros,hellen.queirosad,2021-04-20 16:28:02.311199-03:00,
+Thiago Aleixo Ramos,019304,2023-02-24 14:56:32.004257-03:00,
+Milena Aparecida de Araujo Oliveira,017003,2021-12-29 15:09:42.899761-03:00,Acr
+Paulo Henrique Ferri,028863,2022-11-21 16:25:15.472290-03:00,Tat
+Miracelma Almeida Sena,miracelma.sena,2022-11-11 11:55:36.597616-03:00,Adm
+Danilo Verli de Almeida,danilo.almeida,2021-06-25 14:42:15.900915-03:00,Operacional
+Liliane Cristina dos Santos,liliane.csantos,2021-08-20 13:00:56.377352-03:00,Dgi
+Thiago Eneas Novais,014112,2021-04-16 16:31:30.357643-03:00,Distribui��o
+Gabriela Nair Belli,081337,2021-05-05 10:20:44.553076-03:00,Contas e Receber
+Murilo Salomao Tavares,028845,2023-06-26 10:53:19.631548-03:00,
+Alan de Oliveira Rodrigues,014009.ad,2022-01-07 09:06:05.818884-03:00,
+Armando Rodrigo de Abreu,016369,2022-12-07 13:12:05.024103-03:00,Coleta
+Alex Cardoso Zanetti,029333,2021-10-15 16:29:37.158600-03:00,Infraestrutura
+Marcos Vinicius Soares Machado,marcos.machado,2021-07-01 12:32:45.893347-03:00,Operacional
+Isabela Santos Cardoso,029030,2021-09-03 08:08:53.530781-03:00,Seguran�a do Trabalho
+Ana Kelly Quintela Carioca de Alcantara,029102,2021-12-24 10:17:00.327328-03:00,Adm
+Tiago Toigo,081339,2021-10-05 08:23:34.992954-03:00,Adm
+Beatriz Bezerra de Morais,029403,2023-02-23 07:45:59.585497-03:00,Acr
+disabled - Izaias da Silva Mota,029321,2021-05-31 10:22:42.682550-03:00,Seguran�a do Trabalho
+Jurandir Pereira Silqueira,029585,2021-10-04 07:57:58.950649-03:00,Adm
+Milton Carlos Perchak,029490,2021-08-23 09:32:02.459404-03:00,Adm
+Alex Nascimento Pereira,018779,2023-02-06 23:45:17.025129-03:00,Coleta
+Adrian Rodrigues Escolante,029401,2023-02-22 14:03:15.279812-03:00,
+Marinete Braz de Oliveira,marinete.oliveira,2022-02-24 17:25:08.261780-03:00,Adm
+Vinicio Shurman Moreira,029100,2021-08-26 16:50:04.685696-03:00,Henkel
+Kellen Cristine Franco,029625,2022-03-07 07:53:33.273144-03:00,Fiscal
+Cilma Viviane Costa dos Santos,029657,1600-12-31 20:54:00-03:06,Adm
+Keren Hapuque Cosme Machado,keren.machado,2022-12-29 15:58:25.810219-03:00,Adm
+Ionara Marcarini dos Santos,029704,2021-09-06 08:43:16.118137-03:00,Adm
+Mariana Alves Nascimento Queiroz,029083,2022-02-08 18:36:56.330402-03:00,Adm
+Rodrigo Assuncao Teodosio,029677,2022-11-28 11:50:23.526396-03:00,Comercial
+Vilson Souza Junior,029744,2022-09-06 16:51:32.050045-03:00,Adm
+Silvana Aparecida da Cunha Vieira,024416,1600-12-31 20:54:00-03:06,Honda
+Andre Concei��o Gomes,81362,2021-06-23 19:12:55.952770-03:00,Transfer�ncia
+Ubl Filial,ubl.filial,2023-02-22 18:23:12.154257-03:00,Filial
+Lorrany Quinalia,81364,2022-05-23 14:29:51.606844-03:00,Contas a Pagar
+Pa Dell,pa.dell,2023-02-01 16:24:01.594160-03:00,Dell
+Pa Honda Indaiatuba,pa.hondaind,2022-10-14 06:35:51.193905-03:00,Honda
+Jessica Elaine Oliveira Moraes,028292,2021-05-31 16:52:06.267130-03:00,Adm
+Jo�o Pedro Oliveira Morais,joao.morais,2021-11-16 14:09:04.093435-03:00,Adm
+DIABZTST-02880,DIABZTST-02880$,2022-05-18 20:05:42.910275-03:00,
+Jos� Corr�a Dias ADM,jose.dias.adm,2021-11-05 15:39:08.599174-03:00,Ti
+Paulo Henrique Batista ADM,paulo.batista.adm,2021-08-27 20:07:37.225782-03:00,TI
+DIDBZTGG-03823,DIDBZTGG-03823$,2023-06-28 12:32:56.843042-03:00,
+DIDBZTCM-03815,DIDBZTCM-03815$,2022-06-09 15:26:53.955194-03:00,
+Milena Marcela Frizoni,081366,2022-03-23 08:27:10.026014-03:00,Faturamento
+Sabrina Chrisostomo Santos Silva,029747,2022-03-16 10:41:46.848612-03:00,Aprendiz
+Rachel Mayara de Carvalho Bento,081369,2022-11-24 10:15:23.433508-03:00,Faturamento
+DIDBZTDG-08356,DIDBZTDG-08356$,2022-07-14 10:22:08.856010-03:00,
+DIDBZTDG-02062,DIDBZTDG-02062$,2022-02-16 16:41:41.519764-03:00,
+DIDBZTDG-00431,DIDBZTDG-00431$,2022-02-01 15:08:19.933504-03:00,
+DIDBZTDG-03245,DIDBZTDG-03245$,2023-04-13 14:27:11.906408-03:00,
+DIDBZTDG-02657,DIDBZTDG-02657$,2023-04-12 08:21:53.484831-03:00,
+DIDBZTDG-03685,DIDBZTDG-03685$,2022-09-23 17:14:52.782936-03:00,
+DIDBZTDG-03251,DIDBZTDG-03251$,2022-03-07 09:34:47.157923-03:00,
+DIDBZTCR-00374,DIDBZTCR-00374$,2022-09-14 08:03:44.588522-03:00,
+DIDBZTCR-03651,DIDBZTCR-03651$,2023-04-03 16:58:37.750799-03:00,
+DIDBZTDG-00213,DIDBZTDG-00213$,2023-06-09 11:41:45.317080-03:00,
+SLNBZTRH-014940,SLNBZTRH-014940$,2022-08-18 14:07:21.199955-03:00,
+DIDBZTEP-03829,DIDBZTEP-03829$,2022-12-27 15:11:33.562571-03:00,
+DIDBZTRC-02651,DIDBZTRC-02651$,2022-02-04 10:59:08.460142-03:00,
+Joi Filial,joi.filial,1600-12-31 20:54:00-03:06,Filial
+Fln Filial,fln.filial,1600-12-31 20:54:00-03:06,Filial
+Pfb Filial,pfb.filial,1600-12-31 20:54:00-03:06,Filial
+Far Filial,far.filial,1600-12-31 20:54:00-03:06,Filial
+Nsr Filial,nsr.filial,2021-07-14 08:28:16.034327-03:00,Filial
+Carlos Eduardo Santana Santos Lima,029814,2021-07-02 10:33:20.375221-03:00,Adm
+DIDBZTEP-00212,DIDBZTEP-00212$,2022-04-03 23:46:34.390051-03:00,
+DIDBZTCE-00270,DIDBZTCE-00270$,2023-04-03 11:45:01.929077-03:00,
+DINBZTGE-03680,DINBZTGE-03680$,2022-09-08 16:45:03.795103-03:00,
+Franciele Alves de Paula,franciele.paula,2021-07-27 15:31:21.099123-03:00,Operacional
+DIDBZT2B-00376,DIDBZT2B-00376$,2022-08-08 10:52:36.010958-03:00,
+DIDBZT2B-03446,DIDBZT2B-03446$,2023-02-13 09:29:28.669754-03:00,
+DIDBZTPN-00071,DIDBZTPN-00071$,2023-04-05 17:00:40.411480-03:00,
+Opera��o Totem Contagem,totem.bzt,2022-02-23 05:25:17.996361-03:00,Operacional - Totem
+DIDBZTOT-AL621,DIDBZTOT-AL621$,2022-10-17 16:29:20.997993-03:00,
+DIDRJOEP-03807,DIDRJOEP-03807$,2022-06-02 12:15:49.333832-03:00,
+DINRJOOP-3DJPT,DINRJOOP-3DJPT$,2022-06-22 10:29:09.650843-03:00,
+DIDRJOAD-010586,DIDRJOAD-010586$,2022-01-20 15:27:34.774065-03:00,
+Jose Pereira,Jos�.pereira,2021-08-31 18:07:06.897123-03:00,
+Lilian Alvarenga,lilian.alvarenga,2022-01-20 16:23:30.247196-03:00,
+DIDRJOGG-03846,DIDRJOGG-03846$,2022-05-20 10:23:18.468605-03:00,
+Leandro Silva - AD,PS848402.AD,2022-03-01 18:31:01.977329-03:00,
+DIDBZTOT-AL111,DIDBZTOT-AL111$,2022-02-26 10:26:24.924730-03:00,
+DIDRJOPN-03172,DIDRJOPN-03172$,2022-12-25 06:43:22.902872-03:00,
+DIDRJOAD-01492,DIDRJOAD-01492$,2023-06-23 16:30:56.442989-03:00,
+Daniel Sanches - AD,daniel.sanchesad,2023-01-20 13:32:00.382597-03:00,
+Giovana Bardocha de Moura,081371,2023-04-11 10:04:34.727711-03:00,Faturamento
+Bnu Plimor,bnu.plimor,1600-12-31 20:54:00-03:06,Plimor
+Cwb Plimor,cwb.plimor,2022-09-05 10:09:25.761021-03:00,Plimor
+Bau Plimor,bau.plimor,1600-12-31 20:54:00-03:06,Plimor
+Edmar Souza Amorim,PS397909.AD,2022-10-07 13:48:00.574970-03:00,
+DIDRJOOT-AL02,DIDRJOOT-AL02$,2022-07-04 22:39:20.337587-03:00,
+Totem Meriti,totem.rjo,2022-12-06 01:17:25.699780-03:00,
+DIDRJOAL-OT03,DIDRJOAL-OT03$,2022-12-10 09:29:54.613966-03:00,
+Coleta CWB,coleta.cwb,2021-06-11 16:06:40.492073-03:00,
+Carlos Andreasio Cardoso,PS994311.AD,2022-09-04 21:19:22.532299-03:00,
+Evandro Luis de Almeida Carvalhaes,PS217994.AD,2022-05-25 13:42:52.797874-03:00,
+Gabriel Dutra da Silva,PS911491.AD,2022-09-26 14:41:03.789930-03:00,
+Iessa Gabriela da Silva,iessa.silva,2021-10-19 07:56:55.836737-03:00,Adm
+Tamara Cristina de Freitas Correia,tamara.correia.ps,2021-07-29 08:29:44.963964-03:00,Fiscal
+Servico Trend Web Security,src_tmws,2021-06-15 17:59:13.557268-03:00,
+Servi�o NAC,src_nac,1600-12-31 20:54:00-03:06,
+Servi�o ADManager,src_admanager,1600-12-31 20:54:00-03:06,
+Servi�o PMP,src_pmp,2023-03-30 16:26:40.702082-03:00,
+Alexandre Bellomo,alexandre.bellomo.ps,1600-12-31 20:54:00-03:06,
+Ldb Plimor,ldb.plimor,2021-06-24 16:19:01.804384-03:00,Plimor
+Mgf Plimor,mgf.plimor,2021-07-02 08:40:09.039375-03:00,Plimor
+Nilzimara Fernandes Franca Goncalves,nilzimara.goncalves,2023-02-02 08:24:59.030796-03:00,Adm
+DIDBZTOP-04919,DIDBZTOP-04919$,2023-04-17 09:08:08.648018-03:00,
+DIDVIXEP-01031,DIDVIXEP-01031$,2023-04-06 08:03:08.935690-03:00,
+Kelvyn Brand�o dos Reis,kelvyn.reis,2021-11-04 20:44:35.419725-03:00,Operacional
+DIDVIXAD-03834,DIDVIXAD-03834$,2023-01-24 22:11:36.053896-03:00,
+DIDVIXPN-03241,DIDVIXPN-03241$,2023-07-07 06:04:55.132179-03:00,
+DIDVIXEP-00124,DIDVIXEP-00124$,2023-02-23 11:30:11.688000-03:00,
+DIDVIXOP-03830,DIDVIXOP-03830$,2022-01-26 02:03:57.502428-03:00,
+Karina Silva Ferreira,karina.ferreira,2022-11-04 16:13:51.883600-03:00,Adm
+DIDVIXPN-00028,DIDVIXPN-00028$,2022-11-09 07:53:41.683418-03:00,
+Elson Pinoti,081397,2023-01-02 17:56:10.575264-03:00,Adm
+DIDVIXAD-00042,DIDVIXAD-00042$,2022-05-09 15:29:28.830023-03:00,
+Totem Vix,totem.vix,1600-12-31 20:54:00-03:06,Operacional
+Spo Portaria,spo.portaria,2021-07-01 08:28:26.656977-03:00,Portaria
+DINVIXCM-03863,DINVIXCM-03863$,2023-04-04 00:30:30.078314-03:00,
+DIDVAGAD-03894,DIDVAGAD-03894$,2022-11-11 15:34:51.376415-03:00,
+Nara Campos de Souza,PS630796.AD,2021-10-13 10:36:01.181866-03:00,
+DIDSPOAD-03679,DIDSPOAD-03679$,2022-01-14 11:00:26.929865-03:00,
+Totem Gov. Valadares,totem.gov,2022-10-17 16:42:43.100996-03:00,
+Totem S�o Paulo,totem.spo,2021-09-24 14:46:17.755873-03:00,
+Joi Gerencia,joi.gerencia,1600-12-31 20:54:00-03:06,Gerencia
+Joi Expedicao,joi.expedicao,1600-12-31 20:54:00-03:06,Expedicao
+Fln Gerencia,fln.gerencia,1600-12-31 20:54:00-03:06,Gerencia
+Fln Expedicao,fln.expedicao,1600-12-31 20:54:00-03:06,Expedicao
+Pfb Gerencia,pfb.gerencia,1600-12-31 20:54:00-03:06,Gerencia
+Pfb Expedicao,pfb.expedicao,1600-12-31 20:54:00-03:06,Expedicao
+Far Gerencia,far.gerencia,2023-02-03 08:04:26.601408-03:00,Gerencia
+Far Expedicao,far.expedicao,2022-09-05 11:26:12.126310-03:00,Expedicao
+Hillary da Silva Tavares,030502,2023-06-21 14:20:21.001289-03:00,Adm
+Ubl Gerencia,ubl.gerencia,1600-12-31 20:54:00-03:06,Gerencia
+Ubl Expedicao,ubl.expedicao,1600-12-31 20:54:00-03:06,Expedicao
+DIDUBLOP-03866,DIDUBLOP-03866$,2023-03-30 15:37:31.727922-03:00,
+Rogerio Cancela Gon�alves,069858,2022-12-16 11:41:51.545055-03:00,Conta Nominal
+Thiago Wesley Catarino,thiago.catarino,2021-07-14 13:03:17.750908-03:00,Operacional
+Matheus Emanoel Nazareth Lopes,matheus.nazareth,2023-06-20 19:24:19.023769-03:00,Operacional
+DIDVAGAD-03869,DIDVAGAD-03869$,2022-11-04 18:03:36.278353-03:00,
+Jethro Corilov,PS954303,2021-08-03 16:53:25.177540-03:00,
+DINCWBGE-03864,DINCWBGE-03864$,2022-12-29 09:04:14.764774-03:00,
+DINSPOCM-02689,DINSPOCM-02689$,2022-11-03 10:06:31.171167-03:00,
+DINRJOOP-02865,DINRJOOP-02865$,2022-08-15 10:32:40.064665-03:00,
+Laura Diana do Nascimento,laura.nascimento,2023-05-09 19:47:26.264746-03:00,CCE
+DINMTZGE-03852,DINMTZGE-03852$,2022-10-18 12:15:20.080502-03:00,
+Luan Alves da Silva,luan.asilva,2021-10-05 22:12:50.598934-03:00,Operacional
+DIDUBLOP-03844,DIDUBLOP-03844$,2022-03-16 15:47:47.185225-03:00,
+DINRJOGE-02681,DINRJOGE-02681$,2022-02-16 16:08:03.358335-03:00,
+DESKTOP-NRLD44U,DESKTOP-NRLD44U$,2022-02-03 14:15:15.812696-03:00,
+DIDIPAAD-03335,DIDIPAAD-03335$,2022-09-05 14:39:46.290043-03:00,
+Henrique Fernandes de Oliveira,henrique.oliveira,2021-08-03 08:30:22.039076-03:00,Operacional
+Mariana Godoy Hsie,mariana.godoy,2021-12-01 20:48:14.235920-03:00,Comercial
+DIDBZTOP-29574,DIDBZTOP-29574$,2023-04-13 07:34:25.618248-03:00,
+DIDBZTAD-27708,DIDBZTAD-27708$,2023-07-07 09:31:13.662384-03:00,
+DINBZTTI-027062,DINBZTTI-027062$,2022-05-26 09:52:54.985434-03:00,
+DINBZTAD,DINBZTAD$,2022-05-19 10:42:26.342615-03:00,
+Kaio Henrique Dos Santos Barreto,kaio.barreto,2023-04-04 13:21:09.818796-03:00,Operacional
+ClusterHV,ClusterHV$,2022-04-28 14:42:28.607901-03:00,Failover cluster virtual network name account
+Eliovanderson Carlos de Paula,eliovanderson.paula,2023-04-10 16:29:40.302454-03:00,Operacional
+Erick Felipe Alves da Cruz,erick.cruz,2023-07-20 15:37:37.375818-03:00,CCE
+Felipe Rodrigues de Paula Costa,felipe.pcosta,2022-02-15 08:54:52.009357-03:00,CCE
+Max Junio Correia de Andrade,max.andrade,2022-08-12 18:11:50.051746-03:00,Operacional
+Samuel Lopes Souza,samuel.lsouza,2022-07-26 09:19:25.331604-03:00,Operacional
+DIDBZTEP-02755,DIDBZTEP-02755$,2023-06-22 16:30:19.448425-03:00,
+Leonardo Silva Motta Vilaca,PS947414.ad,2022-07-27 13:50:58.462458-03:00,
+Everton Teixeira Nolasco,everton.nolasco,2022-12-01 08:49:47.511688-03:00,Pendencia
+PRNBZTMN-04106,PRNBZTMN-04106$,2023-07-07 19:32:30.813990-03:00,
+Coleta,syscoleta,2022-05-19 12:29:01.928123-03:00,
+Consultor Qualidade PS,consultor.qualidade,1600-12-31 20:54:00-03:06,Qualidade
+DIDIPAAD-03212,DIDIPAAD-03212$,2022-10-31 09:33:31.241016-03:00,
+Ray Junio dos Santos Moreira,ray.moreira,2023-07-03 07:57:47.954678-03:00,Adm
+Jorge Luiz Rodrigues Alves,jorge.alves,2023-03-24 08:02:33.086185-03:00,Adm
+DINBZTPN-AL883,DINBZTPN-AL883$,2023-04-13 13:50:05.969875-03:00,
+DINBZTGE-3DJRL,DINBZTGE-3DJRL$,2022-04-12 18:40:10.021898-03:00,
+Alex Cardoso Zanetti AD,alex.zanetti.ad,2022-12-06 08:02:56.643950-03:00,Infraestrutura
+Veeam,veeam,2022-07-04 01:51:50.391617-03:00,
+DINBZTOP-AL107,DINBZTOP-AL107$,2023-07-19 12:39:23.763523-03:00,
+DINBZTEP-01489,DINBZTEP-01489$,2022-05-11 02:11:44.903711-03:00,
+Leonardo de Souza Gouveia,leonardo.gouveia,2021-11-23 03:16:58.662199-03:00,Tat
+Sjy Filial,sjy.filial,2022-11-21 15:08:03.846952-03:00,Filial
+Elizabeth Estela Vieira,84778,2022-11-01 14:16:02.241558-03:00,Conta Nominal
+Eduardo Oliveira Lima,82857,1600-12-31 20:54:00-03:06,Conta Nominal
+Beatriz Helena Silva Souza,beatriz.souza,2022-10-11 22:38:58.505104-03:00,Cpd
+Camila Chagas Pereira,080736,2022-08-23 10:50:15.650923-03:00,Conta Nominal
+Sueli Campelo do Carmo Barbato,085746,2022-06-10 20:32:12.947222-03:00,Administrativo
+Welliton Teixeira Rocha,68268,1600-12-31 20:54:00-03:06,Conta Nominal
+Sjy Comercial,sjy.comercial,1600-12-31 20:54:00-03:06,Comercial
+Sjy Gerencia,sjy.gerencia,2022-01-21 15:33:27.152800-03:00,Gerencia
+Rebecca Mura Vieira da SIlva,rebecca.silva,2023-03-02 09:15:16.398270-03:00,Distribui��o
+Elton John Santana Vieira,elton.vieira,2021-11-26 08:46:54.924999-03:00,Distribui��o
+DIDBZTEP-000214,DIDBZTEP-000214$,2022-01-10 10:28:15.027527-03:00,
+Fabio Gomes da Silva,88492,2022-12-28 08:30:31.077980-03:00,Conta Nominal
+DIDBZTDG-02745,DIDBZTDG-02745$,2022-08-02 08:04:15.921276-03:00,
+Julia Barbosa da SIlva,julia.bsilva,2023-06-22 07:47:17.416718-03:00,Coleta
+Nikolas de Souza Freitas,068332,2023-02-07 15:33:20.400778-03:00,Conta Nominal
+Patricia Pereira Resende Eufrasio,083259,2022-11-16 15:39:00.182476-03:00,Conta Nominal
+Diego Marques da Silva,2467,2022-11-11 16:06:31.619797-03:00,Conta Nominal
+DIDBZTOP-ALLT6,DIDBZTOP-ALLT6$,2023-05-17 15:36:33.070642-03:00,
+TANRJO2B-014859,TANRJO2B-014859$,2022-12-08 15:39:50.613558-03:00,
+Leticia Fernanda Soares,leticia.soares,2023-02-10 14:12:48.904573-03:00,Pendencia
+TANRJO2B-016143,TANRJO2B-016143$,2022-05-17 11:32:42.327549-03:00,
+TANRJO2B-015838,TANRJO2B-015838$,2022-05-27 12:37:42.349613-03:00,
+TADRJO2B-015576,TADRJO2B-015576$,2022-06-22 09:54:09.998814-03:00,
+Gustavo Henrique Moura Marques,068915,2021-12-08 11:55:35.196701-03:00,Conta Nominal
+TADRJO2B-015461,TADRJO2B-015461$,2022-11-04 15:09:33.445339-03:00,
+Flavia Ambrozio Silva,088500,2022-11-29 13:32:58.214745-03:00,Conta Nominal
+TANRJO2B-014884,TANRJO2B-014884$,2022-06-10 15:42:13.605089-03:00,
+TANRJO2B-015910,TANRJO2B-015910$,2022-06-20 18:40:49.238670-03:00,
+TADRJO2B-015738,TADRJO2B-015738$,2022-10-31 16:05:36.264511-03:00,
+TADRJO2B-015462,TADRJO2B-015462$,2022-03-29 09:03:30.086884-03:00,
+TANRJO2B-016144,TANRJO2B-016144$,2022-07-06 09:11:00.129425-03:00,
+SLNCDEGE-5HYF3,SLNCDEGE-5HYF3$,2022-04-04 18:50:33.748358-03:00,
+TADRJO2B-019005,TADRJO2B-019005$,2023-04-10 08:56:28.053040-03:00,
+Alessandra Socorro Portes Barra,009510,2022-02-04 11:25:39.866955-03:00,
+Alexandre Antonio da Silva,009842,2022-02-16 12:59:28.561106-03:00,
+Andrelma Ribeiro dos Santos,PR031913,2022-10-28 10:17:41.760748-03:00,
+Antoni Monarim,010707,2023-02-14 18:07:53.187216-03:00,
+Ari Monteiro da Costa,033169,2022-07-12 12:05:07.463276-03:00,
+Brunno Alex dos Santos Miranda,010820,2023-02-17 00:53:17.641321-03:00,
+Bruno Inoshita,PR031928,2022-05-16 09:42:11.176260-03:00,
+Clauberte da Silva Mendes,010194,1600-12-31 20:54:00-03:06,
+Demetrio Fernandes da Silva,010195,1600-12-31 20:54:00-03:06,
+Dimas da Silva Souza,009466,1600-12-31 20:54:00-03:06,
+Douglas Henrique de Almeida Costa,PR028105,2022-10-28 10:24:41.415176-03:00,
+Dylan Couto Caparroz,009917,1600-12-31 20:54:00-03:06,
+Edilson de Jesus Cruz,033055,2023-01-30 07:24:27.606642-03:00,
+Erick Francklin dos Santos,032573,2022-02-10 13:50:21.015894-03:00,
+Fabiana Rodrigues Juliatto,010166,2022-03-02 10:20:12.733135-03:00,
+Felipe Enedino de Lima,033045,2022-12-19 17:47:40.012302-03:00,
+Fernanda Kohlrausch da Silva,032937,2023-02-09 07:48:01.875750-03:00,Conta Nominal
+Flavia Rovessa,PR031873,2022-10-28 10:18:57.094900-03:00,
+Gabriel Araujo da Silva,031725,2022-10-28 10:09:33.594790-03:00,
+Gabriel Brisola Silva,PR031959,2022-10-28 10:11:24.696873-03:00,
+Geandro Juliano Siola,033171,2023-02-23 09:57:57.545341-03:00,
+Geilson Oliveira,032945,2022-05-30 16:21:19.283438-03:00,
+George Boeno Szymanski,027420,2022-11-22 10:32:14.271849-03:00,
+Gizele Rodrigues Santos Benedito,031923,2023-01-24 15:22:11.649038-03:00,Conta Nominal
+Guilherme Barbosa Dias,PR031491,2022-10-28 11:22:13.213955-03:00,
+Gustavo Luiz Ferreira de Souza,gustavo.fsouza.ps,2022-02-02 10:47:06.649790-03:00,
+Help desk,prime.help.desk,2022-02-17 15:23:19.802294-03:00,
+Iago Silva Martins,PR031754,2023-01-24 07:37:53.219053-03:00,
+Jessica Soares Souza Valente,010203,2022-12-05 13:40:22.946377-03:00,
+John Nascimento,john.nascimento.ps,2022-01-10 15:34:04.249575-03:00,
+Joubert Jeliel Batista,032624,2023-06-13 07:11:31.367292-03:00,
+Julia Emiliano da Silva Pires,032750,2022-02-07 16:28:22.123711-03:00,
+Jussiana Karina Candido Alves,028942,2022-12-23 11:03:44.973774-03:00,
+Kaio Marcilio da Silva Costa,027400,1600-12-31 20:54:00-03:06,
+Kaline Peixoto de Souza,033024,1600-12-31 20:54:00-03:06,
+Leanderson Thomas Batista de Lima,028938,2023-05-22 12:43:38.324488-03:00,
+Leonardo da Silva Sousa de Oliveira,033180,2022-11-21 11:07:40.759686-03:00,
+Lideres SP,prime.lideres.sp,2022-09-05 11:38:55.631519-03:00,
+Luis Gustavo Medanha,PR032032,2022-10-07 22:43:34.210451-03:00,
+Luiz Fernando Bertani,PR028814,2023-02-06 15:32:16.273840-03:00,
+Luiz Sergio Galkowski Junior,010522,1600-12-31 20:54:00-03:06,
+Marcos Vinicius de Almeida Pereira,PR032993,2023-02-22 14:52:32.261978-03:00,
+Marluce da Rosa Nunes Dreyer,marluce.dreyer.ps,2022-03-30 11:39:39.178583-03:00,
+Michel Viriato Ribeiro,010136,2023-02-20 10:25:39.919403-03:00,
+Natalia Rodrigues Moreira,009551,2023-01-25 11:12:52.465137-03:00,Conta Nominal
+Portaria Prime,prime.portaria,2022-10-07 23:18:09.005058-03:00,
+Power Bi,power.bi,2022-07-07 14:45:47.041712-03:00,
+Raquel Carvalho,raquel.carvalho.ps,1600-12-31 20:54:00-03:06,
+Reinaldo de Souza Muniz Junior,032572,2022-09-19 12:45:03.261980-03:00,
+Rodrigo Jean Oliveira,027425,1600-12-31 20:54:00-03:06,
+Washington Rodrigo Nascimento,010181,2023-02-07 14:06:55.155989-03:00,
+Welington Atalipio Ibiapino Borges,027397,2023-05-24 09:58:28.899271-03:00,
+Welliton Teixeira Rocha,032657,2023-02-18 09:32:29.277697-03:00,
+Almir Silva,almir.silva.ps,1600-12-31 20:54:00-03:06,
+Anadelma Almeida,033039,2023-03-06 08:19:22.970270-03:00,
+Angela Mara dos Anjos,027526,2023-02-20 11:06:01.849304-03:00,
+Angelica Conceicao Machado,031710,1600-12-31 20:54:00-03:06,
+Bruna Mayumi da Silva,010164,2022-08-18 16:58:07.039520-03:00,
+Denis Max Carvalho da Silva,009548,2022-11-07 08:25:47.141109-03:00,
+Gilmar Ribeiro,106120,2023-05-08 14:00:04.601553-03:00,
+Gustavo Andre da Veiga Metz,010283,2022-06-27 11:31:47.578108-03:00,
+Eder Junio Batalha,099786,2022-12-23 14:55:01.563042-03:00,Conta Nominal
+Marcia Pereira,009741,2023-06-19 13:49:07.488251-03:00,
+Marcio Camargo,marcio.camargo.ps,2022-08-15 17:18:30.853462-03:00,
+Suellen Boroski Rodrigues Leite,027385,2023-02-14 14:14:01.702724-03:00,
+Tatiane Cordeiro Gomes,010268,2022-01-25 09:19:25.642759-03:00,
+Thamires Pedro Martins,010135,2023-02-06 08:25:34.199167-03:00,
+Thayna Emanuelly Valle da Fonseca,027390,2023-01-12 08:26:29.964991-03:00,
+Wendel Costa,wendel.costa.ps,2022-12-03 06:27:45.039328-03:00,
+Mariele Kozkodai,010515,2022-09-15 13:19:48.543163-03:00,
+Jhonatas Tomaz dos Santos ave,084073,1600-12-31 20:54:00-03:06,Conta Nominal
+Priscila Emilia Rocha de Souz,062613,2023-02-23 17:52:39.023405-03:00,Conta Nominal
+Maria Luciete Siqueira Santos,088496,2022-02-25 15:31:26.492378-03:00,Conta Nominal
+Sabrina Ferreira de Oliveira,088909,2023-07-19 15:59:31.527294-03:00,Conta Nominal
+DINBZTOP-PM082,DINBZTOP-PM082$,2022-09-06 05:21:13.164047-03:00,
+Luiz Carlos dos Santos Junio,028954,2022-10-28 10:51:10.584522-03:00,Conta Nominal
+Livia de Souza Aguiar,08766,2023-04-20 08:51:20.119097-03:00,Conta Nominal
+Mateus Oliveira de Souza,0833696,2022-01-08 00:20:08.627628-03:00,Conta Nominal
+Jean Salu dos Santos,083925,2021-12-23 08:58:58.513758-03:00,Conta Nominal
+Ant�nio Luiz Bueno Ventura,080738,2021-12-23 14:00:24.886810-03:00,Conta Nominal

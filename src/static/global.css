@@ -1,0 +1,257 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #333333;
+  color: #c9c9c9;
+  font-family: "Saira", sans-serif;
+}
+
+.material-icons-outlined {
+  vertical-align: middle;
+  line-height: 1px;
+  font-size: 35px;
+}
+
+.grid-container {
+  grid-template-columns: 260px 1fr 1fr 1fr;
+  grid-template-rows: 0.2fr 3fr;
+  grid-template-areas:
+    "sidebar header header header"
+    "sidebar main main main";
+  height: 100vh;
+}
+.menu-icon {
+  display: none;
+}
+
+/* ---------- MAIN ---------- */
+
+.main-container {
+  grid-area: main;
+  padding: 20px 20px;
+  color: #333333;
+}
+
+.main-title {
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+}
+
+.card:first-child {
+  background-color: #c9c9c9;
+}
+
+.card:nth-child(2) {
+  background-color: #c9c9c9;
+}
+
+.card_afastamento:first-child {
+  background-color: #c9c9c9;
+}
+
+/* TODOS --------------------------------------------------------------  */
+#stilo {
+  margin-top: -60px;
+  margin-left: 120px;
+}
+#prolado {
+  margin-left: 25px;
+}
+#prolado-card {
+  margin-left: 70px;
+}
+#nome {
+  margin-left: 5px;
+  color: #d2fa00;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+}
+#labellado {
+  margin-left: 30px;
+}
+#btn_voltar {
+  text-decoration: none;
+  background-color: #d2fa00;
+  border-radius: 5px;
+}
+#lbl {
+  text-decoration: none;
+  color: #333333;
+}
+#lbl:hover {
+  text-decoration: none;
+  color: #333333;
+}
+#canto {
+  margin-left: 40px;
+  margin-top: 10px;
+  font-size: 27px;
+  color: #f00;
+}
+
+.tudo {
+  background-color: #333333;
+  display: flex;
+}
+
+#verdetalhes {
+  color: #d2fa00;
+  border-color: #c9c9c9;
+  text-decoration: none;
+  font-weight: bold;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border: 1px solid #d2fa00;
+  transition-duration: 0.4s;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+#verdetalhess {
+  color: #d2fa00;
+  border-color: #c9c9c9;
+  text-decoration: none;
+}
+#verdetalhess_all {
+  color: #d2fa00;
+  border-color: #c9c9c9;
+  text-decoration: none;
+  margin-left: 40px;
+}
+
+#verdetalhes:hover {
+  background-color: #5e45b8;
+  transition: 0.5s;
+  transform: scale(1.1);
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+#verdetalhes:hover {
+  background-color: #5e45b8;
+  transition: 0.5s;
+  transform: scale(1.1);
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+#name {
+  color: #c9c9c9;
+  font-size: 20px;
+  margin-top: 16.5px;
+  font-weight: bold;
+}
+
+.btn {
+  padding: 15px;
+}
+
+#dir {
+  margin-right: 120px;
+}
+
+#esq {
+  margin-left: 120px;
+}
+
+.logobtn {
+  color: #d2fa00;
+  margin: 5px;
+  font-weight: bold;
+  text-decoration: none;
+}
+/* ---------- MEDIA QUERIES ---------- */
+
+/* Float four columns side by side */
+.column {
+  float: left;
+  padding: 0 10px;
+}
+
+/* Remove extra left and right margins, due to padding */
+.row {
+  margin: 0 -5px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  clear: both;
+}
+
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+
+/* Style cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-color: #c9c9c9;
+  border-radius: 20px;
+  padding: 15px 32px;
+  text-decoration: none;
+  font-size: 16px;
+  margin-top: 5px;
+  margin-left: 70px;
+  width: 260px;
+  height: 200px;
+}
+.card-sequoia {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-color: #c9c9c9;
+  border-radius: 20px;
+  padding: 15px 32px;
+  text-decoration: none;
+  font-size: 16px;
+  margin-top: 6px;
+  margin-left: 20px;
+  width: 260px;
+  height: 200px;
+}
+
+/* Style Button Ver Detalhes */
+
+.button-all-verdetalhes {
+  background-color: #333333;
+  border-radius: 20px;
+  color: #d2fa00;
+  padding: 5px 6px;
+  text-decoration: none;
+  font-size: 16px;
+  margin-top: 20px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  font-weight: bold;
+  border: 1px solid #d2fa00;
+  transition-duration: 0.4s;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.button-all-verdetalhes:hover {
+  transform: scale(1.1);
+  transition: all 0.5s;
+  background: #5e45b8;
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+#linha {
+  margin-left: 90px;
+}
+#btn_executar {
+  margin-top: 400px;
+  margin-left: -500px;
+  color: #000;
+  border-color: #c9c9c9;
+  border-radius: 7px;
+  font-size: 20px;
+}
